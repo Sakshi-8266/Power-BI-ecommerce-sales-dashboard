@@ -1,0 +1,2001 @@
+Order_ID,Order_Date,Category,Product,Quantity,Price_per_Unit,Sales,Profit,Customer_State,Payment_Mode
+ORD00001,2023-04-13,Books,Novel,4,17974,71896,19201.11,Delhi,UPI
+ORD00002,2023-12-15,Clothing,Jeans,4,17858,71432,5570.26,Karnataka,Credit Card
+ORD00003,2023-09-28,Books,Comics,2,16201,32402,2616.23,Maharashtra,Net Banking
+ORD00004,2023-04-17,Beauty,Face Wash,1,481,481,28.78,Delhi,Credit Card
+ORD00005,2023-03-13,Clothing,Jeans,3,1258,3774,615.35,Delhi,Net Banking
+ORD00006,2023-07-08,Clothing,Sneakers,1,5378,5378,693.97,Rajasthan,Debit Card
+ORD00007,2023-01-21,Beauty,Hair Dryer,1,1429,1429,317.31,Tamil Nadu,Credit Card
+ORD00008,2023-04-13,Clothing,Dress,4,19324,77296,13138.33,Gujarat,UPI
+ORD00009,2023-05-02,Clothing,Jeans,3,16370,49110,2668.88,Gujarat,Credit Card
+ORD00010,2023-08-03,Electronics,Smartwatch,1,15598,15598,2553.16,Maharashtra,UPI
+ORD00011,2023-11-27,Home & Kitchen,Water Bottle,3,6770,20310,3497.62,Tamil Nadu,Credit Card
+ORD00012,2023-03-29,Books,Science Book,4,13805,55220,4688.89,Maharashtra,Cash on Delivery
+ORD00013,2023-04-10,Electronics,Tablet,4,5957,23828,3025.74,Tamil Nadu,Net Banking
+ORD00014,2023-12-26,Home & Kitchen,Water Bottle,4,2169,8676,871.62,Uttar Pradesh,Credit Card
+ORD00015,2023-06-01,Electronics,Laptop,3,10425,31275,3036.4,Tamil Nadu,Credit Card
+ORD00016,2023-05-11,Clothing,T-Shirt,3,10191,30573,2722.25,Rajasthan,UPI
+ORD00017,2023-05-30,Beauty,Lipstick,2,4812,9624,2799.01,Karnataka,UPI
+ORD00018,2023-11-05,Home & Kitchen,Cookware Set,3,15752,47256,12264.29,Tamil Nadu,Credit Card
+ORD00019,2023-09-15,Sports,Football,2,15704,31408,8094.45,Uttar Pradesh,Debit Card
+ORD00020,2023-12-10,Beauty,Moisturizer,3,12344,37032,2132.92,Tamil Nadu,Net Banking
+ORD00021,2023-10-21,Clothing,Jacket,4,4640,18560,4127.4,Delhi,Debit Card
+ORD00022,2023-07-11,Electronics,Headphones,1,3272,3272,340.02,Rajasthan,UPI
+ORD00023,2023-10-04,Electronics,Laptop,4,14165,56660,8412.09,Gujarat,Debit Card
+ORD00024,2023-06-10,Books,Science Book,1,12065,12065,1654.64,Rajasthan,Cash on Delivery
+ORD00025,2023-11-10,Clothing,Jacket,2,5305,10610,2135.14,Karnataka,Debit Card
+ORD00026,2023-01-22,Books,Comics,3,5904,17712,4722.19,Tamil Nadu,Net Banking
+ORD00027,2023-09-10,Beauty,Hair Dryer,1,13175,13175,3137.06,Rajasthan,UPI
+ORD00028,2023-08-24,Clothing,Jeans,1,19814,19814,4648.61,West Bengal,Credit Card
+ORD00029,2023-12-11,Electronics,Smartphone,4,15940,63760,15385.14,Karnataka,Debit Card
+ORD00030,2023-02-18,Books,Science Book,4,4314,17256,4347.85,Maharashtra,Cash on Delivery
+ORD00031,2023-02-28,Beauty,Hair Dryer,2,1200,2400,310.32,West Bengal,Net Banking
+ORD00032,2023-06-19,Home & Kitchen,Water Bottle,1,5650,5650,813.14,Delhi,Credit Card
+ORD00033,2023-07-07,Books,Comics,2,9213,18426,3911.26,Tamil Nadu,UPI
+ORD00034,2023-09-28,Electronics,Headphones,1,3926,3926,814.85,Rajasthan,Debit Card
+ORD00035,2023-07-09,Beauty,Face Wash,2,5006,10012,1910.89,Tamil Nadu,Net Banking
+ORD00036,2023-06-24,Clothing,Sneakers,3,3075,9225,1726.23,Maharashtra,UPI
+ORD00037,2023-02-20,Books,Comics,1,12792,12792,2384.71,Uttar Pradesh,Debit Card
+ORD00038,2023-12-30,Home & Kitchen,Cookware Set,3,14637,43911,2999.08,Delhi,Net Banking
+ORD00039,2023-02-24,Home & Kitchen,Air Fryer,3,11407,34221,7427.78,Delhi,Credit Card
+ORD00040,2023-09-01,Home & Kitchen,Vacuum Cleaner,2,3189,6378,1116.86,Uttar Pradesh,Credit Card
+ORD00041,2023-11-16,Clothing,Sneakers,1,6671,6671,1199.25,Maharashtra,Credit Card
+ORD00042,2023-05-11,Books,Science Book,2,1377,2754,212.69,Maharashtra,Net Banking
+ORD00043,2023-11-03,Clothing,Jeans,1,16553,16553,3006.95,West Bengal,Net Banking
+ORD00044,2023-05-15,Clothing,Jacket,3,11763,35289,5969.98,Rajasthan,Debit Card
+ORD00045,2023-01-21,Sports,Football,3,16373,49119,11274.32,Tamil Nadu,Cash on Delivery
+ORD00046,2023-11-25,Books,Biography,3,6770,20310,1108.08,West Bengal,Net Banking
+ORD00047,2023-06-16,Beauty,Face Wash,3,9406,28218,7736.77,Uttar Pradesh,Debit Card
+ORD00048,2023-10-01,Electronics,Headphones,1,6742,6742,747.49,Delhi,Net Banking
+ORD00049,2023-03-30,Sports,Football,3,4346,13038,848.34,Uttar Pradesh,Credit Card
+ORD00050,2023-11-12,Electronics,Smartphone,1,16724,16724,2306.33,Uttar Pradesh,Credit Card
+ORD00051,2023-01-14,Electronics,Headphones,2,13845,27690,4747.95,Maharashtra,Net Banking
+ORD00052,2023-08-30,Clothing,Jacket,4,3810,15240,4303.8,West Bengal,Debit Card
+ORD00053,2023-09-22,Sports,Football,4,16689,66756,13523.66,West Bengal,Debit Card
+ORD00054,2023-12-12,Beauty,Moisturizer,2,12489,24978,2951.3,Uttar Pradesh,Credit Card
+ORD00055,2023-02-22,Electronics,Smartwatch,4,2337,9348,752.25,Gujarat,Cash on Delivery
+ORD00056,2023-12-06,Beauty,Moisturizer,3,1486,4458,982.01,Delhi,Credit Card
+ORD00057,2023-04-02,Electronics,Smartwatch,2,7252,14504,1394.51,Gujarat,Credit Card
+ORD00058,2023-09-21,Clothing,Jeans,3,18943,56829,14113.59,Uttar Pradesh,Net Banking
+ORD00059,2023-02-04,Beauty,Perfume,1,6641,6641,1855.75,Rajasthan,Debit Card
+ORD00060,2023-07-25,Home & Kitchen,Air Fryer,4,9867,39468,2832.21,Uttar Pradesh,Credit Card
+ORD00061,2023-03-22,Beauty,Hair Dryer,2,9800,19600,2810.2,Maharashtra,Credit Card
+ORD00062,2023-02-19,Books,Comics,1,13873,13873,1083.15,Delhi,Credit Card
+ORD00063,2023-12-26,Clothing,Jeans,1,15422,15422,3230.85,Rajasthan,Cash on Delivery
+ORD00064,2023-01-02,Beauty,Perfume,1,9635,9635,1031.14,Rajasthan,Credit Card
+ORD00065,2023-02-23,Clothing,Dress,1,16593,16593,1554.65,Delhi,Cash on Delivery
+ORD00066,2023-04-16,Home & Kitchen,Air Fryer,1,10052,10052,2779.1,Tamil Nadu,Cash on Delivery
+ORD00067,2023-09-17,Books,Comics,4,17656,70624,7713.39,West Bengal,Debit Card
+ORD00068,2023-11-06,Clothing,Jacket,1,12537,12537,2920.99,Uttar Pradesh,Credit Card
+ORD00069,2023-07-10,Sports,Cycling Helmet,4,7427,29708,6472.07,Delhi,UPI
+ORD00070,2023-08-06,Electronics,Smartphone,1,345,345,83.37,West Bengal,Net Banking
+ORD00071,2023-02-13,Sports,Football,2,3240,6480,1010.79,Delhi,Net Banking
+ORD00072,2023-06-11,Electronics,Laptop,1,17066,17066,4562.0,Maharashtra,Net Banking
+ORD00073,2023-07-21,Electronics,Laptop,1,17214,17214,3164.61,Rajasthan,Credit Card
+ORD00074,2023-09-27,Sports,Football,2,11895,23790,3046.74,Delhi,Net Banking
+ORD00075,2023-12-17,Electronics,Smartwatch,3,1187,3561,361.61,Gujarat,UPI
+ORD00076,2023-10-31,Clothing,Jacket,3,9360,28080,4148.16,Uttar Pradesh,UPI
+ORD00077,2023-09-28,Beauty,Perfume,1,7621,7621,651.17,Tamil Nadu,Cash on Delivery
+ORD00078,2023-08-03,Home & Kitchen,Mixer,4,14314,57256,11408.93,Delhi,Cash on Delivery
+ORD00079,2023-09-09,Sports,Cycling Helmet,2,11743,23486,1928.17,Maharashtra,Credit Card
+ORD00080,2023-07-09,Sports,Football,3,5899,17697,4089.51,Tamil Nadu,Debit Card
+ORD00081,2023-10-23,Home & Kitchen,Mixer,2,6964,13928,972.94,Uttar Pradesh,UPI
+ORD00082,2023-08-01,Home & Kitchen,Cookware Set,4,14252,57008,15594.41,West Bengal,Net Banking
+ORD00083,2023-07-27,Books,Biography,3,16656,49968,6537.96,Delhi,Net Banking
+ORD00084,2023-08-25,Home & Kitchen,Mixer,3,5389,16167,2243.16,Karnataka,UPI
+ORD00085,2023-12-04,Electronics,Smartphone,4,18388,73552,13222.07,Karnataka,UPI
+ORD00086,2023-02-22,Home & Kitchen,Water Bottle,2,5251,10502,2626.44,Uttar Pradesh,UPI
+ORD00087,2023-10-07,Clothing,Jacket,3,4455,13365,2472.56,West Bengal,UPI
+ORD00088,2023-08-05,Electronics,Smartphone,2,1935,3870,823.22,Rajasthan,UPI
+ORD00089,2023-09-09,Electronics,Smartphone,2,8179,16358,2144.26,Gujarat,Debit Card
+ORD00090,2023-07-07,Books,Biography,3,8733,26199,5694.92,Karnataka,Cash on Delivery
+ORD00091,2023-02-10,Sports,Dumbbells,3,19401,58203,8191.26,Delhi,Credit Card
+ORD00092,2023-06-06,Electronics,Laptop,3,9886,29658,4932.17,Delhi,UPI
+ORD00093,2023-01-15,Sports,Cycling Helmet,4,861,3444,656.34,Karnataka,Cash on Delivery
+ORD00094,2023-10-28,Clothing,T-Shirt,4,14988,59952,5625.04,Tamil Nadu,UPI
+ORD00095,2023-03-06,Electronics,Headphones,3,3574,10722,1074.7,Uttar Pradesh,Debit Card
+ORD00096,2023-12-11,Books,Novel,4,2865,11460,849.98,Gujarat,Net Banking
+ORD00097,2023-11-23,Beauty,Hair Dryer,1,3283,3283,449.42,Karnataka,Debit Card
+ORD00098,2023-01-09,Clothing,Jeans,4,7323,29292,4942.19,Rajasthan,Credit Card
+ORD00099,2023-12-10,Clothing,Jacket,2,436,872,69.72,Rajasthan,Debit Card
+ORD00100,2023-05-09,Home & Kitchen,Cookware Set,3,15663,46989,2584.7,Maharashtra,Cash on Delivery
+ORD00101,2023-05-16,Electronics,Smartwatch,4,8755,35020,3884.21,Uttar Pradesh,Debit Card
+ORD00102,2023-03-04,Beauty,Lipstick,2,348,696,50.97,Tamil Nadu,Debit Card
+ORD00103,2023-05-19,Clothing,T-Shirt,2,5095,10190,834.85,Uttar Pradesh,Cash on Delivery
+ORD00104,2023-03-22,Home & Kitchen,Vacuum Cleaner,4,10899,43596,10703.12,Maharashtra,UPI
+ORD00105,2023-06-12,Home & Kitchen,Water Bottle,2,16363,32726,4116.34,Rajasthan,Net Banking
+ORD00106,2023-10-16,Home & Kitchen,Mixer,2,18992,37984,2731.46,Maharashtra,UPI
+ORD00107,2023-09-18,Clothing,Sneakers,3,15296,45888,8647.62,Tamil Nadu,Credit Card
+ORD00108,2023-08-19,Electronics,Tablet,3,5499,16497,1978.42,Rajasthan,UPI
+ORD00109,2023-02-10,Books,Biography,2,3467,6934,1860.63,Rajasthan,Net Banking
+ORD00110,2023-01-28,Sports,Cricket Bat,2,18026,36052,8889.31,Rajasthan,Net Banking
+ORD00111,2023-05-15,Clothing,Jacket,3,4637,13911,2665.96,Delhi,Cash on Delivery
+ORD00112,2023-07-20,Electronics,Tablet,4,4307,17228,4869.47,Uttar Pradesh,UPI
+ORD00113,2023-11-24,Beauty,Face Wash,2,2026,4052,885.67,Gujarat,Net Banking
+ORD00114,2023-09-25,Home & Kitchen,Mixer,2,7829,15658,3937.69,Tamil Nadu,Net Banking
+ORD00115,2023-02-02,Home & Kitchen,Air Fryer,4,7893,31572,2217.3,Gujarat,Cash on Delivery
+ORD00116,2023-02-17,Books,Biography,1,6921,6921,612.15,Karnataka,Debit Card
+ORD00117,2023-03-03,Beauty,Moisturizer,3,7573,22719,6677.17,Karnataka,Net Banking
+ORD00118,2023-08-04,Sports,Yoga Mat,4,5856,23424,4539.36,Rajasthan,Net Banking
+ORD00119,2023-10-20,Electronics,Headphones,1,8486,8486,1457.6,Tamil Nadu,Debit Card
+ORD00120,2023-04-09,Beauty,Hair Dryer,2,5117,10234,2633.55,Gujarat,Cash on Delivery
+ORD00121,2023-06-21,Beauty,Moisturizer,4,11338,45352,13070.42,Uttar Pradesh,Net Banking
+ORD00122,2023-12-26,Beauty,Perfume,2,17632,35264,7637.36,Maharashtra,UPI
+ORD00123,2023-08-02,Sports,Cycling Helmet,2,15951,31902,5409.26,Gujarat,Credit Card
+ORD00124,2023-02-04,Clothing,Jacket,4,17120,68480,7405.28,Uttar Pradesh,Debit Card
+ORD00125,2023-08-15,Clothing,T-Shirt,1,8167,8167,657.52,Delhi,Debit Card
+ORD00126,2023-04-11,Beauty,Hair Dryer,4,12116,48464,13769.22,Maharashtra,Cash on Delivery
+ORD00127,2023-05-11,Beauty,Hair Dryer,4,19620,78480,5997.14,Uttar Pradesh,Cash on Delivery
+ORD00128,2023-09-14,Beauty,Moisturizer,2,19303,38606,4015.39,Uttar Pradesh,Debit Card
+ORD00129,2023-01-05,Books,Novel,2,5379,10758,1519.02,Maharashtra,Cash on Delivery
+ORD00130,2023-08-06,Clothing,Jeans,3,7354,22062,4216.27,West Bengal,Credit Card
+ORD00131,2023-09-12,Sports,Football,2,6688,13376,863.3,Maharashtra,Cash on Delivery
+ORD00132,2023-12-25,Clothing,Dress,3,17273,51819,3339.48,Gujarat,Cash on Delivery
+ORD00133,2023-10-10,Sports,Cycling Helmet,4,5278,21112,2317.99,Rajasthan,Net Banking
+ORD00134,2023-07-26,Beauty,Perfume,3,5648,16944,4162.7,West Bengal,Cash on Delivery
+ORD00135,2023-01-15,Home & Kitchen,Cookware Set,2,9274,18548,1751.7,Tamil Nadu,Net Banking
+ORD00136,2023-12-12,Beauty,Perfume,4,9000,36000,6384.8,Tamil Nadu,Cash on Delivery
+ORD00137,2023-02-11,Electronics,Headphones,3,10540,31620,6444.31,Uttar Pradesh,UPI
+ORD00138,2023-06-28,Home & Kitchen,Vacuum Cleaner,4,3492,13968,2877.04,Maharashtra,Debit Card
+ORD00139,2023-03-04,Clothing,Jeans,4,4717,18868,2953.24,Rajasthan,Debit Card
+ORD00140,2023-12-18,Books,Exam Guide,3,9900,29700,8068.04,Maharashtra,Cash on Delivery
+ORD00141,2023-08-19,Beauty,Lipstick,2,967,1934,190.8,West Bengal,Cash on Delivery
+ORD00142,2023-08-29,Electronics,Laptop,3,1749,5247,494.38,Rajasthan,Cash on Delivery
+ORD00143,2023-02-21,Sports,Cricket Bat,1,11037,11037,3211.28,Rajasthan,Cash on Delivery
+ORD00144,2023-04-06,Electronics,Headphones,3,4681,14043,1171.9,Tamil Nadu,Cash on Delivery
+ORD00145,2023-08-10,Beauty,Hair Dryer,1,18877,18877,4673.65,Uttar Pradesh,Cash on Delivery
+ORD00146,2023-08-19,Clothing,Jacket,1,8193,8193,798.19,Rajasthan,Cash on Delivery
+ORD00147,2023-08-25,Electronics,Smartwatch,1,15028,15028,4417.76,Gujarat,Cash on Delivery
+ORD00148,2023-05-23,Books,Exam Guide,2,14508,29016,8411.57,West Bengal,Debit Card
+ORD00149,2023-06-20,Sports,Cycling Helmet,4,8856,35424,2743.02,Delhi,Cash on Delivery
+ORD00150,2023-01-29,Sports,Cycling Helmet,4,10834,43336,7089.52,Delhi,Credit Card
+ORD00151,2023-02-05,Books,Science Book,4,10949,43796,3832.68,Karnataka,Cash on Delivery
+ORD00152,2023-01-13,Clothing,T-Shirt,4,4919,19676,4610.86,Tamil Nadu,Cash on Delivery
+ORD00153,2023-06-09,Home & Kitchen,Cookware Set,4,7594,30376,4373.3,West Bengal,UPI
+ORD00154,2023-11-23,Home & Kitchen,Air Fryer,4,10836,43344,3609.96,Tamil Nadu,Cash on Delivery
+ORD00155,2023-07-06,Home & Kitchen,Mixer,4,216,864,185.48,West Bengal,Credit Card
+ORD00156,2023-08-31,Books,Comics,1,6472,6472,1632.37,Delhi,UPI
+ORD00157,2023-03-27,Clothing,T-Shirt,4,6372,25488,3054.53,Delhi,Credit Card
+ORD00158,2023-10-11,Clothing,Jeans,2,18863,37726,6238.72,Delhi,Net Banking
+ORD00159,2023-03-07,Clothing,Jeans,3,17359,52077,14257.61,Karnataka,Cash on Delivery
+ORD00160,2023-06-19,Books,Novel,4,16662,66648,18151.43,Uttar Pradesh,Cash on Delivery
+ORD00161,2023-02-14,Books,Biography,3,15116,45348,10627.69,Gujarat,Debit Card
+ORD00162,2023-03-03,Sports,Cycling Helmet,1,9423,9423,569.32,Maharashtra,Debit Card
+ORD00163,2023-05-14,Home & Kitchen,Mixer,1,3656,3656,248.69,Delhi,UPI
+ORD00164,2023-10-11,Sports,Dumbbells,4,2911,11644,685.75,Rajasthan,Debit Card
+ORD00165,2023-01-28,Electronics,Tablet,4,12289,49156,8134.67,Uttar Pradesh,Credit Card
+ORD00166,2023-04-18,Books,Biography,4,10066,40264,11784.77,Maharashtra,Net Banking
+ORD00167,2023-02-13,Electronics,Headphones,3,5710,17130,4213.31,Rajasthan,UPI
+ORD00168,2023-12-06,Electronics,Tablet,3,9164,27492,5912.86,Gujarat,Credit Card
+ORD00169,2023-10-13,Beauty,Moisturizer,4,10959,43836,5096.44,Maharashtra,Cash on Delivery
+ORD00170,2023-11-27,Home & Kitchen,Air Fryer,2,13479,26958,4816.43,Karnataka,Cash on Delivery
+ORD00171,2023-05-08,Clothing,Sneakers,1,17830,17830,4379.43,Tamil Nadu,Net Banking
+ORD00172,2023-12-14,Sports,Dumbbells,4,2576,10304,1499.08,West Bengal,Cash on Delivery
+ORD00173,2023-08-19,Books,Comics,2,12024,24048,2737.95,Tamil Nadu,UPI
+ORD00174,2023-07-09,Clothing,T-Shirt,4,10032,40128,8466.05,Tamil Nadu,Cash on Delivery
+ORD00175,2023-08-13,Clothing,Dress,2,7110,14220,4153.98,Rajasthan,UPI
+ORD00176,2023-10-10,Electronics,Smartwatch,1,6178,6178,1822.46,Gujarat,Debit Card
+ORD00177,2023-05-01,Beauty,Perfume,2,980,1960,383.39,Gujarat,UPI
+ORD00178,2023-04-26,Home & Kitchen,Vacuum Cleaner,3,4183,12549,3174.17,Tamil Nadu,Net Banking
+ORD00179,2023-08-21,Electronics,Tablet,4,17105,68420,9207.07,Uttar Pradesh,Credit Card
+ORD00180,2023-09-16,Clothing,Dress,4,12432,49728,7113.18,West Bengal,Net Banking
+ORD00181,2023-12-25,Clothing,Dress,3,16577,49731,10107.07,West Bengal,Cash on Delivery
+ORD00182,2023-07-17,Electronics,Smartphone,2,12475,24950,2748.82,Tamil Nadu,Debit Card
+ORD00183,2023-05-17,Beauty,Perfume,1,11635,11635,1156.14,Tamil Nadu,Net Banking
+ORD00184,2023-11-14,Home & Kitchen,Air Fryer,2,18744,37488,7926.94,Gujarat,Cash on Delivery
+ORD00185,2023-06-14,Books,Comics,3,16190,48570,13105.02,Gujarat,UPI
+ORD00186,2023-08-13,Books,Science Book,4,17840,71360,13273.26,Tamil Nadu,UPI
+ORD00187,2023-11-03,Home & Kitchen,Cookware Set,1,7365,7365,1216.22,Maharashtra,Debit Card
+ORD00188,2023-08-22,Home & Kitchen,Mixer,4,501,2004,465.17,Karnataka,Debit Card
+ORD00189,2023-06-21,Clothing,Dress,3,14771,44313,2812.3,Tamil Nadu,Net Banking
+ORD00190,2023-06-01,Sports,Cycling Helmet,4,10973,43892,8115.15,Tamil Nadu,Credit Card
+ORD00191,2023-11-11,Clothing,Jacket,1,13257,13257,1099.43,Uttar Pradesh,UPI
+ORD00192,2023-06-09,Clothing,Jacket,3,16121,48363,4999.66,Delhi,Net Banking
+ORD00193,2023-04-06,Clothing,Jacket,3,13918,41754,10863.38,Delhi,Credit Card
+ORD00194,2023-08-21,Sports,Yoga Mat,1,10717,10717,1988.64,Karnataka,Cash on Delivery
+ORD00195,2023-06-29,Electronics,Smartphone,1,1576,1576,279.09,Tamil Nadu,Cash on Delivery
+ORD00196,2023-04-23,Beauty,Moisturizer,3,18237,54711,10463.78,Gujarat,Debit Card
+ORD00197,2023-11-14,Electronics,Headphones,1,6126,6126,1190.24,West Bengal,Credit Card
+ORD00198,2023-02-21,Electronics,Smartwatch,1,3500,3500,315.06,West Bengal,Credit Card
+ORD00199,2023-09-25,Sports,Cricket Bat,2,3927,7854,1986.58,Karnataka,Debit Card
+ORD00200,2023-10-22,Sports,Yoga Mat,4,17098,68392,20377.57,Maharashtra,Debit Card
+ORD00201,2023-04-23,Electronics,Tablet,4,10247,40988,10247.73,Rajasthan,Net Banking
+ORD00202,2023-04-11,Sports,Cycling Helmet,3,2720,8160,1540.37,Uttar Pradesh,Net Banking
+ORD00203,2023-04-23,Beauty,Moisturizer,4,6645,26580,5422.22,West Bengal,UPI
+ORD00204,2023-03-22,Sports,Dumbbells,3,11529,34587,4802.27,Tamil Nadu,Net Banking
+ORD00205,2023-07-06,Sports,Cricket Bat,1,19131,19131,3463.47,Maharashtra,Debit Card
+ORD00206,2023-04-23,Books,Exam Guide,2,19233,38466,10000.81,Tamil Nadu,Credit Card
+ORD00207,2023-01-02,Clothing,Jeans,4,17621,70484,16731.94,Karnataka,Net Banking
+ORD00208,2023-05-10,Electronics,Laptop,1,15579,15579,2052.27,Delhi,Cash on Delivery
+ORD00209,2023-08-08,Beauty,Hair Dryer,3,5310,15930,2669.55,West Bengal,UPI
+ORD00210,2023-02-23,Electronics,Laptop,3,17708,53124,4312.53,Tamil Nadu,UPI
+ORD00211,2023-12-09,Books,Science Book,3,9796,29388,6196.2,Maharashtra,Debit Card
+ORD00212,2023-08-12,Home & Kitchen,Water Bottle,2,15071,30142,3143.88,Uttar Pradesh,Cash on Delivery
+ORD00213,2023-08-13,Electronics,Tablet,2,2028,4056,875.12,Uttar Pradesh,Debit Card
+ORD00214,2023-05-06,Home & Kitchen,Cookware Set,2,2223,4446,420.56,Maharashtra,Credit Card
+ORD00215,2023-05-10,Clothing,Jacket,2,6091,12182,1161.31,Tamil Nadu,Cash on Delivery
+ORD00216,2023-02-22,Electronics,Smartwatch,1,15579,15579,2345.91,Tamil Nadu,Cash on Delivery
+ORD00217,2023-06-21,Home & Kitchen,Water Bottle,3,2763,8289,1471.52,West Bengal,Cash on Delivery
+ORD00218,2023-08-06,Electronics,Tablet,3,16287,48861,3715.11,Delhi,Cash on Delivery
+ORD00219,2023-06-09,Books,Biography,2,6843,13686,2602.6,Tamil Nadu,Credit Card
+ORD00220,2023-07-17,Electronics,Laptop,2,10975,21950,4809.62,Delhi,UPI
+ORD00221,2023-09-04,Sports,Cricket Bat,2,14426,28852,3388.82,Karnataka,Cash on Delivery
+ORD00222,2023-11-20,Sports,Dumbbells,4,11354,45416,7928.0,Tamil Nadu,Debit Card
+ORD00223,2023-07-22,Sports,Dumbbells,2,12893,25786,5772.3,West Bengal,Credit Card
+ORD00224,2023-07-03,Beauty,Lipstick,4,741,2964,875.84,Rajasthan,UPI
+ORD00225,2023-05-03,Home & Kitchen,Mixer,1,11366,11366,2912.91,Karnataka,UPI
+ORD00226,2023-09-12,Beauty,Moisturizer,3,16244,48732,4233.01,Tamil Nadu,Cash on Delivery
+ORD00227,2023-10-21,Sports,Cricket Bat,3,6456,19368,3069.92,West Bengal,Credit Card
+ORD00228,2023-10-07,Home & Kitchen,Vacuum Cleaner,2,1030,2060,216.62,Gujarat,Credit Card
+ORD00229,2023-11-21,Beauty,Hair Dryer,3,9718,29154,8734.16,Delhi,Net Banking
+ORD00230,2023-04-08,Beauty,Moisturizer,4,10228,40912,3819.95,Delhi,Debit Card
+ORD00231,2023-07-17,Sports,Yoga Mat,2,1483,2966,516.21,West Bengal,Cash on Delivery
+ORD00232,2023-08-28,Electronics,Laptop,3,18594,55782,12354.48,Tamil Nadu,Net Banking
+ORD00233,2023-05-24,Clothing,Jacket,3,18709,56127,13291.15,West Bengal,Cash on Delivery
+ORD00234,2023-04-07,Electronics,Smartphone,3,14672,44016,12658.04,Uttar Pradesh,Debit Card
+ORD00235,2023-07-20,Home & Kitchen,Water Bottle,1,8529,8529,1139.71,Delhi,Net Banking
+ORD00236,2023-05-04,Beauty,Face Wash,1,14130,14130,791.96,Uttar Pradesh,Credit Card
+ORD00237,2023-07-06,Beauty,Face Wash,2,2957,5914,1061.68,Karnataka,Cash on Delivery
+ORD00238,2023-11-22,Books,Biography,1,19194,19194,5473.55,Tamil Nadu,Cash on Delivery
+ORD00239,2023-12-15,Beauty,Moisturizer,2,5217,10434,2798.22,Uttar Pradesh,Cash on Delivery
+ORD00240,2023-09-16,Sports,Football,1,8199,8199,791.41,Rajasthan,Debit Card
+ORD00241,2023-05-28,Sports,Cycling Helmet,1,15633,15633,4445.06,Karnataka,Credit Card
+ORD00242,2023-09-09,Home & Kitchen,Air Fryer,4,16141,64564,13415.93,Gujarat,Net Banking
+ORD00243,2023-12-12,Home & Kitchen,Mixer,2,15278,30556,8432.79,Tamil Nadu,UPI
+ORD00244,2023-05-27,Sports,Cycling Helmet,3,3039,9117,2118.58,West Bengal,Debit Card
+ORD00245,2023-05-28,Beauty,Hair Dryer,2,13693,27386,2911.29,West Bengal,UPI
+ORD00246,2023-12-18,Home & Kitchen,Water Bottle,4,4483,17932,2684.58,Rajasthan,Cash on Delivery
+ORD00247,2023-07-18,Home & Kitchen,Cookware Set,4,14175,56700,9526.46,Uttar Pradesh,Net Banking
+ORD00248,2023-11-04,Beauty,Perfume,1,15461,15461,1865.93,Rajasthan,Credit Card
+ORD00249,2023-05-08,Home & Kitchen,Air Fryer,2,9757,19514,2252.43,Rajasthan,Cash on Delivery
+ORD00250,2023-02-08,Books,Exam Guide,3,2174,6522,1803.75,West Bengal,Credit Card
+ORD00251,2023-12-04,Clothing,Sneakers,4,17489,69956,8253.93,Gujarat,Credit Card
+ORD00252,2023-12-26,Beauty,Face Wash,2,2214,4428,719.26,West Bengal,Credit Card
+ORD00253,2023-05-09,Books,Exam Guide,1,17165,17165,1138.75,Rajasthan,Debit Card
+ORD00254,2023-09-24,Electronics,Smartwatch,1,5547,5547,323.96,Tamil Nadu,UPI
+ORD00255,2023-05-31,Sports,Dumbbells,4,8217,32868,9091.6,Maharashtra,UPI
+ORD00256,2023-10-25,Books,Comics,1,16092,16092,2946.53,Rajasthan,UPI
+ORD00257,2023-04-09,Books,Science Book,1,14489,14489,3377.56,Delhi,Net Banking
+ORD00258,2023-09-20,Electronics,Laptop,3,1371,4113,337.25,Tamil Nadu,Debit Card
+ORD00259,2023-09-09,Books,Novel,4,6542,26168,3882.34,Rajasthan,Credit Card
+ORD00260,2023-05-24,Books,Novel,2,2739,5478,1352.67,West Bengal,Debit Card
+ORD00261,2023-12-12,Books,Biography,2,5632,11264,1955.66,Delhi,Credit Card
+ORD00262,2023-04-22,Home & Kitchen,Mixer,1,1953,1953,191.0,Tamil Nadu,UPI
+ORD00263,2023-03-01,Home & Kitchen,Air Fryer,1,18522,18522,2355.53,Karnataka,Debit Card
+ORD00264,2023-01-02,Sports,Dumbbells,1,10323,10323,1418.14,Karnataka,Debit Card
+ORD00265,2023-10-31,Clothing,T-Shirt,1,6504,6504,571.13,Rajasthan,Net Banking
+ORD00266,2023-09-11,Books,Exam Guide,4,15552,62208,16339.18,West Bengal,Net Banking
+ORD00267,2023-05-20,Clothing,Jeans,3,2536,7608,1375.89,West Bengal,UPI
+ORD00268,2023-02-06,Beauty,Lipstick,1,772,772,204.61,Delhi,Cash on Delivery
+ORD00269,2023-06-09,Home & Kitchen,Water Bottle,2,18674,37348,2499.22,Karnataka,Credit Card
+ORD00270,2023-01-09,Beauty,Lipstick,2,12664,25328,4708.08,Tamil Nadu,Cash on Delivery
+ORD00271,2023-08-21,Books,Biography,2,18101,36202,5957.95,West Bengal,UPI
+ORD00272,2023-04-09,Clothing,Dress,1,15377,15377,1406.13,West Bengal,Credit Card
+ORD00273,2023-05-27,Clothing,Dress,2,14557,29114,7642.25,Gujarat,Net Banking
+ORD00274,2023-10-31,Home & Kitchen,Vacuum Cleaner,2,297,594,157.71,Delhi,Cash on Delivery
+ORD00275,2023-07-27,Home & Kitchen,Mixer,3,13124,39372,9343.8,Delhi,Net Banking
+ORD00276,2023-05-11,Books,Science Book,4,8735,34940,8621.18,Tamil Nadu,Debit Card
+ORD00277,2023-06-01,Sports,Yoga Mat,2,4866,9732,1603.93,Uttar Pradesh,Debit Card
+ORD00278,2023-02-23,Sports,Yoga Mat,4,2054,8216,1432.16,Karnataka,Credit Card
+ORD00279,2023-04-30,Books,Novel,4,18908,75632,6895.87,Tamil Nadu,Cash on Delivery
+ORD00280,2023-06-10,Electronics,Tablet,3,9483,28449,6804.66,Gujarat,Debit Card
+ORD00281,2023-04-26,Electronics,Headphones,2,5974,11948,1209.38,Gujarat,Cash on Delivery
+ORD00282,2023-03-16,Clothing,Jeans,1,18333,18333,1657.39,Karnataka,Net Banking
+ORD00283,2023-04-23,Home & Kitchen,Water Bottle,2,16482,32964,9449.44,Tamil Nadu,Debit Card
+ORD00284,2023-04-14,Home & Kitchen,Air Fryer,4,18689,74756,17768.18,Tamil Nadu,UPI
+ORD00285,2023-12-06,Electronics,Smartwatch,1,2313,2313,153.35,Maharashtra,Debit Card
+ORD00286,2023-09-11,Clothing,Dress,2,10383,20766,2504.54,Gujarat,Credit Card
+ORD00287,2023-08-15,Beauty,Face Wash,2,9403,18806,4693.72,Tamil Nadu,Net Banking
+ORD00288,2023-04-22,Electronics,Smartwatch,3,15995,47985,7817.92,Gujarat,UPI
+ORD00289,2023-04-09,Sports,Dumbbells,3,13689,41067,3012.35,Gujarat,Credit Card
+ORD00290,2023-06-02,Books,Exam Guide,1,2751,2751,265.97,West Bengal,Credit Card
+ORD00291,2023-12-15,Sports,Cycling Helmet,4,19139,76556,19002.24,Gujarat,Net Banking
+ORD00292,2023-12-04,Clothing,T-Shirt,4,7439,29756,7423.48,West Bengal,UPI
+ORD00293,2023-07-13,Books,Science Book,3,8278,24834,6923.04,Maharashtra,Debit Card
+ORD00294,2023-11-06,Electronics,Smartphone,4,13721,54884,4911.5,Tamil Nadu,Cash on Delivery
+ORD00295,2023-06-12,Electronics,Smartphone,4,11731,46924,4293.95,Uttar Pradesh,Net Banking
+ORD00296,2023-07-27,Clothing,Dress,4,6730,26920,3789.67,West Bengal,UPI
+ORD00297,2023-06-18,Books,Comics,3,14137,42411,3910.87,Rajasthan,Net Banking
+ORD00298,2023-06-10,Books,Exam Guide,2,11368,22736,4536.47,Rajasthan,Credit Card
+ORD00299,2023-03-09,Beauty,Hair Dryer,3,812,2436,567.97,Rajasthan,UPI
+ORD00300,2023-10-16,Electronics,Headphones,4,2507,10028,2503.47,Uttar Pradesh,Cash on Delivery
+ORD00301,2023-10-04,Beauty,Perfume,2,6106,12212,3304.62,Gujarat,Credit Card
+ORD00302,2023-10-31,Books,Biography,4,15349,61396,7976.37,Gujarat,Credit Card
+ORD00303,2023-05-15,Beauty,Lipstick,1,10302,10302,830.43,Uttar Pradesh,Credit Card
+ORD00304,2023-07-14,Beauty,Face Wash,2,1483,2966,887.63,Uttar Pradesh,Net Banking
+ORD00305,2023-05-08,Electronics,Smartphone,2,8638,17276,1424.52,Gujarat,Debit Card
+ORD00306,2023-02-02,Clothing,Sneakers,1,9952,9952,729.06,Uttar Pradesh,Credit Card
+ORD00307,2023-06-25,Sports,Football,4,4064,16256,4157.3,Uttar Pradesh,Debit Card
+ORD00308,2023-01-22,Home & Kitchen,Cookware Set,2,426,852,82.52,Delhi,UPI
+ORD00309,2023-08-26,Clothing,Jeans,1,16848,16848,4292.3,Tamil Nadu,Debit Card
+ORD00310,2023-06-07,Electronics,Smartphone,2,845,1690,384.58,Karnataka,Credit Card
+ORD00311,2023-02-07,Home & Kitchen,Cookware Set,4,19574,78296,16670.55,Gujarat,Credit Card
+ORD00312,2023-08-18,Clothing,Jacket,1,11164,11164,1268.01,Delhi,Debit Card
+ORD00313,2023-12-31,Books,Science Book,2,9546,19092,5153.99,Maharashtra,Credit Card
+ORD00314,2023-02-20,Beauty,Moisturizer,2,9377,18754,2083.29,Gujarat,Net Banking
+ORD00315,2023-09-21,Sports,Cricket Bat,4,18299,73196,20226.98,West Bengal,Net Banking
+ORD00316,2023-10-10,Clothing,Sneakers,3,13430,40290,3940.97,Delhi,Net Banking
+ORD00317,2023-01-27,Home & Kitchen,Air Fryer,3,7296,21888,3477.49,Delhi,Credit Card
+ORD00318,2023-08-14,Beauty,Moisturizer,4,16221,64884,15216.42,Rajasthan,Credit Card
+ORD00319,2023-10-04,Beauty,Moisturizer,4,18258,73032,19056.56,Maharashtra,Credit Card
+ORD00320,2023-10-13,Home & Kitchen,Water Bottle,3,9322,27966,1615.84,Karnataka,Credit Card
+ORD00321,2023-04-07,Clothing,Jacket,1,1289,1289,165.93,Gujarat,Cash on Delivery
+ORD00322,2023-10-11,Sports,Cycling Helmet,4,355,1420,312.99,Tamil Nadu,Cash on Delivery
+ORD00323,2023-11-13,Sports,Cycling Helmet,2,6544,13088,2798.48,Rajasthan,Credit Card
+ORD00324,2023-10-31,Books,Novel,1,4030,4030,482.87,Uttar Pradesh,Cash on Delivery
+ORD00325,2023-05-27,Beauty,Perfume,3,9994,29982,6702.11,Rajasthan,UPI
+ORD00326,2023-01-04,Beauty,Moisturizer,1,14678,14678,1514.2,Rajasthan,Credit Card
+ORD00327,2023-02-04,Home & Kitchen,Air Fryer,3,9728,29184,3676.79,Gujarat,UPI
+ORD00328,2023-07-11,Home & Kitchen,Cookware Set,2,8379,16758,4768.93,West Bengal,Credit Card
+ORD00329,2023-02-18,Electronics,Smartphone,4,592,2368,585.16,Maharashtra,Cash on Delivery
+ORD00330,2023-01-17,Electronics,Headphones,1,10649,10649,2264.96,Karnataka,Net Banking
+ORD00331,2023-06-21,Electronics,Tablet,2,7618,15236,762.52,Gujarat,Credit Card
+ORD00332,2023-08-08,Beauty,Lipstick,3,17961,53883,8716.32,Rajasthan,Credit Card
+ORD00333,2023-06-07,Home & Kitchen,Water Bottle,2,341,682,181.51,Tamil Nadu,UPI
+ORD00334,2023-02-15,Electronics,Tablet,4,15237,60948,8843.56,Uttar Pradesh,Debit Card
+ORD00335,2023-01-06,Books,Science Book,2,6342,12684,985.3,Uttar Pradesh,Credit Card
+ORD00336,2023-04-09,Home & Kitchen,Water Bottle,4,10296,41184,2491.89,Gujarat,Credit Card
+ORD00337,2023-08-21,Home & Kitchen,Water Bottle,4,4449,17796,5188.62,Uttar Pradesh,Cash on Delivery
+ORD00338,2023-02-06,Sports,Cycling Helmet,2,18551,37102,8419.26,Delhi,Net Banking
+ORD00339,2023-10-07,Books,Biography,2,15482,30964,7942.57,Delhi,Debit Card
+ORD00340,2023-12-15,Home & Kitchen,Vacuum Cleaner,3,5275,15825,4675.49,Gujarat,UPI
+ORD00341,2023-10-29,Electronics,Laptop,2,7430,14860,2820.37,Karnataka,Net Banking
+ORD00342,2023-06-30,Books,Science Book,4,13886,55544,10173.94,Maharashtra,Debit Card
+ORD00343,2023-04-05,Books,Novel,3,19574,58722,9540.01,Maharashtra,Net Banking
+ORD00344,2023-04-09,Clothing,Dress,4,17517,70068,5609.77,Rajasthan,Cash on Delivery
+ORD00345,2023-07-07,Home & Kitchen,Cookware Set,4,10904,43616,4818.41,Gujarat,UPI
+ORD00346,2023-04-26,Books,Biography,4,7016,28064,4692.08,Maharashtra,Credit Card
+ORD00347,2023-07-10,Clothing,Jeans,1,14165,14165,2827.18,Delhi,Credit Card
+ORD00348,2023-09-10,Home & Kitchen,Air Fryer,3,11440,34320,4289.31,Rajasthan,Cash on Delivery
+ORD00349,2023-06-10,Sports,Dumbbells,2,240,480,29.78,Rajasthan,UPI
+ORD00350,2023-09-13,Clothing,Sneakers,4,17571,70284,18489.33,Maharashtra,UPI
+ORD00351,2023-11-19,Beauty,Face Wash,1,8004,8004,1587.24,Tamil Nadu,Net Banking
+ORD00352,2023-05-08,Beauty,Hair Dryer,1,19782,19782,4085.85,Tamil Nadu,Credit Card
+ORD00353,2023-01-18,Clothing,Dress,4,2724,10896,2827.93,Delhi,Credit Card
+ORD00354,2023-10-08,Clothing,Jacket,4,10085,40340,6345.31,Uttar Pradesh,Debit Card
+ORD00355,2023-08-11,Home & Kitchen,Vacuum Cleaner,3,1692,5076,915.51,Gujarat,Credit Card
+ORD00356,2023-02-23,Electronics,Smartwatch,1,13815,13815,3562.11,Rajasthan,Debit Card
+ORD00357,2023-02-27,Clothing,Dress,3,8051,24153,1901.64,Uttar Pradesh,Net Banking
+ORD00358,2023-11-19,Sports,Yoga Mat,1,7568,7568,2099.41,Maharashtra,Cash on Delivery
+ORD00359,2023-12-26,Books,Novel,4,9368,37472,2479.59,Rajasthan,Credit Card
+ORD00360,2023-06-23,Beauty,Face Wash,4,11528,46112,2595.44,Gujarat,Net Banking
+ORD00361,2023-10-07,Beauty,Hair Dryer,3,1647,4941,638.56,Rajasthan,Cash on Delivery
+ORD00362,2023-04-24,Home & Kitchen,Mixer,4,6517,26068,6346.77,Rajasthan,Credit Card
+ORD00363,2023-10-15,Home & Kitchen,Cookware Set,1,13146,13146,3590.58,West Bengal,UPI
+ORD00364,2023-12-08,Electronics,Smartwatch,1,16989,16989,3427.91,Maharashtra,Debit Card
+ORD00365,2023-05-31,Beauty,Hair Dryer,3,9965,29895,5916.95,Rajasthan,Net Banking
+ORD00366,2023-05-07,Electronics,Smartwatch,1,12666,12666,1385.13,Tamil Nadu,UPI
+ORD00367,2023-06-04,Clothing,Jacket,3,10787,32361,2461.25,Karnataka,Credit Card
+ORD00368,2023-09-30,Sports,Cricket Bat,2,16500,33000,9658.82,Uttar Pradesh,UPI
+ORD00369,2023-04-14,Home & Kitchen,Cookware Set,4,393,1572,185.33,Uttar Pradesh,Credit Card
+ORD00370,2023-10-26,Clothing,Jacket,3,11390,34170,10112.96,Uttar Pradesh,Debit Card
+ORD00371,2023-09-03,Sports,Football,4,9502,38008,5767.45,Maharashtra,Debit Card
+ORD00372,2023-06-25,Books,Science Book,2,6916,13832,2325.48,West Bengal,Net Banking
+ORD00373,2023-02-08,Sports,Dumbbells,2,4578,9156,778.32,Gujarat,UPI
+ORD00374,2023-06-19,Clothing,Dress,4,12928,51712,6869.25,Maharashtra,Cash on Delivery
+ORD00375,2023-09-04,Beauty,Lipstick,1,8533,8533,1729.6,Tamil Nadu,Net Banking
+ORD00376,2023-01-26,Electronics,Headphones,1,6008,6008,1076.29,Maharashtra,UPI
+ORD00377,2023-12-21,Beauty,Moisturizer,2,10488,20976,1088.99,Delhi,Credit Card
+ORD00378,2023-11-02,Home & Kitchen,Vacuum Cleaner,2,17743,35486,2100.07,Maharashtra,Credit Card
+ORD00379,2023-01-13,Sports,Cycling Helmet,4,15400,61600,8298.45,Rajasthan,Cash on Delivery
+ORD00380,2023-11-12,Sports,Cycling Helmet,1,4028,4028,777.45,Delhi,Cash on Delivery
+ORD00381,2023-11-09,Sports,Football,2,5682,11364,694.31,Gujarat,Net Banking
+ORD00382,2023-02-05,Beauty,Hair Dryer,1,18384,18384,4672.67,Karnataka,Credit Card
+ORD00383,2023-06-22,Beauty,Face Wash,1,4848,4848,1234.07,Gujarat,Credit Card
+ORD00384,2023-01-20,Sports,Football,1,3066,3066,827.71,Delhi,Debit Card
+ORD00385,2023-11-17,Books,Science Book,3,3312,9936,570.5,West Bengal,Net Banking
+ORD00386,2023-09-21,Sports,Cycling Helmet,4,15314,61256,3749.69,Karnataka,UPI
+ORD00387,2023-05-22,Home & Kitchen,Vacuum Cleaner,3,17940,53820,15196.44,Rajasthan,Cash on Delivery
+ORD00388,2023-05-23,Home & Kitchen,Water Bottle,1,11631,11631,1808.12,Delhi,UPI
+ORD00389,2023-04-02,Electronics,Headphones,4,13071,52284,14477.58,Maharashtra,Net Banking
+ORD00390,2023-12-20,Books,Science Book,1,9524,9524,1923.62,Tamil Nadu,UPI
+ORD00391,2023-11-18,Books,Comics,4,1187,4748,1212.16,Karnataka,UPI
+ORD00392,2023-10-15,Electronics,Tablet,4,15712,62848,13141.54,Karnataka,UPI
+ORD00393,2023-08-03,Home & Kitchen,Air Fryer,3,3252,9756,2511.16,Karnataka,Net Banking
+ORD00394,2023-12-08,Books,Novel,1,2075,2075,459.92,Tamil Nadu,Net Banking
+ORD00395,2023-02-20,Beauty,Lipstick,2,5643,11286,1647.3,Karnataka,Net Banking
+ORD00396,2023-06-02,Electronics,Smartwatch,3,17177,51531,3765.43,Gujarat,Credit Card
+ORD00397,2023-07-05,Home & Kitchen,Vacuum Cleaner,3,10851,32553,6100.3,Karnataka,Debit Card
+ORD00398,2023-03-04,Home & Kitchen,Air Fryer,1,4008,4008,605.45,Uttar Pradesh,Debit Card
+ORD00399,2023-07-09,Clothing,Jeans,3,19286,57858,13739.12,Maharashtra,UPI
+ORD00400,2023-05-05,Electronics,Tablet,2,5254,10508,2222.69,Delhi,UPI
+ORD00401,2023-05-30,Sports,Football,2,19081,38162,10380.44,Rajasthan,Debit Card
+ORD00402,2023-11-10,Clothing,Jeans,1,9301,9301,1944.13,Karnataka,Cash on Delivery
+ORD00403,2023-02-27,Electronics,Smartwatch,2,7744,15488,1371.93,Gujarat,Debit Card
+ORD00404,2023-12-08,Beauty,Hair Dryer,3,19739,59217,12404.14,Tamil Nadu,Cash on Delivery
+ORD00405,2023-11-01,Clothing,Sneakers,1,11977,11977,2185.78,Uttar Pradesh,UPI
+ORD00406,2023-06-29,Beauty,Perfume,3,6231,18693,5567.07,Gujarat,Net Banking
+ORD00407,2023-06-19,Beauty,Moisturizer,2,13592,27184,6081.62,Tamil Nadu,Cash on Delivery
+ORD00408,2023-11-22,Sports,Cycling Helmet,4,19050,76200,12360.65,Rajasthan,Debit Card
+ORD00409,2023-09-28,Clothing,Sneakers,3,2198,6594,401.8,Karnataka,UPI
+ORD00410,2023-02-23,Electronics,Smartwatch,1,4869,4869,923.46,Gujarat,Net Banking
+ORD00411,2023-04-11,Electronics,Tablet,3,7264,21792,5062.14,Maharashtra,UPI
+ORD00412,2023-09-21,Electronics,Laptop,1,7661,7661,2002.59,Tamil Nadu,Cash on Delivery
+ORD00413,2023-02-22,Sports,Football,2,17714,35428,5579.3,Rajasthan,Credit Card
+ORD00414,2023-03-01,Clothing,Dress,3,3700,11100,1319.18,Gujarat,Credit Card
+ORD00415,2023-04-18,Beauty,Face Wash,1,10413,10413,2574.58,Rajasthan,Net Banking
+ORD00416,2023-01-05,Home & Kitchen,Cookware Set,4,10281,41124,6006.57,Rajasthan,Credit Card
+ORD00417,2023-04-13,Home & Kitchen,Cookware Set,3,13667,41001,7987.67,Delhi,UPI
+ORD00418,2023-07-15,Electronics,Headphones,1,3334,3334,249.11,Karnataka,Debit Card
+ORD00419,2023-09-19,Electronics,Headphones,3,15207,45621,6514.36,West Bengal,Debit Card
+ORD00420,2023-12-31,Books,Science Book,1,1341,1341,303.6,West Bengal,Net Banking
+ORD00421,2023-12-16,Electronics,Smartphone,1,10335,10335,1484.5,Delhi,UPI
+ORD00422,2023-02-16,Clothing,Jeans,4,8035,32140,5066.3,Rajasthan,Credit Card
+ORD00423,2023-12-21,Home & Kitchen,Cookware Set,4,6764,27056,7373.42,Tamil Nadu,Credit Card
+ORD00424,2023-11-07,Electronics,Laptop,1,19190,19190,1700.52,Rajasthan,Net Banking
+ORD00425,2023-11-04,Beauty,Face Wash,1,19857,19857,4198.87,Maharashtra,Cash on Delivery
+ORD00426,2023-05-24,Sports,Cycling Helmet,4,18026,72104,9744.93,Delhi,Net Banking
+ORD00427,2023-09-26,Sports,Football,3,11938,35814,5458.31,Karnataka,UPI
+ORD00428,2023-05-04,Beauty,Face Wash,1,11320,11320,2482.25,Gujarat,Debit Card
+ORD00429,2023-04-16,Sports,Dumbbells,1,13903,13903,1962.39,Karnataka,Credit Card
+ORD00430,2023-06-07,Sports,Yoga Mat,4,16045,64180,10493.46,Maharashtra,Net Banking
+ORD00431,2023-05-27,Sports,Cycling Helmet,4,5944,23776,2024.25,Delhi,Cash on Delivery
+ORD00432,2023-05-25,Beauty,Face Wash,1,7269,7269,413.49,Rajasthan,UPI
+ORD00433,2023-04-30,Home & Kitchen,Mixer,3,4852,14556,2125.93,Gujarat,Credit Card
+ORD00434,2023-11-15,Home & Kitchen,Cookware Set,3,7797,23391,1350.57,Maharashtra,Net Banking
+ORD00435,2023-10-02,Books,Biography,4,16546,66184,5956.97,Karnataka,Credit Card
+ORD00436,2023-04-02,Home & Kitchen,Water Bottle,2,18893,37786,9032.87,Gujarat,Debit Card
+ORD00437,2023-02-27,Books,Science Book,3,2369,7107,561.7,West Bengal,Debit Card
+ORD00438,2023-12-12,Clothing,T-Shirt,2,8515,17030,2188.21,West Bengal,Credit Card
+ORD00439,2023-08-17,Home & Kitchen,Cookware Set,3,985,2955,758.48,Delhi,Debit Card
+ORD00440,2023-04-27,Electronics,Headphones,1,15173,15173,2236.05,Tamil Nadu,Net Banking
+ORD00441,2023-11-14,Beauty,Hair Dryer,1,4007,4007,541.33,West Bengal,UPI
+ORD00442,2023-10-06,Electronics,Laptop,4,3436,13744,2329.19,Tamil Nadu,UPI
+ORD00443,2023-05-07,Electronics,Headphones,1,11113,11113,1023.33,Tamil Nadu,Credit Card
+ORD00444,2023-05-09,Home & Kitchen,Air Fryer,1,5698,5698,1479.41,Rajasthan,Cash on Delivery
+ORD00445,2023-02-27,Beauty,Lipstick,3,14065,42195,10831.61,Karnataka,Cash on Delivery
+ORD00446,2023-05-02,Books,Science Book,1,5057,5057,325.73,Gujarat,Net Banking
+ORD00447,2023-01-01,Home & Kitchen,Mixer,2,16966,33932,3989.11,Rajasthan,Credit Card
+ORD00448,2023-08-27,Beauty,Hair Dryer,4,338,1352,256.11,Karnataka,Net Banking
+ORD00449,2023-10-17,Home & Kitchen,Vacuum Cleaner,3,1827,5481,1072.88,Maharashtra,Credit Card
+ORD00450,2023-04-06,Home & Kitchen,Vacuum Cleaner,1,5204,5204,1074.93,Tamil Nadu,Cash on Delivery
+ORD00451,2023-05-06,Sports,Dumbbells,3,13483,40449,6085.34,Karnataka,Cash on Delivery
+ORD00452,2023-04-28,Home & Kitchen,Air Fryer,1,19754,19754,5335.13,Delhi,UPI
+ORD00453,2023-02-17,Sports,Dumbbells,4,9629,38516,7408.33,Tamil Nadu,Credit Card
+ORD00454,2023-03-30,Electronics,Smartwatch,2,19418,38836,3896.34,Gujarat,Net Banking
+ORD00455,2023-08-25,Books,Exam Guide,1,19151,19151,1146.47,Delhi,Debit Card
+ORD00456,2023-09-29,Sports,Dumbbells,1,2860,2860,531.26,Delhi,Debit Card
+ORD00457,2023-07-08,Electronics,Laptop,3,10438,31314,9112.6,Gujarat,UPI
+ORD00458,2023-07-11,Beauty,Hair Dryer,1,1908,1908,314.09,Delhi,Net Banking
+ORD00459,2023-03-10,Clothing,Dress,2,12221,24442,6052.51,Gujarat,UPI
+ORD00460,2023-10-05,Beauty,Face Wash,4,7884,31536,7838.36,Karnataka,Net Banking
+ORD00461,2023-12-15,Home & Kitchen,Air Fryer,4,2160,8640,2326.52,Gujarat,UPI
+ORD00462,2023-09-04,Clothing,T-Shirt,4,14093,56372,4915.58,Delhi,Debit Card
+ORD00463,2023-03-17,Beauty,Hair Dryer,3,4961,14883,4394.16,Rajasthan,Net Banking
+ORD00464,2023-06-03,Electronics,Headphones,4,13069,52276,10307.93,Tamil Nadu,Cash on Delivery
+ORD00465,2023-05-24,Clothing,Sneakers,2,5547,11094,1347.32,Tamil Nadu,Cash on Delivery
+ORD00466,2023-03-27,Clothing,T-Shirt,1,13727,13727,2200.52,Karnataka,Credit Card
+ORD00467,2023-07-04,Beauty,Perfume,3,13191,39573,6849.35,West Bengal,Credit Card
+ORD00468,2023-10-12,Books,Biography,2,3736,7472,1990.5,Gujarat,Credit Card
+ORD00469,2023-08-08,Sports,Cycling Helmet,2,4002,8004,1215.78,Tamil Nadu,UPI
+ORD00470,2023-03-10,Clothing,Jeans,3,6342,19026,3764.33,Gujarat,Net Banking
+ORD00471,2023-02-16,Clothing,T-Shirt,3,564,1692,286.15,Uttar Pradesh,Debit Card
+ORD00472,2023-04-04,Clothing,Dress,3,15888,47664,3091.86,Delhi,UPI
+ORD00473,2023-08-26,Sports,Cycling Helmet,1,8216,8216,1725.77,Gujarat,Cash on Delivery
+ORD00474,2023-07-23,Sports,Football,1,4135,4135,455.25,Maharashtra,Credit Card
+ORD00475,2023-08-06,Home & Kitchen,Air Fryer,3,16365,49095,5597.41,West Bengal,Net Banking
+ORD00476,2023-12-07,Beauty,Moisturizer,1,13524,13524,3960.95,Maharashtra,Debit Card
+ORD00477,2023-02-08,Home & Kitchen,Mixer,1,19351,19351,4656.8,West Bengal,Cash on Delivery
+ORD00478,2023-04-10,Books,Comics,2,3620,7240,417.29,Gujarat,Debit Card
+ORD00479,2023-10-16,Sports,Cycling Helmet,3,19537,58611,4900.39,Karnataka,Debit Card
+ORD00480,2023-09-11,Beauty,Hair Dryer,2,476,952,132.97,Delhi,Credit Card
+ORD00481,2023-08-10,Sports,Football,2,12144,24288,2907.03,Tamil Nadu,Debit Card
+ORD00482,2023-12-23,Clothing,Jacket,4,12506,50024,5010.54,Uttar Pradesh,UPI
+ORD00483,2023-01-23,Sports,Yoga Mat,2,4408,8816,638.75,Maharashtra,UPI
+ORD00484,2023-09-07,Clothing,Sneakers,2,11086,22172,1353.39,Tamil Nadu,Debit Card
+ORD00485,2023-01-10,Books,Biography,4,224,896,186.57,Maharashtra,Net Banking
+ORD00486,2023-09-03,Books,Exam Guide,3,10159,30477,8663.78,Karnataka,Debit Card
+ORD00487,2023-11-21,Books,Comics,4,7495,29980,7563.83,Gujarat,Net Banking
+ORD00488,2023-04-10,Electronics,Smartphone,1,10633,10633,809.18,Maharashtra,Credit Card
+ORD00489,2023-10-17,Books,Comics,3,11728,35184,8120.02,Tamil Nadu,Debit Card
+ORD00490,2023-06-29,Sports,Dumbbells,2,15943,31886,7073.96,Delhi,Cash on Delivery
+ORD00491,2023-08-11,Books,Comics,3,1581,4743,600.15,Tamil Nadu,UPI
+ORD00492,2023-09-07,Beauty,Perfume,4,9301,37204,9377.6,Rajasthan,UPI
+ORD00493,2023-05-27,Beauty,Face Wash,1,10407,10407,708.5,Delhi,Debit Card
+ORD00494,2023-04-06,Beauty,Moisturizer,1,18714,18714,3380.57,West Bengal,Cash on Delivery
+ORD00495,2023-09-14,Clothing,Jacket,4,5385,21540,1490.9,Karnataka,UPI
+ORD00496,2023-11-21,Books,Biography,3,12649,37947,9434.72,Gujarat,Cash on Delivery
+ORD00497,2023-01-04,Clothing,Jacket,4,15917,63668,3982.85,Maharashtra,UPI
+ORD00498,2023-01-16,Clothing,Dress,2,18081,36162,5450.28,Maharashtra,UPI
+ORD00499,2023-10-07,Beauty,Perfume,3,2755,8265,2197.25,Karnataka,Credit Card
+ORD00500,2023-12-02,Electronics,Headphones,3,3151,9453,1163.94,Rajasthan,Net Banking
+ORD00501,2023-09-04,Beauty,Perfume,4,5886,23544,6510.57,Karnataka,UPI
+ORD00502,2023-09-15,Sports,Yoga Mat,1,18172,18172,4734.85,Uttar Pradesh,Debit Card
+ORD00503,2023-06-09,Beauty,Hair Dryer,1,15792,15792,1655.29,West Bengal,Cash on Delivery
+ORD00504,2023-12-06,Home & Kitchen,Air Fryer,1,1756,1756,182.02,Delhi,Credit Card
+ORD00505,2023-06-01,Beauty,Hair Dryer,3,15261,45783,4439.15,West Bengal,Debit Card
+ORD00506,2023-06-27,Clothing,Sneakers,3,7390,22170,5913.48,Gujarat,Credit Card
+ORD00507,2023-06-12,Electronics,Headphones,2,15569,31138,7951.34,West Bengal,Net Banking
+ORD00508,2023-02-02,Books,Science Book,2,359,718,130.37,Tamil Nadu,Net Banking
+ORD00509,2023-06-28,Electronics,Smartphone,2,6755,13510,1468.04,Rajasthan,Debit Card
+ORD00510,2023-04-11,Home & Kitchen,Vacuum Cleaner,1,14943,14943,1830.41,Rajasthan,UPI
+ORD00511,2023-09-25,Electronics,Smartwatch,2,18891,37782,3238.63,Delhi,Net Banking
+ORD00512,2023-11-19,Sports,Football,3,5785,17355,2609.52,Gujarat,Net Banking
+ORD00513,2023-03-06,Home & Kitchen,Mixer,3,12437,37311,10092.55,Rajasthan,Net Banking
+ORD00514,2023-06-17,Beauty,Hair Dryer,4,12841,51364,11835.83,Tamil Nadu,Net Banking
+ORD00515,2023-11-26,Books,Comics,1,14227,14227,2142.75,Maharashtra,Debit Card
+ORD00516,2023-02-12,Electronics,Smartwatch,1,18468,18468,1139.72,Gujarat,UPI
+ORD00517,2023-02-13,Sports,Yoga Mat,4,12189,48756,11055.14,Karnataka,Debit Card
+ORD00518,2023-10-12,Sports,Cycling Helmet,3,14287,42861,2183.98,Rajasthan,Net Banking
+ORD00519,2023-01-12,Electronics,Smartphone,1,15475,15475,3640.12,Delhi,Debit Card
+ORD00520,2023-04-05,Books,Biography,1,9059,9059,683.71,West Bengal,Net Banking
+ORD00521,2023-10-29,Beauty,Perfume,1,5938,5938,698.3,Karnataka,UPI
+ORD00522,2023-09-10,Sports,Yoga Mat,3,5993,17979,2307.37,Karnataka,Cash on Delivery
+ORD00523,2023-08-30,Sports,Yoga Mat,4,16409,65636,17916.53,Gujarat,Net Banking
+ORD00524,2023-02-04,Sports,Cycling Helmet,1,2424,2424,349.85,West Bengal,Net Banking
+ORD00525,2023-08-03,Home & Kitchen,Air Fryer,4,11884,47536,3755.61,Delhi,UPI
+ORD00526,2023-12-03,Home & Kitchen,Mixer,3,6561,19683,3762.55,Rajasthan,Net Banking
+ORD00527,2023-03-31,Home & Kitchen,Mixer,4,12192,48768,11019.83,West Bengal,UPI
+ORD00528,2023-09-21,Books,Comics,2,6518,13036,1195.9,Uttar Pradesh,Credit Card
+ORD00529,2023-04-03,Sports,Dumbbells,1,434,434,94.0,Karnataka,Net Banking
+ORD00530,2023-03-31,Books,Comics,1,722,722,207.71,Rajasthan,Debit Card
+ORD00531,2023-04-25,Books,Exam Guide,3,10021,30063,3524.65,Delhi,Net Banking
+ORD00532,2023-04-15,Books,Novel,4,7322,29288,6109.04,Uttar Pradesh,Credit Card
+ORD00533,2023-07-15,Beauty,Lipstick,1,13400,13400,1876.17,Rajasthan,Debit Card
+ORD00534,2023-11-10,Beauty,Perfume,4,15406,61624,10790.38,Rajasthan,Net Banking
+ORD00535,2023-04-24,Sports,Dumbbells,1,1578,1578,259.46,Delhi,Debit Card
+ORD00536,2023-03-16,Sports,Football,2,8135,16270,2313.22,Gujarat,Cash on Delivery
+ORD00537,2023-08-05,Sports,Dumbbells,4,9283,37132,9830.29,Gujarat,Debit Card
+ORD00538,2023-10-04,Beauty,Hair Dryer,1,2457,2457,461.96,Gujarat,Net Banking
+ORD00539,2023-09-06,Home & Kitchen,Vacuum Cleaner,4,15433,61732,6358.3,West Bengal,Debit Card
+ORD00540,2023-06-13,Clothing,Jacket,1,19821,19821,3331.32,Tamil Nadu,Debit Card
+ORD00541,2023-12-23,Home & Kitchen,Vacuum Cleaner,4,2205,8820,916.71,Uttar Pradesh,Cash on Delivery
+ORD00542,2023-07-11,Home & Kitchen,Air Fryer,1,10270,10270,2073.9,Gujarat,Net Banking
+ORD00543,2023-08-15,Books,Biography,2,18335,36670,10366.68,Tamil Nadu,Credit Card
+ORD00544,2023-06-26,Sports,Cycling Helmet,4,14809,59236,13877.46,Rajasthan,Cash on Delivery
+ORD00545,2023-04-09,Home & Kitchen,Cookware Set,2,16563,33126,2088.58,Tamil Nadu,Credit Card
+ORD00546,2023-02-05,Home & Kitchen,Mixer,4,15023,60092,10037.68,Gujarat,Cash on Delivery
+ORD00547,2023-04-06,Books,Biography,1,8747,8747,623.97,West Bengal,Debit Card
+ORD00548,2023-06-01,Clothing,Sneakers,3,14762,44286,9597.51,Tamil Nadu,Net Banking
+ORD00549,2023-05-31,Books,Biography,1,4413,4413,1083.41,Karnataka,Credit Card
+ORD00550,2023-07-09,Sports,Cycling Helmet,1,2300,2300,510.63,Uttar Pradesh,Debit Card
+ORD00551,2023-08-12,Electronics,Tablet,1,19757,19757,2654.08,Uttar Pradesh,Debit Card
+ORD00552,2023-02-06,Electronics,Smartphone,2,8216,16432,1332.51,Rajasthan,UPI
+ORD00553,2023-09-25,Books,Science Book,2,17258,34516,5978.73,Maharashtra,Debit Card
+ORD00554,2023-07-02,Electronics,Tablet,3,19245,57735,10550.17,Karnataka,Cash on Delivery
+ORD00555,2023-01-13,Books,Science Book,2,13028,26056,4325.92,West Bengal,Debit Card
+ORD00556,2023-10-06,Home & Kitchen,Vacuum Cleaner,4,1601,6404,1151.17,Tamil Nadu,Credit Card
+ORD00557,2023-08-05,Electronics,Tablet,2,12296,24592,3146.94,Uttar Pradesh,Net Banking
+ORD00558,2023-12-21,Books,Novel,4,11223,44892,10919.1,Karnataka,Cash on Delivery
+ORD00559,2023-12-27,Clothing,T-Shirt,4,12067,48268,14190.96,Rajasthan,Cash on Delivery
+ORD00560,2023-10-13,Clothing,Jacket,3,12156,36468,2519.8,Delhi,Credit Card
+ORD00561,2023-09-30,Home & Kitchen,Water Bottle,3,16293,48879,6937.56,Maharashtra,UPI
+ORD00562,2023-03-03,Home & Kitchen,Air Fryer,1,15693,15693,2493.26,West Bengal,Debit Card
+ORD00563,2023-03-25,Sports,Dumbbells,4,18108,72432,9810.98,Tamil Nadu,Debit Card
+ORD00564,2023-08-05,Electronics,Headphones,3,4225,12675,1341.22,Karnataka,Cash on Delivery
+ORD00565,2023-12-08,Books,Biography,1,6355,6355,319.9,Karnataka,Credit Card
+ORD00566,2023-07-06,Books,Biography,3,17556,52668,15460.62,Tamil Nadu,Net Banking
+ORD00567,2023-01-19,Books,Exam Guide,3,18791,56373,15482.29,Karnataka,Net Banking
+ORD00568,2023-06-26,Books,Science Book,1,15264,15264,1874.21,Rajasthan,Net Banking
+ORD00569,2023-04-10,Home & Kitchen,Mixer,1,11677,11677,1028.53,Rajasthan,Credit Card
+ORD00570,2023-08-21,Clothing,Jeans,4,8880,35520,10099.92,West Bengal,UPI
+ORD00571,2023-03-17,Clothing,T-Shirt,2,19860,39720,9408.12,Tamil Nadu,Cash on Delivery
+ORD00572,2023-09-22,Clothing,Dress,3,16499,49497,3190.63,Tamil Nadu,UPI
+ORD00573,2023-10-11,Home & Kitchen,Water Bottle,2,830,1660,408.85,Delhi,UPI
+ORD00574,2023-07-25,Books,Biography,4,9371,37484,6976.54,Uttar Pradesh,Credit Card
+ORD00575,2023-08-11,Books,Novel,3,16861,50583,7153.46,West Bengal,UPI
+ORD00576,2023-02-21,Clothing,Dress,3,13601,40803,4037.79,Tamil Nadu,Credit Card
+ORD00577,2023-12-05,Books,Biography,2,11904,23808,4895.01,Gujarat,Net Banking
+ORD00578,2023-05-24,Clothing,Jeans,2,8852,17704,4475.23,Karnataka,Cash on Delivery
+ORD00579,2023-03-10,Clothing,Dress,4,13579,54316,7986.7,Gujarat,Cash on Delivery
+ORD00580,2023-04-09,Books,Comics,4,18578,74312,8544.11,West Bengal,Net Banking
+ORD00581,2023-01-25,Books,Exam Guide,1,415,415,95.97,Uttar Pradesh,Net Banking
+ORD00582,2023-02-22,Electronics,Tablet,1,19190,19190,1250.37,West Bengal,Net Banking
+ORD00583,2023-05-31,Books,Biography,2,3513,7026,1563.45,Maharashtra,Net Banking
+ORD00584,2023-05-24,Electronics,Smartphone,2,6139,12278,1320.66,Uttar Pradesh,Net Banking
+ORD00585,2023-02-26,Sports,Football,4,1896,7584,2195.44,Karnataka,UPI
+ORD00586,2023-02-08,Sports,Dumbbells,3,12201,36603,4043.66,Maharashtra,Debit Card
+ORD00587,2023-04-19,Books,Comics,1,6620,6620,1923.62,West Bengal,Credit Card
+ORD00588,2023-06-30,Sports,Dumbbells,2,12037,24074,6060.42,Delhi,Cash on Delivery
+ORD00589,2023-02-11,Clothing,Sneakers,2,10741,21482,3398.54,Rajasthan,Cash on Delivery
+ORD00590,2023-07-05,Sports,Cricket Bat,2,5285,10570,2811.52,West Bengal,UPI
+ORD00591,2023-08-11,Books,Novel,4,11891,47564,13052.45,Rajasthan,UPI
+ORD00592,2023-05-02,Electronics,Laptop,4,6674,26696,6628.24,Maharashtra,Credit Card
+ORD00593,2023-05-13,Beauty,Lipstick,3,14179,42537,9136.03,Maharashtra,Net Banking
+ORD00594,2023-06-12,Electronics,Smartphone,1,14807,14807,3096.66,West Bengal,Credit Card
+ORD00595,2023-08-03,Home & Kitchen,Air Fryer,4,19327,77308,17620.87,Karnataka,Debit Card
+ORD00596,2023-08-09,Books,Science Book,2,10885,21770,4188.22,Gujarat,Cash on Delivery
+ORD00597,2023-08-23,Beauty,Moisturizer,3,8748,26244,4179.33,Rajasthan,Credit Card
+ORD00598,2023-11-27,Books,Comics,3,6302,18906,1290.72,Karnataka,UPI
+ORD00599,2023-05-26,Electronics,Laptop,2,819,1638,406.47,Rajasthan,Net Banking
+ORD00600,2023-08-27,Clothing,Jeans,3,1496,4488,1301.67,Delhi,Credit Card
+ORD00601,2023-03-17,Home & Kitchen,Air Fryer,1,3095,3095,910.94,Rajasthan,Net Banking
+ORD00602,2023-01-09,Beauty,Perfume,3,8911,26733,2417.14,Uttar Pradesh,Cash on Delivery
+ORD00603,2023-03-15,Home & Kitchen,Cookware Set,4,10917,43668,10025.42,Tamil Nadu,Debit Card
+ORD00604,2023-09-10,Books,Novel,3,12674,38022,11027.97,Delhi,Cash on Delivery
+ORD00605,2023-08-18,Sports,Cricket Bat,2,8477,16954,3403.79,Uttar Pradesh,Debit Card
+ORD00606,2023-01-07,Electronics,Smartphone,1,18220,18220,2628.17,Delhi,Cash on Delivery
+ORD00607,2023-06-23,Sports,Cricket Bat,4,4209,16836,4229.01,Uttar Pradesh,Credit Card
+ORD00608,2023-05-21,Beauty,Moisturizer,1,18801,18801,2451.98,Uttar Pradesh,Net Banking
+ORD00609,2023-06-17,Clothing,T-Shirt,2,10895,21790,5492.58,Karnataka,Net Banking
+ORD00610,2023-06-19,Home & Kitchen,Cookware Set,2,15714,31428,1800.59,Gujarat,Net Banking
+ORD00611,2023-10-10,Sports,Yoga Mat,3,18260,54780,2745.06,Uttar Pradesh,UPI
+ORD00612,2023-05-02,Clothing,Sneakers,4,8127,32508,9671.83,Uttar Pradesh,Cash on Delivery
+ORD00613,2023-07-13,Home & Kitchen,Vacuum Cleaner,2,2376,4752,290.95,Delhi,Net Banking
+ORD00614,2023-01-05,Sports,Football,1,9371,9371,681.09,Rajasthan,Net Banking
+ORD00615,2023-01-29,Beauty,Face Wash,2,7978,15956,4591.05,Gujarat,Cash on Delivery
+ORD00616,2023-06-14,Sports,Yoga Mat,3,19349,58047,11929.23,Rajasthan,Cash on Delivery
+ORD00617,2023-12-05,Clothing,Jacket,1,8507,8507,1246.96,Rajasthan,Debit Card
+ORD00618,2023-05-16,Sports,Dumbbells,1,19746,19746,3038.93,Uttar Pradesh,Debit Card
+ORD00619,2023-12-31,Home & Kitchen,Cookware Set,1,18745,18745,5165.36,West Bengal,Credit Card
+ORD00620,2023-11-17,Sports,Dumbbells,2,14388,28776,8448.43,Rajasthan,Net Banking
+ORD00621,2023-12-08,Sports,Football,3,12802,38406,4040.82,Rajasthan,Debit Card
+ORD00622,2023-05-25,Home & Kitchen,Cookware Set,1,14412,14412,850.38,Gujarat,Credit Card
+ORD00623,2023-11-23,Beauty,Lipstick,1,10793,10793,2373.25,Maharashtra,Net Banking
+ORD00624,2023-08-05,Books,Exam Guide,1,19364,19364,3056.51,Delhi,UPI
+ORD00625,2023-10-28,Beauty,Hair Dryer,4,3071,12284,2395.65,Delhi,Credit Card
+ORD00626,2023-05-12,Clothing,Sneakers,3,10721,32163,8359.64,Uttar Pradesh,Cash on Delivery
+ORD00627,2023-10-19,Clothing,Jacket,1,899,899,141.62,Tamil Nadu,Credit Card
+ORD00628,2023-03-11,Clothing,Jeans,3,6497,19491,5323.76,Maharashtra,Cash on Delivery
+ORD00629,2023-09-09,Clothing,Sneakers,1,4757,4757,1165.9,Uttar Pradesh,Cash on Delivery
+ORD00630,2023-10-02,Clothing,Sneakers,2,8475,16950,2955.83,Gujarat,UPI
+ORD00631,2023-12-30,Beauty,Moisturizer,4,3380,13520,2674.02,Gujarat,UPI
+ORD00632,2023-07-01,Home & Kitchen,Vacuum Cleaner,1,9783,9783,1300.07,West Bengal,Cash on Delivery
+ORD00633,2023-06-16,Electronics,Smartwatch,3,14069,42207,4295.36,Gujarat,Debit Card
+ORD00634,2023-04-01,Home & Kitchen,Vacuum Cleaner,1,16854,16854,4548.46,Rajasthan,Credit Card
+ORD00635,2023-07-21,Sports,Football,1,15242,15242,1124.3,Karnataka,Credit Card
+ORD00636,2023-12-12,Home & Kitchen,Water Bottle,3,12527,37581,2326.65,Rajasthan,UPI
+ORD00637,2023-01-19,Clothing,Jeans,4,14500,58000,14081.28,Gujarat,Debit Card
+ORD00638,2023-02-08,Beauty,Hair Dryer,2,19659,39318,3456.0,Uttar Pradesh,Cash on Delivery
+ORD00639,2023-05-06,Sports,Yoga Mat,1,6814,6814,418.04,Tamil Nadu,Cash on Delivery
+ORD00640,2023-06-22,Books,Science Book,4,16862,67448,19071.09,West Bengal,Debit Card
+ORD00641,2023-05-21,Books,Biography,3,4476,13428,3241.34,Karnataka,Debit Card
+ORD00642,2023-08-30,Books,Comics,1,4032,4032,263.42,West Bengal,Debit Card
+ORD00643,2023-08-08,Sports,Cricket Bat,2,1580,3160,729.27,Delhi,Credit Card
+ORD00644,2023-05-06,Books,Novel,4,14126,56504,7122.31,Delhi,Cash on Delivery
+ORD00645,2023-02-27,Clothing,Jeans,1,5834,5834,1579.17,Maharashtra,Debit Card
+ORD00646,2023-05-28,Electronics,Laptop,2,10379,20758,6055.34,West Bengal,UPI
+ORD00647,2023-11-13,Electronics,Tablet,2,12907,25814,6078.53,West Bengal,Cash on Delivery
+ORD00648,2023-12-27,Electronics,Smartphone,1,18433,18433,2317.63,Rajasthan,Credit Card
+ORD00649,2023-01-01,Electronics,Tablet,2,13356,26712,6094.49,Tamil Nadu,Net Banking
+ORD00650,2023-12-14,Home & Kitchen,Mixer,3,16789,50367,4096.81,Rajasthan,Debit Card
+ORD00651,2023-07-09,Electronics,Smartphone,4,3650,14600,4378.34,Karnataka,Debit Card
+ORD00652,2023-07-10,Clothing,Sneakers,4,12014,48056,5051.75,Tamil Nadu,UPI
+ORD00653,2023-11-08,Home & Kitchen,Air Fryer,2,2908,5816,508.32,Maharashtra,UPI
+ORD00654,2023-04-27,Beauty,Moisturizer,4,12034,48136,7394.53,Uttar Pradesh,Debit Card
+ORD00655,2023-05-14,Home & Kitchen,Mixer,2,3473,6946,383.2,Delhi,Credit Card
+ORD00656,2023-02-27,Beauty,Moisturizer,2,12741,25482,4993.02,Rajasthan,Net Banking
+ORD00657,2023-02-13,Beauty,Face Wash,3,3751,11253,681.99,Delhi,Debit Card
+ORD00658,2023-06-22,Electronics,Smartwatch,1,3032,3032,607.58,Rajasthan,UPI
+ORD00659,2023-06-09,Sports,Cricket Bat,4,13622,54488,12456.29,Delhi,Debit Card
+ORD00660,2023-06-22,Clothing,Sneakers,1,11308,11308,855.21,West Bengal,UPI
+ORD00661,2023-11-13,Electronics,Smartphone,1,5510,5510,976.5,Tamil Nadu,Net Banking
+ORD00662,2023-10-30,Sports,Cricket Bat,4,1304,5216,1477.33,Karnataka,UPI
+ORD00663,2023-05-29,Electronics,Laptop,4,7463,29852,2225.73,Karnataka,Cash on Delivery
+ORD00664,2023-03-21,Electronics,Headphones,2,19656,39312,3164.92,Karnataka,Net Banking
+ORD00665,2023-08-01,Clothing,Sneakers,2,366,732,192.24,Rajasthan,Net Banking
+ORD00666,2023-07-22,Home & Kitchen,Air Fryer,1,3864,3864,223.01,Karnataka,Credit Card
+ORD00667,2023-09-09,Sports,Yoga Mat,1,19108,19108,1634.55,Delhi,Credit Card
+ORD00668,2023-08-17,Beauty,Perfume,2,4557,9114,1971.24,Maharashtra,UPI
+ORD00669,2023-06-13,Sports,Cycling Helmet,1,1738,1738,138.55,Rajasthan,UPI
+ORD00670,2023-08-15,Electronics,Headphones,1,18487,18487,3522.11,West Bengal,Cash on Delivery
+ORD00671,2023-05-27,Clothing,Jacket,3,4487,13461,2343.08,Rajasthan,Cash on Delivery
+ORD00672,2023-01-20,Clothing,Sneakers,3,9889,29667,2692.54,Rajasthan,Credit Card
+ORD00673,2023-02-16,Sports,Yoga Mat,4,1351,5404,1494.98,Uttar Pradesh,Credit Card
+ORD00674,2023-08-21,Electronics,Headphones,1,5146,5146,1263.56,Karnataka,Cash on Delivery
+ORD00675,2023-11-01,Books,Exam Guide,3,19119,57357,14304.08,Rajasthan,UPI
+ORD00676,2023-01-14,Home & Kitchen,Mixer,1,17877,17877,4662.67,Maharashtra,Credit Card
+ORD00677,2023-05-23,Home & Kitchen,Air Fryer,3,14411,43233,8203.25,Gujarat,UPI
+ORD00678,2023-01-01,Electronics,Laptop,1,5197,5197,969.8,Maharashtra,Debit Card
+ORD00679,2023-02-23,Beauty,Moisturizer,1,5487,5487,345.23,Rajasthan,Credit Card
+ORD00680,2023-09-16,Electronics,Smartphone,1,18060,18060,4146.82,Gujarat,Net Banking
+ORD00681,2023-05-24,Electronics,Tablet,2,1199,2398,227.36,Gujarat,Cash on Delivery
+ORD00682,2023-01-12,Electronics,Headphones,4,8325,33300,6266.29,Rajasthan,Cash on Delivery
+ORD00683,2023-11-26,Electronics,Tablet,4,5186,20744,5597.46,Uttar Pradesh,Net Banking
+ORD00684,2023-08-12,Sports,Football,1,3931,3931,862.02,Rajasthan,Debit Card
+ORD00685,2023-09-29,Clothing,Jacket,4,19677,78708,17172.18,Tamil Nadu,UPI
+ORD00686,2023-12-24,Beauty,Perfume,1,10958,10958,1404.99,Maharashtra,Debit Card
+ORD00687,2023-06-05,Beauty,Lipstick,3,12089,36267,9364.41,Rajasthan,UPI
+ORD00688,2023-01-08,Beauty,Face Wash,3,11642,34926,1852.45,Gujarat,UPI
+ORD00689,2023-05-02,Clothing,Dress,4,16399,65596,4129.86,Uttar Pradesh,Cash on Delivery
+ORD00690,2023-12-14,Electronics,Laptop,1,19781,19781,2921.07,Tamil Nadu,Credit Card
+ORD00691,2023-06-13,Beauty,Lipstick,1,16723,16723,3433.62,Rajasthan,UPI
+ORD00692,2023-03-31,Beauty,Lipstick,1,11008,11008,2966.61,Rajasthan,Net Banking
+ORD00693,2023-05-16,Clothing,Jacket,1,6461,6461,722.23,Gujarat,Net Banking
+ORD00694,2023-07-05,Books,Exam Guide,1,16633,16633,2631.2,West Bengal,UPI
+ORD00695,2023-11-12,Clothing,Dress,3,12453,37359,5360.28,Gujarat,UPI
+ORD00696,2023-06-27,Books,Science Book,4,6632,26528,5582.38,Uttar Pradesh,UPI
+ORD00697,2023-01-28,Beauty,Lipstick,2,19022,38044,7915.84,Rajasthan,UPI
+ORD00698,2023-08-08,Electronics,Tablet,2,6141,12282,2459.79,Uttar Pradesh,Net Banking
+ORD00699,2023-12-23,Sports,Football,4,15366,61464,9711.6,Delhi,Cash on Delivery
+ORD00700,2023-02-10,Books,Exam Guide,1,5988,5988,1762.13,West Bengal,UPI
+ORD00701,2023-08-16,Books,Novel,2,17101,34202,6393.93,Rajasthan,Cash on Delivery
+ORD00702,2023-07-11,Clothing,Jacket,4,2188,8752,852.92,Uttar Pradesh,UPI
+ORD00703,2023-05-25,Books,Exam Guide,4,14456,57824,7900.55,Rajasthan,Cash on Delivery
+ORD00704,2023-07-20,Electronics,Smartwatch,4,7362,29448,5929.96,West Bengal,Net Banking
+ORD00705,2023-07-31,Beauty,Hair Dryer,2,14314,28628,3353.3,Rajasthan,Net Banking
+ORD00706,2023-08-08,Electronics,Headphones,4,11025,44100,9809.81,Maharashtra,Credit Card
+ORD00707,2023-08-28,Clothing,Jacket,2,1718,3436,989.07,Karnataka,Net Banking
+ORD00708,2023-02-15,Electronics,Tablet,3,2800,8400,613.34,Rajasthan,UPI
+ORD00709,2023-02-04,Beauty,Face Wash,4,3754,15016,3185.29,Delhi,Credit Card
+ORD00710,2023-09-10,Home & Kitchen,Cookware Set,2,19433,38866,8781.7,Uttar Pradesh,Cash on Delivery
+ORD00711,2023-03-23,Home & Kitchen,Air Fryer,2,1942,3884,741.51,West Bengal,Net Banking
+ORD00712,2023-09-13,Books,Comics,1,12968,12968,2827.21,Karnataka,UPI
+ORD00713,2023-07-16,Electronics,Smartwatch,2,13232,26464,4801.6,Maharashtra,UPI
+ORD00714,2023-10-30,Beauty,Face Wash,3,19139,57417,2899.82,Maharashtra,Debit Card
+ORD00715,2023-01-10,Home & Kitchen,Vacuum Cleaner,4,9480,37920,3005.79,Gujarat,Cash on Delivery
+ORD00716,2023-11-08,Clothing,Sneakers,1,15638,15638,1614.96,West Bengal,UPI
+ORD00717,2023-10-13,Beauty,Face Wash,3,15426,46278,11249.04,West Bengal,Cash on Delivery
+ORD00718,2023-08-30,Home & Kitchen,Mixer,4,19045,76180,16761.73,Tamil Nadu,Credit Card
+ORD00719,2023-09-08,Books,Novel,4,4596,18384,3598.33,Delhi,UPI
+ORD00720,2023-12-31,Books,Novel,1,282,282,81.61,Karnataka,Debit Card
+ORD00721,2023-01-05,Sports,Football,4,11536,46144,11995.15,Karnataka,UPI
+ORD00722,2023-04-29,Sports,Dumbbells,2,8567,17134,3705.2,West Bengal,Debit Card
+ORD00723,2023-10-16,Beauty,Perfume,2,16953,33906,7991.86,Karnataka,Cash on Delivery
+ORD00724,2023-03-06,Beauty,Face Wash,2,18363,36726,8707.59,Uttar Pradesh,Cash on Delivery
+ORD00725,2023-05-26,Sports,Dumbbells,3,3876,11628,2071.9,Rajasthan,Credit Card
+ORD00726,2023-08-12,Books,Exam Guide,3,3162,9486,1872.19,Uttar Pradesh,UPI
+ORD00727,2023-08-27,Books,Novel,1,4338,4338,908.47,Maharashtra,Net Banking
+ORD00728,2023-06-26,Clothing,Jacket,2,4217,8434,1927.28,Gujarat,Debit Card
+ORD00729,2023-09-24,Beauty,Face Wash,4,10478,41912,4183.55,Tamil Nadu,Cash on Delivery
+ORD00730,2023-12-07,Sports,Yoga Mat,3,1334,4002,939.19,Rajasthan,Net Banking
+ORD00731,2023-10-09,Beauty,Hair Dryer,3,5319,15957,1788.68,Maharashtra,UPI
+ORD00732,2023-03-04,Home & Kitchen,Air Fryer,1,4364,4364,302.37,Karnataka,UPI
+ORD00733,2023-08-05,Sports,Cycling Helmet,2,14831,29662,4114.57,Maharashtra,Debit Card
+ORD00734,2023-12-08,Home & Kitchen,Mixer,2,17921,35842,7142.38,Uttar Pradesh,UPI
+ORD00735,2023-11-11,Electronics,Laptop,4,12825,51300,7338.47,Gujarat,Debit Card
+ORD00736,2023-10-10,Sports,Dumbbells,3,1561,4683,1176.71,Rajasthan,Net Banking
+ORD00737,2023-06-26,Clothing,Sneakers,3,5483,16449,4657.99,Rajasthan,Cash on Delivery
+ORD00738,2023-04-08,Clothing,Dress,1,15039,15039,1504.96,Karnataka,Net Banking
+ORD00739,2023-04-15,Clothing,Dress,2,1069,2138,503.97,Tamil Nadu,Debit Card
+ORD00740,2023-04-09,Clothing,Jacket,4,17186,68744,12398.82,West Bengal,Net Banking
+ORD00741,2023-11-07,Electronics,Headphones,3,17073,51219,8034.92,Delhi,Cash on Delivery
+ORD00742,2023-01-06,Clothing,Jeans,1,8224,8224,1097.1,Rajasthan,Net Banking
+ORD00743,2023-07-16,Sports,Dumbbells,4,11235,44940,12529.91,Rajasthan,Cash on Delivery
+ORD00744,2023-12-17,Beauty,Moisturizer,1,18457,18457,4556.05,West Bengal,Debit Card
+ORD00745,2023-05-13,Electronics,Tablet,1,3017,3017,626.21,Delhi,Debit Card
+ORD00746,2023-12-24,Home & Kitchen,Mixer,3,5507,16521,4269.2,Tamil Nadu,Debit Card
+ORD00747,2023-09-16,Sports,Yoga Mat,4,10859,43436,7981.64,Karnataka,Cash on Delivery
+ORD00748,2023-01-23,Sports,Dumbbells,3,5868,17604,4330.53,Maharashtra,Net Banking
+ORD00749,2023-02-22,Electronics,Headphones,2,16646,33292,4098.1,Gujarat,Net Banking
+ORD00750,2023-06-14,Electronics,Smartwatch,3,7552,22656,2271.82,Uttar Pradesh,Cash on Delivery
+ORD00751,2023-07-21,Electronics,Laptop,2,8526,17052,1092.08,Tamil Nadu,Credit Card
+ORD00752,2023-03-24,Beauty,Lipstick,2,8203,16406,1681.74,Gujarat,Credit Card
+ORD00753,2023-05-25,Beauty,Face Wash,1,3274,3274,499.02,Uttar Pradesh,Debit Card
+ORD00754,2023-03-26,Books,Comics,2,8512,17024,1958.77,Gujarat,Net Banking
+ORD00755,2023-03-19,Books,Science Book,2,13852,27704,2496.56,Karnataka,Net Banking
+ORD00756,2023-01-01,Clothing,Jeans,1,2232,2232,215.19,Uttar Pradesh,Credit Card
+ORD00757,2023-02-20,Sports,Yoga Mat,1,16825,16825,4549.86,Tamil Nadu,Net Banking
+ORD00758,2023-06-22,Sports,Football,1,14838,14838,3283.41,Gujarat,UPI
+ORD00759,2023-07-24,Home & Kitchen,Water Bottle,3,12556,37668,1958.4,Tamil Nadu,Net Banking
+ORD00760,2023-09-17,Books,Novel,4,11907,47628,7659.85,Karnataka,Cash on Delivery
+ORD00761,2023-10-15,Electronics,Headphones,2,3806,7612,865.64,Karnataka,Debit Card
+ORD00762,2023-02-03,Clothing,Jeans,1,14587,14587,3911.63,Gujarat,Debit Card
+ORD00763,2023-12-14,Books,Science Book,1,13822,13822,1437.7,West Bengal,Debit Card
+ORD00764,2023-04-05,Sports,Yoga Mat,3,12327,36981,9119.12,Rajasthan,Cash on Delivery
+ORD00765,2023-03-13,Beauty,Face Wash,2,6321,12642,1812.61,Maharashtra,Cash on Delivery
+ORD00766,2023-02-08,Sports,Yoga Mat,2,19438,38876,4196.5,Gujarat,Cash on Delivery
+ORD00767,2023-06-03,Beauty,Lipstick,1,7172,7172,1062.77,Delhi,Credit Card
+ORD00768,2023-09-07,Books,Science Book,3,19178,57534,7894.96,Gujarat,Credit Card
+ORD00769,2023-06-11,Sports,Dumbbells,1,286,286,74.21,Uttar Pradesh,Cash on Delivery
+ORD00770,2023-04-28,Clothing,Dress,3,16522,49566,7614.78,Tamil Nadu,UPI
+ORD00771,2023-09-16,Home & Kitchen,Vacuum Cleaner,3,19357,58071,7199.97,Karnataka,Net Banking
+ORD00772,2023-11-02,Beauty,Lipstick,3,1900,5700,870.81,Delhi,Credit Card
+ORD00773,2023-09-25,Electronics,Smartwatch,4,12021,48084,7029.92,Delhi,Credit Card
+ORD00774,2023-02-23,Clothing,Dress,4,5720,22880,5380.38,West Bengal,Credit Card
+ORD00775,2023-08-24,Beauty,Perfume,1,9037,9037,2235.37,Karnataka,UPI
+ORD00776,2023-08-10,Clothing,Jacket,2,4957,9914,1837.48,Maharashtra,UPI
+ORD00777,2023-09-08,Home & Kitchen,Mixer,2,9112,18224,2798.3,Gujarat,Debit Card
+ORD00778,2023-11-09,Electronics,Smartwatch,4,7281,29124,7875.58,Tamil Nadu,Debit Card
+ORD00779,2023-04-22,Beauty,Face Wash,2,1873,3746,781.64,Maharashtra,Credit Card
+ORD00780,2023-09-12,Clothing,Dress,3,11371,34113,2715.52,Maharashtra,Debit Card
+ORD00781,2023-10-30,Sports,Football,2,12003,24006,3066.78,West Bengal,Credit Card
+ORD00782,2023-07-26,Electronics,Headphones,3,2494,7482,830.0,Maharashtra,Cash on Delivery
+ORD00783,2023-08-17,Books,Exam Guide,3,16730,50190,6721.37,West Bengal,Credit Card
+ORD00784,2023-12-07,Clothing,Dress,2,4707,9414,1816.7,Maharashtra,Credit Card
+ORD00785,2023-03-07,Electronics,Headphones,3,5828,17484,2687.01,Gujarat,UPI
+ORD00786,2023-03-16,Clothing,Dress,1,19589,19589,5247.25,Karnataka,Debit Card
+ORD00787,2023-04-13,Electronics,Tablet,3,14865,44595,6821.53,Delhi,Net Banking
+ORD00788,2023-07-11,Books,Exam Guide,2,8840,17680,1784.21,West Bengal,UPI
+ORD00789,2023-09-09,Books,Exam Guide,2,5818,11636,2172.11,Karnataka,Cash on Delivery
+ORD00790,2023-08-14,Sports,Dumbbells,1,11369,11369,631.38,Uttar Pradesh,Credit Card
+ORD00791,2023-10-21,Electronics,Laptop,3,404,1212,271.68,Maharashtra,Net Banking
+ORD00792,2023-11-02,Books,Science Book,1,5127,5127,1452.39,Gujarat,Cash on Delivery
+ORD00793,2023-04-08,Home & Kitchen,Cookware Set,3,19271,57813,17061.13,Uttar Pradesh,UPI
+ORD00794,2023-12-04,Books,Novel,1,16010,16010,1618.28,Uttar Pradesh,Net Banking
+ORD00795,2023-10-13,Sports,Cycling Helmet,1,13614,13614,2107.69,Tamil Nadu,Credit Card
+ORD00796,2023-12-01,Books,Biography,1,3845,3845,954.29,Uttar Pradesh,Net Banking
+ORD00797,2023-12-13,Sports,Cycling Helmet,1,18372,18372,2793.09,Uttar Pradesh,Cash on Delivery
+ORD00798,2023-11-04,Home & Kitchen,Mixer,1,3900,3900,411.35,Uttar Pradesh,Cash on Delivery
+ORD00799,2023-09-06,Beauty,Face Wash,2,9559,19118,1003.59,Uttar Pradesh,Cash on Delivery
+ORD00800,2023-06-15,Books,Comics,4,9488,37952,6979.91,Maharashtra,Net Banking
+ORD00801,2023-12-01,Electronics,Headphones,1,704,704,189.05,Gujarat,Debit Card
+ORD00802,2023-01-30,Beauty,Hair Dryer,1,10938,10938,895.24,Rajasthan,UPI
+ORD00803,2023-09-04,Sports,Football,2,4016,8032,1469.01,West Bengal,Credit Card
+ORD00804,2023-04-16,Electronics,Tablet,1,4634,4634,1182.36,Maharashtra,Credit Card
+ORD00805,2023-02-20,Home & Kitchen,Cookware Set,1,5194,5194,277.06,Delhi,Credit Card
+ORD00806,2023-03-22,Beauty,Hair Dryer,2,4837,9674,2050.34,Tamil Nadu,Net Banking
+ORD00807,2023-05-13,Beauty,Moisturizer,2,10874,21748,2614.56,Rajasthan,Credit Card
+ORD00808,2023-10-12,Books,Comics,2,12199,24398,1475.99,Karnataka,UPI
+ORD00809,2023-05-18,Electronics,Headphones,2,2963,5926,565.52,Maharashtra,Net Banking
+ORD00810,2023-07-03,Clothing,Jeans,4,10731,42924,11245.31,Gujarat,Cash on Delivery
+ORD00811,2023-11-26,Sports,Cricket Bat,4,11264,45056,13310.75,Tamil Nadu,Cash on Delivery
+ORD00812,2023-09-30,Books,Exam Guide,2,15369,30738,5481.88,Delhi,Debit Card
+ORD00813,2023-12-06,Electronics,Smartwatch,2,2582,5164,557.13,Maharashtra,Cash on Delivery
+ORD00814,2023-03-10,Sports,Cycling Helmet,1,834,834,50.63,Delhi,UPI
+ORD00815,2023-02-03,Books,Exam Guide,3,14362,43086,2908.34,Maharashtra,Credit Card
+ORD00816,2023-09-19,Books,Exam Guide,2,12527,25054,1683.09,Delhi,Debit Card
+ORD00817,2023-02-22,Beauty,Lipstick,2,3090,6180,1323.65,Tamil Nadu,Debit Card
+ORD00818,2023-07-24,Home & Kitchen,Cookware Set,3,8226,24678,3573.54,Tamil Nadu,Credit Card
+ORD00819,2023-05-06,Electronics,Headphones,2,9477,18954,4939.06,Rajasthan,UPI
+ORD00820,2023-08-23,Sports,Cricket Bat,1,14883,14883,3095.62,Tamil Nadu,Net Banking
+ORD00821,2023-02-12,Books,Novel,2,11967,23934,4478.17,West Bengal,Cash on Delivery
+ORD00822,2023-08-28,Sports,Yoga Mat,1,16833,16833,3147.91,Delhi,Cash on Delivery
+ORD00823,2023-04-21,Sports,Football,4,3054,12216,2679.8,Gujarat,Debit Card
+ORD00824,2023-09-06,Home & Kitchen,Mixer,4,11818,47272,10295.34,Maharashtra,Debit Card
+ORD00825,2023-05-31,Books,Comics,4,8435,33740,7947.91,Delhi,Credit Card
+ORD00826,2023-07-02,Electronics,Laptop,3,3363,10089,996.23,Delhi,Cash on Delivery
+ORD00827,2023-12-02,Home & Kitchen,Air Fryer,4,2125,8500,2018.7,Karnataka,Debit Card
+ORD00828,2023-04-05,Electronics,Tablet,1,11166,11166,2248.31,Rajasthan,Debit Card
+ORD00829,2023-01-08,Home & Kitchen,Cookware Set,1,16135,16135,3930.09,Rajasthan,UPI
+ORD00830,2023-12-26,Home & Kitchen,Mixer,2,11948,23896,4430.6,Gujarat,Credit Card
+ORD00831,2023-07-03,Sports,Cricket Bat,2,19475,38950,6562.31,Karnataka,Debit Card
+ORD00832,2023-10-08,Sports,Cricket Bat,1,6610,6610,778.23,Rajasthan,Credit Card
+ORD00833,2023-07-14,Beauty,Lipstick,4,17199,68796,8837.31,Tamil Nadu,UPI
+ORD00834,2023-12-18,Electronics,Tablet,4,7604,30416,3155.0,West Bengal,Credit Card
+ORD00835,2023-07-14,Home & Kitchen,Cookware Set,2,11173,22346,6188.94,Tamil Nadu,Net Banking
+ORD00836,2023-06-04,Home & Kitchen,Water Bottle,4,12882,51528,4997.19,Uttar Pradesh,Cash on Delivery
+ORD00837,2023-04-03,Home & Kitchen,Water Bottle,1,19145,19145,1596.94,West Bengal,Debit Card
+ORD00838,2023-06-09,Books,Comics,3,1057,3171,515.9,Uttar Pradesh,Debit Card
+ORD00839,2023-03-02,Electronics,Smartwatch,2,13880,27760,3275.31,Delhi,Debit Card
+ORD00840,2023-05-02,Sports,Yoga Mat,2,10944,21888,2539.35,Delhi,UPI
+ORD00841,2023-02-20,Electronics,Smartwatch,2,12426,24852,5196.39,Tamil Nadu,Credit Card
+ORD00842,2023-10-04,Clothing,Sneakers,1,15220,15220,3903.62,Uttar Pradesh,Cash on Delivery
+ORD00843,2023-01-05,Beauty,Face Wash,1,16340,16340,3491.49,Karnataka,UPI
+ORD00844,2023-04-02,Electronics,Smartphone,3,8157,24471,1609.83,Uttar Pradesh,Net Banking
+ORD00845,2023-06-19,Beauty,Lipstick,1,1430,1430,349.64,West Bengal,Credit Card
+ORD00846,2023-11-13,Sports,Cricket Bat,3,5133,15399,3798.58,Karnataka,Cash on Delivery
+ORD00847,2023-01-22,Electronics,Tablet,2,403,806,70.65,Delhi,Cash on Delivery
+ORD00848,2023-11-22,Books,Exam Guide,4,3948,15792,1814.41,Uttar Pradesh,UPI
+ORD00849,2023-01-01,Home & Kitchen,Vacuum Cleaner,2,15428,30856,8324.84,Rajasthan,UPI
+ORD00850,2023-05-13,Home & Kitchen,Air Fryer,3,5910,17730,3356.9,Tamil Nadu,Debit Card
+ORD00851,2023-08-21,Electronics,Laptop,4,18421,73684,15968.2,Karnataka,Net Banking
+ORD00852,2023-01-12,Electronics,Laptop,2,2303,4606,461.83,Maharashtra,Debit Card
+ORD00853,2023-12-12,Beauty,Moisturizer,4,16303,65212,15263.34,Gujarat,Cash on Delivery
+ORD00854,2023-02-15,Electronics,Tablet,3,12591,37773,8185.14,Gujarat,Debit Card
+ORD00855,2023-02-03,Beauty,Lipstick,2,15823,31646,3552.33,West Bengal,UPI
+ORD00856,2023-03-19,Electronics,Smartphone,2,12231,24462,7138.4,Karnataka,UPI
+ORD00857,2023-08-06,Books,Comics,3,10067,30201,3976.26,Delhi,Debit Card
+ORD00858,2023-10-28,Home & Kitchen,Cookware Set,3,9506,28518,7177.02,Maharashtra,Debit Card
+ORD00859,2023-03-14,Home & Kitchen,Air Fryer,2,18058,36116,10813.39,Delhi,UPI
+ORD00860,2023-10-09,Home & Kitchen,Cookware Set,3,12838,38514,2314.22,Delhi,Cash on Delivery
+ORD00861,2023-09-06,Beauty,Hair Dryer,1,19412,19412,1601.88,Uttar Pradesh,Credit Card
+ORD00862,2023-02-16,Beauty,Face Wash,4,10898,43592,6107.53,Karnataka,Credit Card
+ORD00863,2023-05-01,Electronics,Smartphone,3,14482,43446,2321.09,Uttar Pradesh,Debit Card
+ORD00864,2023-08-02,Clothing,Dress,4,6844,27376,2956.73,Gujarat,Credit Card
+ORD00865,2023-08-27,Sports,Cycling Helmet,2,10901,21802,6086.05,Tamil Nadu,Credit Card
+ORD00866,2023-02-25,Electronics,Smartphone,1,17575,17575,2236.23,Uttar Pradesh,Cash on Delivery
+ORD00867,2023-12-16,Clothing,T-Shirt,3,4039,12117,2482.55,Gujarat,Credit Card
+ORD00868,2023-04-17,Electronics,Smartwatch,3,13719,41157,6325.99,Delhi,Debit Card
+ORD00869,2023-11-15,Sports,Dumbbells,1,10976,10976,739.04,Rajasthan,Cash on Delivery
+ORD00870,2023-02-17,Electronics,Smartwatch,1,4678,4678,1091.15,Rajasthan,Debit Card
+ORD00871,2023-03-02,Home & Kitchen,Cookware Set,2,772,1544,227.44,Karnataka,UPI
+ORD00872,2023-12-03,Home & Kitchen,Air Fryer,4,15607,62428,12436.47,Karnataka,Credit Card
+ORD00873,2023-01-26,Sports,Cycling Helmet,4,850,3400,959.77,Uttar Pradesh,UPI
+ORD00874,2023-10-19,Beauty,Moisturizer,3,19171,57513,10462.73,West Bengal,Credit Card
+ORD00875,2023-09-14,Electronics,Headphones,3,5196,15588,4659.37,Rajasthan,Debit Card
+ORD00876,2023-01-08,Beauty,Perfume,4,14411,57644,15290.72,Uttar Pradesh,Net Banking
+ORD00877,2023-04-23,Electronics,Smartwatch,2,14432,28864,5080.09,Gujarat,Cash on Delivery
+ORD00878,2023-12-21,Sports,Dumbbells,4,19545,78180,10992.72,Gujarat,Net Banking
+ORD00879,2023-09-10,Sports,Yoga Mat,2,7231,14462,4127.79,Rajasthan,UPI
+ORD00880,2023-06-29,Clothing,T-Shirt,1,3916,3916,249.05,Gujarat,Net Banking
+ORD00881,2023-07-26,Clothing,T-Shirt,3,19488,58464,12403.71,Tamil Nadu,Credit Card
+ORD00882,2023-10-30,Beauty,Hair Dryer,2,1117,2234,198.94,Gujarat,Net Banking
+ORD00883,2023-05-07,Clothing,Jeans,4,7182,28728,5740.59,Maharashtra,Debit Card
+ORD00884,2023-02-25,Books,Exam Guide,3,17199,51597,11675.62,Tamil Nadu,Net Banking
+ORD00885,2023-08-02,Books,Novel,2,12580,25160,7225.6,Uttar Pradesh,Net Banking
+ORD00886,2023-01-14,Beauty,Lipstick,2,11867,23734,5253.49,Karnataka,Debit Card
+ORD00887,2023-01-28,Clothing,Sneakers,1,8766,8766,814.0,Gujarat,UPI
+ORD00888,2023-03-19,Sports,Cricket Bat,3,1519,4557,1142.45,Gujarat,Net Banking
+ORD00889,2023-08-04,Sports,Football,2,14701,29402,5409.49,Uttar Pradesh,Cash on Delivery
+ORD00890,2023-12-31,Sports,Yoga Mat,4,5413,21652,5854.79,Karnataka,Cash on Delivery
+ORD00891,2023-06-03,Electronics,Smartphone,2,19373,38746,8161.63,Delhi,Debit Card
+ORD00892,2023-01-14,Sports,Football,2,10002,20004,3964.99,Delhi,Net Banking
+ORD00893,2023-07-06,Beauty,Face Wash,4,11613,46452,10482.36,Gujarat,Net Banking
+ORD00894,2023-11-08,Clothing,Jeans,1,12783,12783,1376.71,Gujarat,Debit Card
+ORD00895,2023-01-07,Home & Kitchen,Mixer,1,18971,18971,5126.78,Delhi,Debit Card
+ORD00896,2023-01-03,Sports,Football,4,13317,53268,10610.67,Maharashtra,Net Banking
+ORD00897,2023-04-21,Home & Kitchen,Mixer,4,1462,5848,1291.61,Gujarat,Cash on Delivery
+ORD00898,2023-08-26,Sports,Cricket Bat,3,7582,22746,2766.59,Gujarat,UPI
+ORD00899,2023-12-29,Home & Kitchen,Cookware Set,3,18843,56529,5882.22,Karnataka,Cash on Delivery
+ORD00900,2023-08-27,Books,Science Book,1,14262,14262,2863.24,Gujarat,Debit Card
+ORD00901,2023-10-01,Books,Comics,1,1430,1430,374.44,Gujarat,Debit Card
+ORD00902,2023-10-21,Books,Comics,2,14915,29830,1991.28,Karnataka,Cash on Delivery
+ORD00903,2023-08-15,Home & Kitchen,Vacuum Cleaner,3,15827,47481,12071.73,Karnataka,Debit Card
+ORD00904,2023-01-15,Books,Novel,4,7153,28612,8139.87,Rajasthan,Net Banking
+ORD00905,2023-07-11,Electronics,Laptop,3,1746,5238,1295.63,Gujarat,Net Banking
+ORD00906,2023-04-29,Clothing,Sneakers,3,2611,7833,720.87,Maharashtra,Cash on Delivery
+ORD00907,2023-01-28,Clothing,Jacket,3,4345,13035,1526.93,Maharashtra,Debit Card
+ORD00908,2023-07-21,Home & Kitchen,Vacuum Cleaner,2,13051,26102,4166.25,Karnataka,Credit Card
+ORD00909,2023-02-08,Books,Biography,4,4170,16680,4942.72,West Bengal,Credit Card
+ORD00910,2023-09-30,Home & Kitchen,Cookware Set,1,14319,14319,1125.59,Uttar Pradesh,Credit Card
+ORD00911,2023-08-19,Home & Kitchen,Vacuum Cleaner,4,10495,41980,3731.72,Maharashtra,Credit Card
+ORD00912,2023-03-27,Electronics,Smartwatch,3,16775,50325,6282.87,West Bengal,Cash on Delivery
+ORD00913,2023-05-06,Clothing,Dress,2,9475,18950,4863.6,West Bengal,Cash on Delivery
+ORD00914,2023-10-27,Home & Kitchen,Water Bottle,4,15608,62432,8642.1,Rajasthan,Credit Card
+ORD00915,2023-01-25,Beauty,Hair Dryer,1,16551,16551,4863.4,Uttar Pradesh,Debit Card
+ORD00916,2023-05-25,Beauty,Face Wash,2,11549,23098,6341.78,Delhi,UPI
+ORD00917,2023-01-13,Electronics,Headphones,2,6279,12558,868.01,Tamil Nadu,Credit Card
+ORD00918,2023-07-31,Electronics,Headphones,4,12358,49432,5825.14,Karnataka,Cash on Delivery
+ORD00919,2023-01-25,Clothing,T-Shirt,2,12105,24210,6229.92,Maharashtra,UPI
+ORD00920,2023-03-09,Sports,Cycling Helmet,3,2211,6633,1355.15,West Bengal,Credit Card
+ORD00921,2023-03-08,Beauty,Perfume,2,10892,21784,3695.09,Rajasthan,Debit Card
+ORD00922,2023-08-21,Electronics,Smartphone,2,1647,3294,414.73,Gujarat,Debit Card
+ORD00923,2023-04-19,Clothing,Dress,4,19767,79068,7397.67,Tamil Nadu,UPI
+ORD00924,2023-05-26,Home & Kitchen,Cookware Set,3,19800,59400,9529.94,Maharashtra,Credit Card
+ORD00925,2023-04-21,Beauty,Hair Dryer,3,7857,23571,6024.64,West Bengal,Debit Card
+ORD00926,2023-08-16,Electronics,Headphones,2,8617,17234,2836.85,Delhi,Cash on Delivery
+ORD00927,2023-04-21,Electronics,Headphones,1,5408,5408,1046.84,West Bengal,Debit Card
+ORD00928,2023-02-03,Electronics,Smartphone,3,13423,40269,8700.13,Uttar Pradesh,Debit Card
+ORD00929,2023-04-21,Books,Biography,2,9686,19372,1186.35,Maharashtra,Cash on Delivery
+ORD00930,2023-09-21,Electronics,Headphones,3,7892,23676,7040.36,Rajasthan,Cash on Delivery
+ORD00931,2023-08-24,Beauty,Lipstick,1,7324,7324,1262.28,Maharashtra,Net Banking
+ORD00932,2023-03-24,Beauty,Perfume,4,14736,58944,10205.7,Gujarat,Cash on Delivery
+ORD00933,2023-02-11,Home & Kitchen,Cookware Set,4,19693,78772,20445.87,West Bengal,Credit Card
+ORD00934,2023-04-11,Home & Kitchen,Air Fryer,3,426,1278,319.41,West Bengal,UPI
+ORD00935,2023-01-06,Clothing,Jacket,4,5758,23032,5173.74,Delhi,Debit Card
+ORD00936,2023-06-29,Books,Novel,3,14880,44640,7966.57,Maharashtra,UPI
+ORD00937,2023-10-09,Sports,Dumbbells,4,2132,8528,2323.63,Uttar Pradesh,Net Banking
+ORD00938,2023-11-16,Electronics,Smartwatch,1,1452,1452,257.78,Rajasthan,Net Banking
+ORD00939,2023-08-14,Books,Science Book,1,14723,14723,2538.34,Uttar Pradesh,Cash on Delivery
+ORD00940,2023-11-11,Home & Kitchen,Mixer,3,18158,54474,15420.54,Rajasthan,Credit Card
+ORD00941,2023-12-31,Sports,Cycling Helmet,1,1895,1895,227.12,Karnataka,Credit Card
+ORD00942,2023-08-17,Beauty,Perfume,3,1645,4935,1301.24,Karnataka,Debit Card
+ORD00943,2023-10-16,Clothing,Jeans,1,10149,10149,2674.92,Delhi,Cash on Delivery
+ORD00944,2023-05-30,Electronics,Smartwatch,3,7101,21303,5462.68,Uttar Pradesh,Debit Card
+ORD00945,2023-10-04,Sports,Yoga Mat,2,7055,14110,2676.55,Gujarat,Credit Card
+ORD00946,2023-07-17,Electronics,Smartwatch,2,14720,29440,7254.33,Rajasthan,Net Banking
+ORD00947,2023-03-11,Home & Kitchen,Vacuum Cleaner,4,12074,48296,13751.02,West Bengal,Credit Card
+ORD00948,2023-04-22,Books,Comics,4,17282,69128,9288.73,Rajasthan,Credit Card
+ORD00949,2023-01-04,Beauty,Perfume,3,16932,50796,12647.27,Karnataka,Net Banking
+ORD00950,2023-12-16,Sports,Cycling Helmet,2,16891,33782,7370.93,Maharashtra,Credit Card
+ORD00951,2023-11-27,Sports,Cricket Bat,1,5020,5020,1347.96,Tamil Nadu,Net Banking
+ORD00952,2023-11-14,Home & Kitchen,Air Fryer,3,11869,35607,8471.58,Tamil Nadu,Cash on Delivery
+ORD00953,2023-12-16,Books,Science Book,1,11078,11078,2216.38,West Bengal,Credit Card
+ORD00954,2023-04-05,Clothing,Jacket,1,8667,8667,1249.2,Rajasthan,Debit Card
+ORD00955,2023-06-01,Sports,Cycling Helmet,1,10365,10365,1205.89,Rajasthan,Credit Card
+ORD00956,2023-11-07,Beauty,Lipstick,1,1110,1110,110.86,Uttar Pradesh,Credit Card
+ORD00957,2023-05-17,Books,Science Book,4,3329,13316,1455.05,Tamil Nadu,UPI
+ORD00958,2023-09-04,Electronics,Headphones,3,7646,22938,2818.28,Tamil Nadu,UPI
+ORD00959,2023-08-31,Home & Kitchen,Air Fryer,4,514,2056,225.21,Maharashtra,Debit Card
+ORD00960,2023-01-31,Clothing,Jacket,3,15788,47364,7889.65,West Bengal,UPI
+ORD00961,2023-02-09,Home & Kitchen,Air Fryer,1,18308,18308,1622.51,Maharashtra,Debit Card
+ORD00962,2023-08-17,Beauty,Perfume,2,11197,22394,3526.97,Rajasthan,Cash on Delivery
+ORD00963,2023-02-05,Sports,Yoga Mat,1,19941,19941,5980.1,Delhi,Net Banking
+ORD00964,2023-08-11,Clothing,T-Shirt,4,17081,68324,10212.14,Tamil Nadu,Net Banking
+ORD00965,2023-01-06,Beauty,Perfume,2,11801,23602,2187.36,Delhi,Debit Card
+ORD00966,2023-11-18,Clothing,Jeans,1,15196,15196,932.47,Delhi,Debit Card
+ORD00967,2023-08-08,Electronics,Smartwatch,1,13978,13978,2848.47,Delhi,UPI
+ORD00968,2023-03-16,Books,Exam Guide,1,19345,19345,4708.34,Tamil Nadu,UPI
+ORD00969,2023-01-04,Beauty,Hair Dryer,1,15006,15006,3099.95,Rajasthan,Credit Card
+ORD00970,2023-12-01,Books,Novel,2,2048,4096,653.49,Uttar Pradesh,UPI
+ORD00971,2023-05-14,Beauty,Hair Dryer,2,19656,39312,9788.76,West Bengal,Debit Card
+ORD00972,2023-04-28,Beauty,Hair Dryer,3,13609,40827,4240.91,Gujarat,UPI
+ORD00973,2023-04-04,Clothing,Jacket,4,2006,8024,1335.36,Maharashtra,UPI
+ORD00974,2023-03-03,Electronics,Smartwatch,1,13504,13504,2728.89,Delhi,Debit Card
+ORD00975,2023-07-13,Sports,Football,4,18274,73096,6825.27,Uttar Pradesh,Debit Card
+ORD00976,2023-12-01,Books,Exam Guide,1,3503,3503,350.16,Tamil Nadu,Cash on Delivery
+ORD00977,2023-07-22,Sports,Cricket Bat,3,15398,46194,11234.05,Delhi,Cash on Delivery
+ORD00978,2023-01-26,Clothing,Jeans,4,9124,36496,9639.45,Delhi,Debit Card
+ORD00979,2023-06-22,Home & Kitchen,Water Bottle,4,9983,39932,5863.24,Tamil Nadu,UPI
+ORD00980,2023-10-27,Beauty,Moisturizer,2,13101,26202,1435.58,Gujarat,Cash on Delivery
+ORD00981,2023-05-13,Home & Kitchen,Cookware Set,4,5117,20468,1471.39,West Bengal,UPI
+ORD00982,2023-11-22,Books,Comics,1,13882,13882,1891.71,Rajasthan,Net Banking
+ORD00983,2023-04-28,Electronics,Smartphone,1,12591,12591,3567.05,Gujarat,Net Banking
+ORD00984,2023-11-20,Books,Comics,4,10434,41736,8466.81,Tamil Nadu,UPI
+ORD00985,2023-10-02,Books,Novel,3,14719,44157,5713.36,West Bengal,Credit Card
+ORD00986,2023-07-31,Home & Kitchen,Vacuum Cleaner,2,9965,19930,5715.73,Gujarat,UPI
+ORD00987,2023-08-13,Home & Kitchen,Vacuum Cleaner,3,12189,36567,4364.86,Uttar Pradesh,Debit Card
+ORD00988,2023-01-20,Sports,Football,3,12139,36417,10591.52,Delhi,Net Banking
+ORD00989,2023-04-23,Beauty,Lipstick,4,3559,14236,2644.41,Karnataka,Credit Card
+ORD00990,2023-05-20,Books,Science Book,4,5566,22264,3538.0,Tamil Nadu,UPI
+ORD00991,2023-02-16,Beauty,Moisturizer,3,14530,43590,11437.3,Rajasthan,Credit Card
+ORD00992,2023-01-01,Sports,Cycling Helmet,2,12697,25394,7565.48,Uttar Pradesh,UPI
+ORD00993,2023-03-31,Books,Exam Guide,1,13455,13455,3831.3,West Bengal,UPI
+ORD00994,2023-05-22,Sports,Yoga Mat,2,15435,30870,3075.35,Karnataka,Net Banking
+ORD00995,2023-11-16,Clothing,Jacket,3,11351,34053,7748.19,Maharashtra,Cash on Delivery
+ORD00996,2023-02-07,Clothing,Jacket,3,9790,29370,8576.6,Karnataka,UPI
+ORD00997,2023-10-20,Books,Novel,1,7878,7878,1381.64,Uttar Pradesh,UPI
+ORD00998,2023-05-19,Clothing,Jacket,2,11441,22882,6319.82,Rajasthan,UPI
+ORD00999,2023-12-22,Home & Kitchen,Vacuum Cleaner,4,11473,45892,4327.53,Tamil Nadu,Cash on Delivery
+ORD01000,2023-11-29,Electronics,Smartwatch,4,9420,37680,2965.39,Delhi,Net Banking
+ORD01001,2023-09-16,Sports,Cycling Helmet,3,10903,32709,8048.1,Maharashtra,Cash on Delivery
+ORD01002,2023-06-10,Clothing,Sneakers,3,12592,37776,8155.12,Maharashtra,Cash on Delivery
+ORD01003,2023-06-27,Sports,Yoga Mat,2,14198,28396,4276.48,Rajasthan,Credit Card
+ORD01004,2023-01-10,Clothing,Jeans,3,12921,38763,10616.83,Uttar Pradesh,UPI
+ORD01005,2023-09-18,Beauty,Hair Dryer,3,2430,7290,559.61,West Bengal,Debit Card
+ORD01006,2023-05-18,Home & Kitchen,Cookware Set,2,4965,9930,2830.6,Maharashtra,Cash on Delivery
+ORD01007,2023-06-21,Home & Kitchen,Cookware Set,1,13472,13472,3580.64,Gujarat,Credit Card
+ORD01008,2023-01-13,Electronics,Smartwatch,4,12189,48756,4550.68,Tamil Nadu,Debit Card
+ORD01009,2023-06-17,Clothing,Sneakers,1,13371,13371,1631.08,Karnataka,Cash on Delivery
+ORD01010,2023-05-10,Electronics,Laptop,3,8385,25155,3144.01,Rajasthan,Cash on Delivery
+ORD01011,2023-03-25,Beauty,Moisturizer,4,17558,70232,11129.03,West Bengal,Cash on Delivery
+ORD01012,2023-11-17,Electronics,Smartphone,1,9375,9375,741.99,Uttar Pradesh,UPI
+ORD01013,2023-11-15,Electronics,Headphones,1,2872,2872,176.09,Uttar Pradesh,Credit Card
+ORD01014,2023-04-11,Books,Novel,4,8862,35448,7609.46,Uttar Pradesh,Debit Card
+ORD01015,2023-11-25,Books,Biography,2,13148,26296,6711.93,Tamil Nadu,Debit Card
+ORD01016,2023-09-30,Electronics,Smartwatch,2,13359,26718,5724.54,Tamil Nadu,Debit Card
+ORD01017,2023-09-22,Electronics,Smartphone,3,10577,31731,4178.93,Tamil Nadu,UPI
+ORD01018,2023-02-07,Beauty,Hair Dryer,1,3983,3983,1022.19,Gujarat,Cash on Delivery
+ORD01019,2023-04-04,Books,Exam Guide,1,2252,2252,168.19,Gujarat,Cash on Delivery
+ORD01020,2023-04-05,Home & Kitchen,Cookware Set,1,510,510,71.6,Karnataka,Cash on Delivery
+ORD01021,2023-11-01,Electronics,Laptop,3,1460,4380,859.66,Uttar Pradesh,Debit Card
+ORD01022,2023-03-10,Clothing,T-Shirt,1,17168,17168,4702.74,Karnataka,Credit Card
+ORD01023,2023-11-14,Home & Kitchen,Mixer,2,14211,28422,5804.8,Rajasthan,UPI
+ORD01024,2023-08-24,Sports,Cycling Helmet,3,18595,55785,5900.13,Delhi,Net Banking
+ORD01025,2023-11-30,Electronics,Smartphone,3,1825,5475,1354.37,Delhi,Credit Card
+ORD01026,2023-05-17,Books,Novel,4,6278,25112,4779.16,Rajasthan,Cash on Delivery
+ORD01027,2023-03-17,Beauty,Face Wash,1,9123,9123,2699.42,Tamil Nadu,Cash on Delivery
+ORD01028,2023-02-04,Books,Exam Guide,1,9006,9006,2633.63,Uttar Pradesh,Credit Card
+ORD01029,2023-01-01,Home & Kitchen,Air Fryer,1,18303,18303,2505.31,Maharashtra,Net Banking
+ORD01030,2023-10-23,Home & Kitchen,Water Bottle,3,6886,20658,1305.41,Karnataka,Cash on Delivery
+ORD01031,2023-11-16,Electronics,Tablet,4,17480,69920,11500.6,Maharashtra,UPI
+ORD01032,2023-03-01,Electronics,Smartphone,4,10550,42200,8170.31,West Bengal,Debit Card
+ORD01033,2023-11-16,Sports,Football,1,11654,11654,2589.41,Tamil Nadu,Net Banking
+ORD01034,2023-12-15,Clothing,Jacket,2,5654,11308,2885.51,Rajasthan,UPI
+ORD01035,2023-11-24,Clothing,T-Shirt,2,11050,22100,3043.28,West Bengal,Debit Card
+ORD01036,2023-09-24,Books,Science Book,4,7045,28180,7085.26,Gujarat,Debit Card
+ORD01037,2023-12-27,Electronics,Smartphone,1,9048,9048,2340.24,Maharashtra,Credit Card
+ORD01038,2023-08-17,Sports,Dumbbells,4,789,3156,878.07,Karnataka,Credit Card
+ORD01039,2023-09-27,Sports,Cricket Bat,3,6709,20127,1925.51,Maharashtra,UPI
+ORD01040,2023-11-12,Books,Exam Guide,4,11908,47632,9246.23,West Bengal,UPI
+ORD01041,2023-10-13,Home & Kitchen,Air Fryer,1,16852,16852,2776.89,Delhi,Credit Card
+ORD01042,2023-10-18,Clothing,T-Shirt,1,1215,1215,344.01,Tamil Nadu,UPI
+ORD01043,2023-08-01,Books,Biography,2,13469,26938,1862.55,Rajasthan,Credit Card
+ORD01044,2023-06-14,Electronics,Smartphone,3,7584,22752,4559.97,Delhi,Debit Card
+ORD01045,2023-01-05,Books,Exam Guide,3,11468,34404,4402.01,Gujarat,UPI
+ORD01046,2023-12-05,Beauty,Hair Dryer,2,9101,18202,3886.86,Tamil Nadu,Credit Card
+ORD01047,2023-03-19,Home & Kitchen,Vacuum Cleaner,2,9803,19606,3735.87,Karnataka,Credit Card
+ORD01048,2023-03-03,Beauty,Moisturizer,2,14919,29838,3275.78,West Bengal,UPI
+ORD01049,2023-05-12,Beauty,Moisturizer,3,12506,37518,9131.62,Rajasthan,Debit Card
+ORD01050,2023-03-30,Electronics,Laptop,3,17587,52761,11783.31,Delhi,Debit Card
+ORD01051,2023-08-25,Electronics,Smartwatch,3,18523,55569,10428.4,West Bengal,Net Banking
+ORD01052,2023-02-11,Books,Science Book,4,12919,51676,3188.23,Karnataka,Net Banking
+ORD01053,2023-03-30,Beauty,Lipstick,4,14898,59592,17315.37,Delhi,Debit Card
+ORD01054,2023-10-23,Beauty,Moisturizer,3,5095,15285,3630.3,Maharashtra,Cash on Delivery
+ORD01055,2023-11-24,Beauty,Face Wash,2,15361,30722,5666.54,Maharashtra,UPI
+ORD01056,2023-10-22,Books,Biography,1,7223,7223,752.92,Delhi,Net Banking
+ORD01057,2023-04-14,Books,Comics,2,4107,8214,1553.12,Uttar Pradesh,UPI
+ORD01058,2023-01-14,Sports,Cycling Helmet,4,5027,20108,5566.14,Maharashtra,Cash on Delivery
+ORD01059,2023-10-15,Books,Exam Guide,4,4724,18896,1984.5,West Bengal,UPI
+ORD01060,2023-06-28,Books,Science Book,4,18868,75472,17172.05,Karnataka,Net Banking
+ORD01061,2023-05-05,Sports,Cricket Bat,3,17341,52023,6733.01,Delhi,Debit Card
+ORD01062,2023-12-19,Sports,Dumbbells,3,12658,37974,4389.25,West Bengal,Debit Card
+ORD01063,2023-01-23,Electronics,Smartwatch,3,9972,29916,7751.97,Gujarat,Debit Card
+ORD01064,2023-03-04,Home & Kitchen,Vacuum Cleaner,3,3775,11325,1881.69,Delhi,Net Banking
+ORD01065,2023-05-23,Clothing,Sneakers,3,1201,3603,465.32,Rajasthan,Cash on Delivery
+ORD01066,2023-06-02,Clothing,T-Shirt,4,19429,77716,18504.14,West Bengal,Cash on Delivery
+ORD01067,2023-05-25,Sports,Dumbbells,2,5516,11032,2705.5,Maharashtra,Cash on Delivery
+ORD01068,2023-08-13,Beauty,Lipstick,3,12073,36219,9276.33,Maharashtra,Cash on Delivery
+ORD01069,2023-11-05,Books,Novel,1,19294,19294,4982.34,Maharashtra,Cash on Delivery
+ORD01070,2023-04-14,Beauty,Face Wash,2,1857,3714,405.89,Delhi,Credit Card
+ORD01071,2023-04-14,Sports,Cycling Helmet,4,19659,78636,19032.43,Tamil Nadu,Net Banking
+ORD01072,2023-02-08,Sports,Football,2,8679,17358,2750.25,West Bengal,UPI
+ORD01073,2023-07-17,Home & Kitchen,Mixer,3,18031,54093,10108.24,Uttar Pradesh,Cash on Delivery
+ORD01074,2023-05-14,Home & Kitchen,Water Bottle,1,18348,18348,5052.96,West Bengal,UPI
+ORD01075,2023-03-08,Books,Science Book,2,2871,5742,1556.59,Maharashtra,Credit Card
+ORD01076,2023-06-28,Books,Exam Guide,3,13322,39966,10276.14,Delhi,UPI
+ORD01077,2023-02-11,Home & Kitchen,Vacuum Cleaner,3,7463,22389,6524.98,Gujarat,Credit Card
+ORD01078,2023-01-15,Electronics,Laptop,4,11288,45152,10479.45,West Bengal,Debit Card
+ORD01079,2023-04-21,Books,Science Book,1,17309,17309,4415.64,Maharashtra,UPI
+ORD01080,2023-06-06,Sports,Football,3,7901,23703,1969.75,Uttar Pradesh,Credit Card
+ORD01081,2023-10-16,Beauty,Perfume,2,14391,28782,5895.59,West Bengal,Debit Card
+ORD01082,2023-08-19,Books,Biography,1,13904,13904,2793.07,Maharashtra,Cash on Delivery
+ORD01083,2023-06-06,Electronics,Tablet,3,11733,35199,7814.58,Maharashtra,Cash on Delivery
+ORD01084,2023-02-07,Beauty,Hair Dryer,1,14786,14786,4208.58,Karnataka,Cash on Delivery
+ORD01085,2023-04-07,Electronics,Tablet,3,13201,39603,8145.88,Delhi,Net Banking
+ORD01086,2023-10-16,Beauty,Hair Dryer,3,13580,40740,5166.0,West Bengal,Net Banking
+ORD01087,2023-09-11,Clothing,Sneakers,4,14238,56952,8787.6,Karnataka,Debit Card
+ORD01088,2023-07-15,Electronics,Smartwatch,4,2217,8868,822.37,Gujarat,Net Banking
+ORD01089,2023-03-27,Beauty,Moisturizer,4,19680,78720,19625.11,Uttar Pradesh,UPI
+ORD01090,2023-11-18,Beauty,Lipstick,2,12862,25724,6462.92,Tamil Nadu,Cash on Delivery
+ORD01091,2023-01-10,Clothing,Jeans,1,11818,11818,2370.84,Rajasthan,Net Banking
+ORD01092,2023-01-05,Books,Comics,2,10193,20386,2210.93,Tamil Nadu,Net Banking
+ORD01093,2023-05-03,Home & Kitchen,Water Bottle,3,18204,54612,14130.13,Uttar Pradesh,Debit Card
+ORD01094,2023-11-26,Clothing,Sneakers,1,3141,3141,838.97,Tamil Nadu,UPI
+ORD01095,2023-12-19,Books,Exam Guide,4,14656,58624,9081.26,Karnataka,Net Banking
+ORD01096,2023-04-28,Sports,Yoga Mat,2,5650,11300,1751.51,Maharashtra,UPI
+ORD01097,2023-10-21,Sports,Dumbbells,3,18137,54411,14391.1,Rajasthan,Net Banking
+ORD01098,2023-06-08,Home & Kitchen,Air Fryer,3,2081,6243,1789.8,Delhi,Net Banking
+ORD01099,2023-10-30,Electronics,Smartphone,1,13875,13875,1781.92,Rajasthan,Debit Card
+ORD01100,2023-08-16,Electronics,Smartphone,3,2545,7635,1504.77,Uttar Pradesh,UPI
+ORD01101,2023-12-31,Clothing,Jacket,1,6077,6077,1130.62,Tamil Nadu,Debit Card
+ORD01102,2023-08-04,Electronics,Headphones,3,18914,56742,10867.11,Uttar Pradesh,Net Banking
+ORD01103,2023-07-03,Electronics,Headphones,4,18486,73944,13183.9,West Bengal,Credit Card
+ORD01104,2023-01-15,Sports,Cycling Helmet,3,13379,40137,6282.66,Uttar Pradesh,Net Banking
+ORD01105,2023-06-06,Beauty,Perfume,2,216,432,45.55,Tamil Nadu,Credit Card
+ORD01106,2023-05-16,Beauty,Moisturizer,1,18411,18411,4682.4,Rajasthan,UPI
+ORD01107,2023-09-18,Sports,Cricket Bat,1,16673,16673,1231.14,Delhi,UPI
+ORD01108,2023-06-06,Clothing,Sneakers,4,16172,64688,4585.16,West Bengal,Debit Card
+ORD01109,2023-02-16,Books,Biography,4,17553,70212,15144.66,Uttar Pradesh,Debit Card
+ORD01110,2023-11-20,Home & Kitchen,Air Fryer,4,19779,79116,18969.78,Karnataka,Credit Card
+ORD01111,2023-11-28,Clothing,Jeans,1,4182,4182,621.63,Maharashtra,Cash on Delivery
+ORD01112,2023-06-22,Electronics,Smartwatch,2,12948,25896,4997.9,Tamil Nadu,Net Banking
+ORD01113,2023-05-10,Home & Kitchen,Cookware Set,4,14171,56684,13234.37,Karnataka,Net Banking
+ORD01114,2023-04-05,Home & Kitchen,Mixer,3,4169,12507,1902.49,Gujarat,Cash on Delivery
+ORD01115,2023-04-25,Books,Exam Guide,4,7308,29232,7507.92,Delhi,Debit Card
+ORD01116,2023-08-31,Home & Kitchen,Water Bottle,2,16628,33256,4469.04,Delhi,Net Banking
+ORD01117,2023-10-19,Books,Biography,2,9221,18442,5422.1,West Bengal,Net Banking
+ORD01118,2023-10-09,Sports,Yoga Mat,4,2781,11124,1494.26,Maharashtra,UPI
+ORD01119,2023-10-26,Sports,Football,3,1131,3393,273.23,Karnataka,Net Banking
+ORD01120,2023-10-10,Electronics,Tablet,3,14426,43278,9176.07,Karnataka,Cash on Delivery
+ORD01121,2023-03-10,Sports,Cycling Helmet,4,3606,14424,3699.99,Rajasthan,Credit Card
+ORD01122,2023-05-28,Home & Kitchen,Cookware Set,1,17895,17895,4582.69,Uttar Pradesh,UPI
+ORD01123,2023-01-11,Home & Kitchen,Vacuum Cleaner,2,16146,32292,4524.71,Tamil Nadu,Debit Card
+ORD01124,2023-09-11,Sports,Cycling Helmet,2,18443,36886,4340.04,West Bengal,Net Banking
+ORD01125,2023-11-26,Books,Novel,2,6992,13984,1245.28,Maharashtra,UPI
+ORD01126,2023-12-26,Beauty,Perfume,3,4875,14625,4304.43,Uttar Pradesh,Credit Card
+ORD01127,2023-02-07,Books,Biography,2,12650,25300,4919.63,Rajasthan,Credit Card
+ORD01128,2023-05-14,Beauty,Lipstick,1,2662,2662,325.72,Tamil Nadu,Credit Card
+ORD01129,2023-07-19,Sports,Yoga Mat,1,487,487,99.76,West Bengal,Cash on Delivery
+ORD01130,2023-01-23,Electronics,Headphones,4,1361,5444,854.01,Uttar Pradesh,UPI
+ORD01131,2023-10-30,Sports,Cricket Bat,4,6183,24732,6495.7,Maharashtra,Debit Card
+ORD01132,2023-12-12,Sports,Cycling Helmet,2,14958,29916,8484.42,Delhi,Credit Card
+ORD01133,2023-10-29,Clothing,Jeans,3,2376,7128,586.59,Rajasthan,Credit Card
+ORD01134,2023-12-29,Clothing,Sneakers,1,19982,19982,1080.03,Rajasthan,Credit Card
+ORD01135,2023-08-06,Books,Exam Guide,2,2854,5708,957.45,Delhi,Cash on Delivery
+ORD01136,2023-05-21,Books,Biography,3,17955,53865,5319.29,Delhi,Credit Card
+ORD01137,2023-04-14,Electronics,Smartphone,3,16331,48993,3709.29,Karnataka,UPI
+ORD01138,2023-07-29,Sports,Cricket Bat,2,11759,23518,1724.29,Uttar Pradesh,UPI
+ORD01139,2023-04-21,Beauty,Moisturizer,3,6836,20508,1717.96,West Bengal,Cash on Delivery
+ORD01140,2023-04-14,Beauty,Lipstick,3,2737,8211,2236.63,Delhi,Cash on Delivery
+ORD01141,2023-11-12,Books,Novel,2,3209,6418,1549.67,Delhi,Net Banking
+ORD01142,2023-06-20,Electronics,Tablet,2,15875,31750,1598.19,Delhi,Credit Card
+ORD01143,2023-12-22,Home & Kitchen,Water Bottle,4,4067,16268,3939.22,Maharashtra,UPI
+ORD01144,2023-11-20,Books,Biography,1,5073,5073,1131.73,Maharashtra,UPI
+ORD01145,2023-05-13,Beauty,Moisturizer,4,9236,36944,7953.5,Rajasthan,Credit Card
+ORD01146,2023-10-20,Beauty,Perfume,2,8945,17890,2017.46,Uttar Pradesh,Debit Card
+ORD01147,2023-11-24,Books,Science Book,2,1460,2920,588.38,Tamil Nadu,Debit Card
+ORD01148,2023-05-07,Home & Kitchen,Vacuum Cleaner,4,10601,42404,4064.98,Delhi,Net Banking
+ORD01149,2023-04-16,Sports,Football,1,15881,15881,2427.31,Maharashtra,Credit Card
+ORD01150,2023-04-02,Electronics,Tablet,1,18465,18465,986.41,Rajasthan,Net Banking
+ORD01151,2023-10-14,Sports,Cricket Bat,4,10944,43776,5018.83,Tamil Nadu,Debit Card
+ORD01152,2023-02-20,Books,Biography,4,7406,29624,6157.17,Uttar Pradesh,Cash on Delivery
+ORD01153,2023-01-29,Books,Comics,1,13946,13946,2608.41,Karnataka,Debit Card
+ORD01154,2023-10-23,Clothing,Jeans,4,13410,53640,11176.05,Tamil Nadu,Debit Card
+ORD01155,2023-10-24,Electronics,Laptop,1,5397,5397,806.7,Delhi,Net Banking
+ORD01156,2023-08-02,Beauty,Hair Dryer,3,15059,45177,8945.24,Maharashtra,UPI
+ORD01157,2023-09-24,Books,Novel,4,2372,9488,532.95,Tamil Nadu,Credit Card
+ORD01158,2023-09-14,Clothing,Sneakers,1,19253,19253,1395.25,West Bengal,UPI
+ORD01159,2023-10-29,Home & Kitchen,Cookware Set,2,4181,8362,2090.93,Uttar Pradesh,Credit Card
+ORD01160,2023-04-11,Home & Kitchen,Water Bottle,2,6335,12670,3330.93,Maharashtra,Debit Card
+ORD01161,2023-12-12,Home & Kitchen,Air Fryer,1,13931,13931,3227.95,West Bengal,UPI
+ORD01162,2023-04-20,Sports,Yoga Mat,3,11287,33861,10111.02,Karnataka,Net Banking
+ORD01163,2023-07-01,Sports,Yoga Mat,4,2976,11904,1511.47,Gujarat,Cash on Delivery
+ORD01164,2023-11-09,Clothing,T-Shirt,1,7897,7897,1542.28,Gujarat,Debit Card
+ORD01165,2023-01-01,Clothing,Dress,3,8244,24732,2918.1,Tamil Nadu,UPI
+ORD01166,2023-11-15,Clothing,Jacket,3,5260,15780,3399.94,West Bengal,Cash on Delivery
+ORD01167,2023-02-24,Beauty,Lipstick,4,5781,23124,3713.52,Tamil Nadu,Cash on Delivery
+ORD01168,2023-05-29,Sports,Cricket Bat,2,13197,26394,5837.21,Karnataka,Net Banking
+ORD01169,2023-11-05,Electronics,Headphones,1,7348,7348,1905.45,Karnataka,Net Banking
+ORD01170,2023-05-17,Clothing,Jacket,1,14222,14222,1160.06,Maharashtra,Credit Card
+ORD01171,2023-07-21,Electronics,Tablet,3,6838,20514,3584.67,Delhi,Net Banking
+ORD01172,2023-11-09,Sports,Dumbbells,1,10548,10548,2885.58,Uttar Pradesh,Credit Card
+ORD01173,2023-04-27,Sports,Yoga Mat,3,17199,51597,6298.08,West Bengal,Debit Card
+ORD01174,2023-06-03,Home & Kitchen,Air Fryer,2,5142,10284,2805.48,Uttar Pradesh,Net Banking
+ORD01175,2023-10-18,Books,Biography,1,7654,7654,1000.24,Karnataka,Cash on Delivery
+ORD01176,2023-03-04,Sports,Cycling Helmet,4,12570,50280,4377.09,Maharashtra,Cash on Delivery
+ORD01177,2023-09-01,Home & Kitchen,Water Bottle,2,4254,8508,2159.49,Delhi,Debit Card
+ORD01178,2023-01-25,Sports,Football,1,10730,10730,2947.5,Karnataka,Cash on Delivery
+ORD01179,2023-03-31,Clothing,Jeans,1,16909,16909,4279.07,Karnataka,Cash on Delivery
+ORD01180,2023-03-16,Home & Kitchen,Mixer,3,2185,6555,1322.69,Uttar Pradesh,Cash on Delivery
+ORD01181,2023-10-21,Clothing,T-Shirt,4,19362,77448,8525.07,Tamil Nadu,UPI
+ORD01182,2023-07-29,Clothing,T-Shirt,3,14366,43098,3028.05,Uttar Pradesh,Net Banking
+ORD01183,2023-12-13,Home & Kitchen,Air Fryer,3,4278,12834,3775.74,West Bengal,Cash on Delivery
+ORD01184,2023-01-17,Electronics,Smartphone,3,16484,49452,3556.21,Gujarat,Credit Card
+ORD01185,2023-05-08,Books,Comics,4,6954,27816,7589.03,Tamil Nadu,UPI
+ORD01186,2023-12-30,Sports,Cycling Helmet,3,18824,56472,7341.75,Karnataka,Cash on Delivery
+ORD01187,2023-09-08,Books,Science Book,1,15670,15670,2030.46,Gujarat,Net Banking
+ORD01188,2023-06-28,Books,Novel,2,7693,15386,3047.59,Tamil Nadu,Cash on Delivery
+ORD01189,2023-07-01,Clothing,Sneakers,4,3194,12776,1803.56,Rajasthan,UPI
+ORD01190,2023-06-01,Home & Kitchen,Air Fryer,4,5794,23176,1851.54,West Bengal,Net Banking
+ORD01191,2023-01-25,Electronics,Tablet,4,18228,72912,8325.52,Karnataka,Cash on Delivery
+ORD01192,2023-06-29,Clothing,Jeans,3,14283,42849,6705.2,Maharashtra,Net Banking
+ORD01193,2023-07-17,Books,Biography,3,7469,22407,1638.51,Uttar Pradesh,Debit Card
+ORD01194,2023-12-10,Clothing,Jeans,3,9044,27132,5926.32,Gujarat,Net Banking
+ORD01195,2023-06-10,Books,Novel,1,13597,13597,1725.22,Uttar Pradesh,Cash on Delivery
+ORD01196,2023-06-26,Home & Kitchen,Mixer,3,10364,31092,7745.86,West Bengal,Cash on Delivery
+ORD01197,2023-10-12,Beauty,Perfume,3,10650,31950,3402.94,Karnataka,Cash on Delivery
+ORD01198,2023-03-04,Electronics,Laptop,4,8177,32708,5916.58,Delhi,Debit Card
+ORD01199,2023-05-30,Sports,Cycling Helmet,3,12382,37146,7295.14,Karnataka,Debit Card
+ORD01200,2023-06-03,Books,Comics,4,13531,54124,11527.07,Delhi,Net Banking
+ORD01201,2023-06-05,Clothing,T-Shirt,4,6778,27112,5324.71,Karnataka,UPI
+ORD01202,2023-02-18,Clothing,Sneakers,3,18386,55158,11552.49,Rajasthan,Net Banking
+ORD01203,2023-12-03,Sports,Cricket Bat,3,16082,48246,2913.8,Tamil Nadu,Credit Card
+ORD01204,2023-03-25,Clothing,Dress,3,19930,59790,13292.97,West Bengal,Cash on Delivery
+ORD01205,2023-12-27,Clothing,Jeans,2,2107,4214,534.94,Rajasthan,Net Banking
+ORD01206,2023-06-26,Clothing,Sneakers,2,17827,35654,9786.45,Karnataka,Net Banking
+ORD01207,2023-05-28,Books,Comics,4,12815,51260,10035.81,Tamil Nadu,Debit Card
+ORD01208,2023-04-28,Books,Biography,2,18550,37100,5238.73,West Bengal,Net Banking
+ORD01209,2023-12-08,Sports,Cricket Bat,3,11780,35340,10571.66,Uttar Pradesh,Cash on Delivery
+ORD01210,2023-03-04,Beauty,Perfume,4,8033,32132,7795.6,Maharashtra,Credit Card
+ORD01211,2023-07-08,Clothing,Sneakers,4,8306,33224,9481.94,Rajasthan,Debit Card
+ORD01212,2023-12-26,Sports,Cricket Bat,1,799,799,224.54,Karnataka,Cash on Delivery
+ORD01213,2023-02-18,Sports,Cycling Helmet,1,8992,8992,2322.64,Delhi,Net Banking
+ORD01214,2023-11-23,Sports,Cricket Bat,2,10555,21110,4621.31,Maharashtra,Cash on Delivery
+ORD01215,2023-09-14,Books,Exam Guide,3,5799,17397,4158.99,Delhi,Cash on Delivery
+ORD01216,2023-08-12,Sports,Dumbbells,2,14145,28290,4330.35,Gujarat,Credit Card
+ORD01217,2023-05-21,Books,Comics,2,14512,29024,3271.58,Rajasthan,Debit Card
+ORD01218,2023-08-03,Beauty,Moisturizer,3,7907,23721,4624.0,Gujarat,Net Banking
+ORD01219,2023-07-30,Books,Comics,1,4833,4833,1227.3,Maharashtra,Cash on Delivery
+ORD01220,2023-11-14,Clothing,Jacket,1,13978,13978,967.01,West Bengal,Debit Card
+ORD01221,2023-02-01,Electronics,Headphones,2,18965,37930,2475.93,Rajasthan,UPI
+ORD01222,2023-06-07,Clothing,T-Shirt,4,472,1888,144.59,Delhi,Net Banking
+ORD01223,2023-10-12,Sports,Cricket Bat,2,2747,5494,825.07,Delhi,Cash on Delivery
+ORD01224,2023-11-01,Books,Exam Guide,3,14527,43581,12919.65,Gujarat,Cash on Delivery
+ORD01225,2023-10-13,Home & Kitchen,Mixer,2,17090,34180,7346.05,Karnataka,Cash on Delivery
+ORD01226,2023-05-24,Books,Comics,4,8635,34540,5154.65,Tamil Nadu,UPI
+ORD01227,2023-01-19,Sports,Dumbbells,4,11550,46200,7102.79,Gujarat,Net Banking
+ORD01228,2023-01-18,Home & Kitchen,Air Fryer,3,10264,30792,8887.85,Uttar Pradesh,Cash on Delivery
+ORD01229,2023-09-14,Sports,Cycling Helmet,1,18048,18048,3617.75,West Bengal,Debit Card
+ORD01230,2023-03-19,Home & Kitchen,Water Bottle,1,11769,11769,1769.65,West Bengal,UPI
+ORD01231,2023-06-24,Home & Kitchen,Water Bottle,4,2760,11040,1000.6,Gujarat,Cash on Delivery
+ORD01232,2023-07-13,Books,Exam Guide,4,9321,37284,2219.2,Maharashtra,Debit Card
+ORD01233,2023-04-23,Beauty,Perfume,4,8893,35572,2299.42,Maharashtra,Debit Card
+ORD01234,2023-04-24,Sports,Dumbbells,1,10510,10510,2089.47,Gujarat,Net Banking
+ORD01235,2023-08-10,Sports,Cricket Bat,1,4586,4586,362.84,Karnataka,Cash on Delivery
+ORD01236,2023-06-15,Books,Novel,4,12442,49768,6164.61,Maharashtra,Debit Card
+ORD01237,2023-11-15,Beauty,Hair Dryer,4,14146,56584,12425.73,Rajasthan,Credit Card
+ORD01238,2023-05-12,Electronics,Headphones,4,16217,64868,6034.12,Uttar Pradesh,UPI
+ORD01239,2023-09-21,Electronics,Tablet,1,11818,11818,1038.35,Delhi,Cash on Delivery
+ORD01240,2023-02-24,Beauty,Hair Dryer,3,11494,34482,6859.16,Tamil Nadu,Net Banking
+ORD01241,2023-12-25,Electronics,Laptop,1,4599,4599,596.86,West Bengal,Cash on Delivery
+ORD01242,2023-05-11,Electronics,Laptop,4,16048,64192,16504.38,Tamil Nadu,Debit Card
+ORD01243,2023-10-15,Electronics,Tablet,2,1501,3002,507.97,Uttar Pradesh,Net Banking
+ORD01244,2023-09-23,Clothing,T-Shirt,4,6611,26444,6800.42,Gujarat,Debit Card
+ORD01245,2023-06-11,Books,Novel,2,15649,31298,3732.83,Karnataka,Credit Card
+ORD01246,2023-03-28,Home & Kitchen,Air Fryer,3,6596,19788,1604.54,Gujarat,Cash on Delivery
+ORD01247,2023-02-24,Beauty,Hair Dryer,2,10273,20546,6014.53,Uttar Pradesh,Net Banking
+ORD01248,2023-10-15,Electronics,Smartphone,1,6733,6733,1552.07,Maharashtra,Net Banking
+ORD01249,2023-06-27,Home & Kitchen,Water Bottle,4,12127,48508,7341.96,Gujarat,UPI
+ORD01250,2023-12-15,Home & Kitchen,Cookware Set,1,12377,12377,2415.51,Uttar Pradesh,Cash on Delivery
+ORD01251,2023-01-08,Beauty,Hair Dryer,1,14053,14053,3064.43,Delhi,UPI
+ORD01252,2023-11-17,Clothing,Dress,1,6289,6289,1587.46,Maharashtra,Net Banking
+ORD01253,2023-11-09,Electronics,Tablet,2,17445,34890,1936.97,Tamil Nadu,UPI
+ORD01254,2023-09-04,Electronics,Tablet,1,17853,17853,1277.08,Tamil Nadu,Net Banking
+ORD01255,2023-11-19,Sports,Yoga Mat,3,1384,4152,796.03,West Bengal,Cash on Delivery
+ORD01256,2023-09-12,Sports,Dumbbells,1,13257,13257,2797.08,Uttar Pradesh,UPI
+ORD01257,2023-11-24,Beauty,Moisturizer,1,16755,16755,1066.31,Delhi,Cash on Delivery
+ORD01258,2023-02-23,Electronics,Headphones,3,16281,48843,7121.5,Maharashtra,Cash on Delivery
+ORD01259,2023-09-06,Books,Exam Guide,1,16488,16488,4267.81,Uttar Pradesh,UPI
+ORD01260,2023-08-27,Beauty,Lipstick,3,16082,48246,12379.21,Delhi,UPI
+ORD01261,2023-08-17,Clothing,Jacket,2,6948,13896,931.41,Maharashtra,Cash on Delivery
+ORD01262,2023-03-08,Books,Biography,2,19827,39654,11255.57,Maharashtra,Net Banking
+ORD01263,2023-02-20,Clothing,Dress,2,19680,39360,6350.6,Gujarat,UPI
+ORD01264,2023-04-07,Clothing,Sneakers,1,9982,9982,1116.49,Tamil Nadu,Debit Card
+ORD01265,2023-04-02,Books,Exam Guide,3,5998,17994,3621.7,West Bengal,Debit Card
+ORD01266,2023-09-21,Clothing,Jeans,4,12666,50664,10457.69,Tamil Nadu,Debit Card
+ORD01267,2023-10-18,Clothing,Jeans,1,9345,9345,899.08,Uttar Pradesh,Net Banking
+ORD01268,2023-04-06,Home & Kitchen,Cookware Set,4,7820,31280,6290.09,Maharashtra,Credit Card
+ORD01269,2023-03-29,Electronics,Smartwatch,2,3324,6648,1202.29,Delhi,Net Banking
+ORD01270,2023-03-19,Electronics,Smartwatch,2,12270,24540,3520.31,Gujarat,Net Banking
+ORD01271,2023-10-15,Home & Kitchen,Air Fryer,3,1124,3372,179.0,Tamil Nadu,Cash on Delivery
+ORD01272,2023-04-30,Clothing,Sneakers,3,13850,41550,9788.07,Tamil Nadu,Cash on Delivery
+ORD01273,2023-10-29,Clothing,Sneakers,1,15510,15510,3094.28,Karnataka,Credit Card
+ORD01274,2023-06-14,Sports,Dumbbells,4,19254,77016,20309.23,West Bengal,Net Banking
+ORD01275,2023-07-01,Electronics,Tablet,1,11610,11610,3145.05,Gujarat,Cash on Delivery
+ORD01276,2023-08-11,Books,Exam Guide,4,10561,42244,3647.0,West Bengal,Credit Card
+ORD01277,2023-11-07,Books,Comics,4,10106,40424,2648.19,West Bengal,UPI
+ORD01278,2023-01-07,Books,Novel,1,11479,11479,2198.28,Delhi,Debit Card
+ORD01279,2023-11-26,Beauty,Hair Dryer,4,6677,26708,7743.92,Maharashtra,UPI
+ORD01280,2023-09-20,Home & Kitchen,Water Bottle,1,6670,6670,496.93,Tamil Nadu,Debit Card
+ORD01281,2023-06-10,Sports,Yoga Mat,2,2013,4026,746.09,Uttar Pradesh,UPI
+ORD01282,2023-05-31,Beauty,Hair Dryer,1,2513,2513,719.96,Gujarat,UPI
+ORD01283,2023-03-26,Clothing,Dress,2,6031,12062,1497.53,Rajasthan,Debit Card
+ORD01284,2023-05-27,Beauty,Lipstick,1,505,505,46.7,Gujarat,Cash on Delivery
+ORD01285,2023-04-22,Home & Kitchen,Air Fryer,1,1889,1889,451.83,Karnataka,Net Banking
+ORD01286,2023-02-05,Clothing,Sneakers,2,3136,6272,406.28,Uttar Pradesh,Credit Card
+ORD01287,2023-10-12,Books,Biography,2,14518,29036,6742.06,Uttar Pradesh,Net Banking
+ORD01288,2023-07-07,Beauty,Moisturizer,1,5849,5849,1649.49,Uttar Pradesh,Debit Card
+ORD01289,2023-03-23,Books,Exam Guide,3,18403,55209,3819.88,West Bengal,Credit Card
+ORD01290,2023-01-02,Clothing,Dress,4,17926,71704,15603.41,West Bengal,Debit Card
+ORD01291,2023-10-30,Books,Comics,3,1279,3837,585.9,Gujarat,Cash on Delivery
+ORD01292,2023-07-16,Home & Kitchen,Vacuum Cleaner,3,15527,46581,2608.59,Delhi,Cash on Delivery
+ORD01293,2023-01-11,Electronics,Laptop,1,7435,7435,700.9,Delhi,Debit Card
+ORD01294,2023-08-22,Home & Kitchen,Air Fryer,2,2231,4462,1290.32,Maharashtra,Cash on Delivery
+ORD01295,2023-07-14,Books,Biography,4,14487,57948,16850.68,Tamil Nadu,UPI
+ORD01296,2023-04-29,Home & Kitchen,Water Bottle,3,19237,57711,9961.04,Tamil Nadu,UPI
+ORD01297,2023-01-20,Electronics,Smartwatch,1,16096,16096,1009.92,Maharashtra,UPI
+ORD01298,2023-09-18,Books,Comics,2,19481,38962,8547.73,Uttar Pradesh,Net Banking
+ORD01299,2023-10-20,Sports,Cycling Helmet,3,4470,13410,3762.96,Karnataka,UPI
+ORD01300,2023-09-13,Home & Kitchen,Vacuum Cleaner,3,7316,21948,2637.06,West Bengal,Cash on Delivery
+ORD01301,2023-08-10,Electronics,Smartwatch,1,3986,3986,1040.1,Tamil Nadu,Cash on Delivery
+ORD01302,2023-08-14,Books,Exam Guide,3,5628,16884,3745.27,Karnataka,UPI
+ORD01303,2023-02-22,Beauty,Hair Dryer,2,12861,25722,5981.93,Rajasthan,Credit Card
+ORD01304,2023-12-21,Electronics,Laptop,4,10672,42688,8865.42,Gujarat,Debit Card
+ORD01305,2023-12-08,Home & Kitchen,Vacuum Cleaner,3,11326,33978,6899.88,Tamil Nadu,UPI
+ORD01306,2023-12-30,Sports,Dumbbells,4,7869,31476,3106.47,Tamil Nadu,Cash on Delivery
+ORD01307,2023-10-07,Home & Kitchen,Water Bottle,4,10371,41484,8072.37,West Bengal,Cash on Delivery
+ORD01308,2023-03-22,Clothing,Jeans,3,14051,42153,10582.15,Delhi,Debit Card
+ORD01309,2023-07-21,Books,Exam Guide,1,19781,19781,1283.87,Tamil Nadu,Credit Card
+ORD01310,2023-06-07,Clothing,Jeans,2,5930,11860,1008.06,Rajasthan,Credit Card
+ORD01311,2023-04-30,Electronics,Smartphone,3,17775,53325,9979.62,West Bengal,Net Banking
+ORD01312,2023-02-28,Electronics,Smartphone,1,16197,16197,2913.89,Rajasthan,Net Banking
+ORD01313,2023-08-03,Electronics,Smartphone,2,15197,30394,2547.15,Tamil Nadu,Net Banking
+ORD01314,2023-05-08,Clothing,T-Shirt,4,9076,36304,3022.4,Rajasthan,UPI
+ORD01315,2023-08-12,Clothing,Jeans,4,9854,39416,11324.94,Tamil Nadu,Cash on Delivery
+ORD01316,2023-07-28,Books,Exam Guide,1,3041,3041,841.63,Karnataka,Net Banking
+ORD01317,2023-04-25,Clothing,T-Shirt,1,10504,10504,1455.79,Delhi,UPI
+ORD01318,2023-07-28,Home & Kitchen,Air Fryer,3,16434,49302,7621.96,West Bengal,Net Banking
+ORD01319,2023-01-14,Home & Kitchen,Water Bottle,2,690,1380,189.7,West Bengal,Debit Card
+ORD01320,2023-01-09,Books,Comics,3,19880,59640,12761.52,Karnataka,Net Banking
+ORD01321,2023-02-09,Sports,Dumbbells,3,2082,6246,1202.8,Rajasthan,Net Banking
+ORD01322,2023-08-25,Books,Comics,2,3359,6718,1582.54,Tamil Nadu,UPI
+ORD01323,2023-10-08,Beauty,Hair Dryer,4,4730,18920,2624.35,Uttar Pradesh,Credit Card
+ORD01324,2023-12-25,Beauty,Lipstick,2,13943,27886,5325.48,Gujarat,Cash on Delivery
+ORD01325,2023-07-20,Home & Kitchen,Cookware Set,2,9762,19524,4368.27,Tamil Nadu,Credit Card
+ORD01326,2023-09-03,Electronics,Tablet,1,16384,16384,4080.61,Karnataka,UPI
+ORD01327,2023-10-05,Home & Kitchen,Air Fryer,2,2359,4718,389.83,Delhi,Cash on Delivery
+ORD01328,2023-08-23,Beauty,Lipstick,1,14878,14878,1924.12,Delhi,Cash on Delivery
+ORD01329,2023-01-04,Home & Kitchen,Water Bottle,2,6972,13944,909.6,Uttar Pradesh,Credit Card
+ORD01330,2023-06-03,Sports,Yoga Mat,4,18569,74276,9065.1,Uttar Pradesh,Cash on Delivery
+ORD01331,2023-01-29,Sports,Dumbbells,2,8688,17376,3024.46,Rajasthan,Debit Card
+ORD01332,2023-04-19,Clothing,Dress,1,7364,7364,1720.61,Rajasthan,Debit Card
+ORD01333,2023-04-08,Home & Kitchen,Mixer,1,9490,9490,1862.0,Rajasthan,Debit Card
+ORD01334,2023-08-03,Sports,Cycling Helmet,4,13258,53032,4963.92,Tamil Nadu,UPI
+ORD01335,2023-10-20,Books,Comics,3,17832,53496,3897.48,Tamil Nadu,Cash on Delivery
+ORD01336,2023-03-16,Clothing,T-Shirt,2,9656,19312,2711.63,Karnataka,Debit Card
+ORD01337,2023-11-22,Home & Kitchen,Mixer,4,17642,70568,19345.77,West Bengal,Net Banking
+ORD01338,2023-05-26,Beauty,Lipstick,4,4448,17792,989.97,West Bengal,Debit Card
+ORD01339,2023-05-08,Home & Kitchen,Mixer,4,12832,51328,6622.31,Karnataka,Credit Card
+ORD01340,2023-12-07,Sports,Cricket Bat,1,14426,14426,3636.78,Karnataka,Credit Card
+ORD01341,2023-02-11,Home & Kitchen,Vacuum Cleaner,1,7549,7549,2100.59,Karnataka,Cash on Delivery
+ORD01342,2023-12-22,Books,Novel,1,4776,4776,559.74,Uttar Pradesh,Credit Card
+ORD01343,2023-02-10,Clothing,T-Shirt,4,15407,61628,6884.73,West Bengal,Debit Card
+ORD01344,2023-02-03,Home & Kitchen,Air Fryer,2,16452,32904,6531.85,Tamil Nadu,Cash on Delivery
+ORD01345,2023-01-17,Home & Kitchen,Air Fryer,1,5953,5953,397.92,Delhi,UPI
+ORD01346,2023-06-14,Electronics,Laptop,1,6391,6391,602.87,Delhi,UPI
+ORD01347,2023-06-02,Beauty,Face Wash,3,1201,3603,876.13,West Bengal,Debit Card
+ORD01348,2023-03-17,Clothing,Jacket,1,4676,4676,1182.87,Rajasthan,Credit Card
+ORD01349,2023-03-28,Electronics,Laptop,3,715,2145,455.48,Rajasthan,Cash on Delivery
+ORD01350,2023-04-27,Clothing,T-Shirt,1,11060,11060,2761.28,Uttar Pradesh,Cash on Delivery
+ORD01351,2023-12-28,Books,Novel,4,16855,67420,8980.02,Uttar Pradesh,Cash on Delivery
+ORD01352,2023-12-08,Beauty,Lipstick,1,8187,8187,1856.43,Gujarat,Debit Card
+ORD01353,2023-01-27,Books,Novel,1,987,987,248.65,Maharashtra,UPI
+ORD01354,2023-11-09,Beauty,Lipstick,3,3876,11628,3289.97,Uttar Pradesh,UPI
+ORD01355,2023-10-14,Electronics,Laptop,2,7988,15976,3675.11,Maharashtra,Debit Card
+ORD01356,2023-05-14,Books,Science Book,3,4912,14736,3977.81,Gujarat,Credit Card
+ORD01357,2023-08-07,Clothing,Jacket,4,12678,50712,5465.24,Maharashtra,Cash on Delivery
+ORD01358,2023-06-17,Clothing,T-Shirt,1,13477,13477,1537.02,Delhi,Net Banking
+ORD01359,2023-04-08,Books,Science Book,3,10924,32772,2770.26,Karnataka,UPI
+ORD01360,2023-09-25,Electronics,Laptop,1,13140,13140,2874.02,Karnataka,Cash on Delivery
+ORD01361,2023-08-25,Electronics,Tablet,2,14843,29686,5285.7,Gujarat,Credit Card
+ORD01362,2023-11-05,Electronics,Headphones,2,17155,34310,3514.12,Karnataka,Net Banking
+ORD01363,2023-06-22,Electronics,Laptop,4,13998,55992,3971.58,West Bengal,Debit Card
+ORD01364,2023-07-09,Home & Kitchen,Water Bottle,1,11669,11669,1674.35,Gujarat,Cash on Delivery
+ORD01365,2023-05-02,Books,Exam Guide,1,17318,17318,3860.42,Delhi,Cash on Delivery
+ORD01366,2023-02-15,Home & Kitchen,Cookware Set,2,2995,5990,381.06,Tamil Nadu,Credit Card
+ORD01367,2023-03-05,Beauty,Moisturizer,1,7497,7497,2183.89,Tamil Nadu,Net Banking
+ORD01368,2023-05-10,Books,Science Book,2,11310,22620,4705.07,Uttar Pradesh,Net Banking
+ORD01369,2023-11-06,Clothing,Sneakers,3,1805,5415,767.52,Gujarat,UPI
+ORD01370,2023-12-29,Books,Science Book,3,3133,9399,1206.05,Tamil Nadu,Net Banking
+ORD01371,2023-07-12,Sports,Football,1,5274,5274,788.83,Maharashtra,Net Banking
+ORD01372,2023-11-03,Clothing,Dress,4,18074,72296,13074.86,Tamil Nadu,UPI
+ORD01373,2023-06-30,Sports,Yoga Mat,2,4439,8878,2246.31,West Bengal,Credit Card
+ORD01374,2023-10-19,Books,Comics,1,2571,2571,639.57,Rajasthan,Debit Card
+ORD01375,2023-10-09,Electronics,Tablet,4,16106,64424,16848.88,Gujarat,Net Banking
+ORD01376,2023-01-29,Clothing,Jacket,1,5786,5786,1672.58,Maharashtra,Net Banking
+ORD01377,2023-05-29,Beauty,Perfume,3,16101,48303,6511.74,West Bengal,Net Banking
+ORD01378,2023-09-24,Clothing,Sneakers,1,17751,17751,3045.07,Tamil Nadu,UPI
+ORD01379,2023-10-23,Beauty,Lipstick,4,3993,15972,2064.15,Maharashtra,Credit Card
+ORD01380,2023-01-11,Sports,Cricket Bat,4,1777,7108,1325.51,Delhi,Debit Card
+ORD01381,2023-06-13,Clothing,T-Shirt,1,9364,9364,2507.95,Uttar Pradesh,Credit Card
+ORD01382,2023-04-23,Beauty,Perfume,2,10985,21970,2601.79,Maharashtra,Credit Card
+ORD01383,2023-07-06,Sports,Dumbbells,2,17497,34994,10017.24,West Bengal,Net Banking
+ORD01384,2023-10-22,Sports,Cycling Helmet,1,19781,19781,2628.98,Tamil Nadu,Credit Card
+ORD01385,2023-08-20,Home & Kitchen,Cookware Set,1,15711,15711,1693.96,Maharashtra,Credit Card
+ORD01386,2023-08-15,Clothing,Dress,3,15674,47022,5948.84,Maharashtra,Cash on Delivery
+ORD01387,2023-11-06,Books,Novel,4,13586,54344,14420.43,Gujarat,Net Banking
+ORD01388,2023-04-08,Books,Science Book,2,7969,15938,1132.62,Gujarat,Credit Card
+ORD01389,2023-02-24,Sports,Yoga Mat,2,18478,36956,8793.91,Delhi,Credit Card
+ORD01390,2023-04-21,Home & Kitchen,Mixer,4,10203,40812,4993.77,Uttar Pradesh,Net Banking
+ORD01391,2023-06-01,Electronics,Smartphone,2,5378,10756,2697.73,Uttar Pradesh,Net Banking
+ORD01392,2023-09-03,Beauty,Perfume,1,4168,4168,831.35,Uttar Pradesh,Net Banking
+ORD01393,2023-03-10,Books,Exam Guide,4,17919,71676,15174.48,Karnataka,Net Banking
+ORD01394,2023-11-08,Books,Comics,3,16962,50886,10665.08,Rajasthan,Credit Card
+ORD01395,2023-10-16,Books,Comics,1,815,815,215.91,Gujarat,Cash on Delivery
+ORD01396,2023-09-07,Books,Science Book,1,18338,18338,1915.0,Maharashtra,Debit Card
+ORD01397,2023-02-05,Clothing,Sneakers,3,3358,10074,927.51,Rajasthan,Net Banking
+ORD01398,2023-08-27,Home & Kitchen,Cookware Set,3,5617,16851,3154.97,West Bengal,UPI
+ORD01399,2023-05-28,Home & Kitchen,Water Bottle,2,5803,11606,2256.87,Gujarat,UPI
+ORD01400,2023-08-15,Beauty,Moisturizer,3,16966,50898,8617.03,Gujarat,Net Banking
+ORD01401,2023-09-01,Clothing,Sneakers,4,17996,71984,21257.62,Uttar Pradesh,Cash on Delivery
+ORD01402,2023-12-03,Sports,Yoga Mat,3,571,1713,485.58,Gujarat,Cash on Delivery
+ORD01403,2023-12-31,Beauty,Moisturizer,3,8507,25521,4267.05,Delhi,Credit Card
+ORD01404,2023-07-20,Home & Kitchen,Water Bottle,4,11716,46864,13147.6,Delhi,Net Banking
+ORD01405,2023-06-03,Clothing,Jacket,3,19523,58569,13549.52,Delhi,UPI
+ORD01406,2023-03-14,Clothing,Jeans,3,6169,18507,2812.04,Gujarat,Credit Card
+ORD01407,2023-07-20,Books,Biography,2,5654,11308,765.88,Karnataka,Credit Card
+ORD01408,2023-10-23,Electronics,Smartwatch,3,6614,19842,5270.51,Gujarat,Debit Card
+ORD01409,2023-01-17,Clothing,Jacket,3,15094,45282,12039.18,Gujarat,Net Banking
+ORD01410,2023-05-09,Clothing,Jeans,2,1183,2366,696.54,Tamil Nadu,UPI
+ORD01411,2023-08-05,Electronics,Tablet,1,10343,10343,3091.2,Rajasthan,Net Banking
+ORD01412,2023-03-02,Clothing,T-Shirt,4,9416,37664,2412.02,Gujarat,Cash on Delivery
+ORD01413,2023-04-14,Clothing,Dress,3,15908,47724,8596.81,Maharashtra,Net Banking
+ORD01414,2023-02-11,Books,Biography,2,2190,4380,1182.51,Delhi,Net Banking
+ORD01415,2023-01-25,Beauty,Face Wash,3,3975,11925,2110.0,Delhi,UPI
+ORD01416,2023-02-08,Home & Kitchen,Air Fryer,2,18645,37290,11026.09,Rajasthan,Credit Card
+ORD01417,2023-10-18,Clothing,Sneakers,2,13868,27736,5985.06,Delhi,Cash on Delivery
+ORD01418,2023-05-11,Electronics,Headphones,4,11557,46228,7109.24,Delhi,UPI
+ORD01419,2023-08-17,Sports,Cycling Helmet,1,16004,16004,3941.24,Karnataka,UPI
+ORD01420,2023-04-18,Sports,Football,3,8151,24453,6438.73,Karnataka,Credit Card
+ORD01421,2023-06-21,Books,Science Book,4,6968,27872,2350.74,West Bengal,Net Banking
+ORD01422,2023-04-12,Sports,Cycling Helmet,4,8833,35332,2173.48,Maharashtra,Debit Card
+ORD01423,2023-12-20,Beauty,Lipstick,4,17180,68720,14788.52,Rajasthan,Debit Card
+ORD01424,2023-01-12,Clothing,Jacket,2,15949,31898,4079.53,Maharashtra,Cash on Delivery
+ORD01425,2023-10-02,Sports,Cricket Bat,1,14983,14983,2041.5,Rajasthan,UPI
+ORD01426,2023-04-11,Electronics,Smartwatch,1,13999,13999,2375.3,Rajasthan,Debit Card
+ORD01427,2023-02-13,Clothing,Dress,2,2859,5718,1019.2,Uttar Pradesh,Cash on Delivery
+ORD01428,2023-11-01,Beauty,Hair Dryer,2,2921,5842,537.19,Uttar Pradesh,Net Banking
+ORD01429,2023-01-17,Sports,Cycling Helmet,2,10690,21380,1430.35,Uttar Pradesh,Debit Card
+ORD01430,2023-11-26,Electronics,Headphones,2,6440,12880,2915.91,Rajasthan,UPI
+ORD01431,2023-02-26,Books,Comics,4,11723,46892,5183.61,Maharashtra,Credit Card
+ORD01432,2023-11-07,Books,Science Book,3,1906,5718,1349.49,Rajasthan,UPI
+ORD01433,2023-10-30,Home & Kitchen,Cookware Set,1,10545,10545,818.83,Gujarat,UPI
+ORD01434,2023-01-12,Sports,Cricket Bat,4,8067,32268,9634.66,Tamil Nadu,Debit Card
+ORD01435,2023-11-14,Home & Kitchen,Water Bottle,4,5097,20388,1293.77,West Bengal,Net Banking
+ORD01436,2023-03-21,Clothing,Dress,2,4767,9534,569.56,Delhi,Debit Card
+ORD01437,2023-08-04,Clothing,Jacket,1,11903,11903,2982.9,Karnataka,Credit Card
+ORD01438,2023-12-05,Electronics,Smartphone,1,6456,6456,1039.71,Uttar Pradesh,Net Banking
+ORD01439,2023-09-21,Clothing,Jacket,3,4484,13452,2384.01,Delhi,UPI
+ORD01440,2023-05-29,Books,Novel,3,1118,3354,730.83,Tamil Nadu,Cash on Delivery
+ORD01441,2023-03-22,Beauty,Face Wash,2,3009,6018,1105.76,Gujarat,Debit Card
+ORD01442,2023-08-03,Books,Comics,4,10250,41000,10332.7,Uttar Pradesh,Debit Card
+ORD01443,2023-07-17,Sports,Cycling Helmet,2,14129,28258,5386.18,Tamil Nadu,Net Banking
+ORD01444,2023-07-19,Beauty,Hair Dryer,2,4765,9530,2340.81,Karnataka,Credit Card
+ORD01445,2023-01-25,Beauty,Hair Dryer,4,6837,27348,4092.92,Delhi,UPI
+ORD01446,2023-03-30,Clothing,T-Shirt,2,2610,5220,609.53,Tamil Nadu,Debit Card
+ORD01447,2023-09-25,Books,Comics,2,19152,38304,1982.06,Tamil Nadu,Credit Card
+ORD01448,2023-05-23,Beauty,Face Wash,4,7665,30660,3332.39,Maharashtra,Cash on Delivery
+ORD01449,2023-02-28,Books,Biography,3,11661,34983,4699.36,Gujarat,Credit Card
+ORD01450,2023-12-31,Electronics,Headphones,4,12397,49588,14775.85,Rajasthan,Debit Card
+ORD01451,2023-01-26,Beauty,Hair Dryer,2,440,880,74.14,Maharashtra,UPI
+ORD01452,2023-02-16,Beauty,Hair Dryer,4,11894,47576,4578.24,Maharashtra,Debit Card
+ORD01453,2023-10-15,Clothing,Sneakers,2,3968,7936,974.86,West Bengal,Net Banking
+ORD01454,2023-09-23,Books,Novel,3,13476,40428,10874.17,Delhi,Debit Card
+ORD01455,2023-01-16,Sports,Yoga Mat,4,18757,75028,12997.79,Gujarat,Cash on Delivery
+ORD01456,2023-07-18,Beauty,Perfume,1,2801,2801,214.84,Delhi,UPI
+ORD01457,2023-10-09,Books,Biography,3,2359,7077,1608.07,Gujarat,UPI
+ORD01458,2023-03-27,Clothing,Sneakers,2,4568,9136,1175.41,Tamil Nadu,Credit Card
+ORD01459,2023-09-07,Books,Biography,3,13472,40416,10551.76,Rajasthan,Credit Card
+ORD01460,2023-09-27,Sports,Yoga Mat,4,1501,6004,1377.82,Uttar Pradesh,Debit Card
+ORD01461,2023-12-01,Home & Kitchen,Air Fryer,3,15104,45312,3064.63,Karnataka,Credit Card
+ORD01462,2023-04-27,Books,Science Book,3,18500,55500,3368.01,Uttar Pradesh,Cash on Delivery
+ORD01463,2023-01-07,Clothing,Sneakers,1,2957,2957,205.41,Karnataka,Cash on Delivery
+ORD01464,2023-05-17,Home & Kitchen,Water Bottle,3,9288,27864,3113.53,Gujarat,Cash on Delivery
+ORD01465,2023-06-25,Sports,Football,1,9943,9943,916.77,Uttar Pradesh,Debit Card
+ORD01466,2023-11-24,Sports,Cycling Helmet,1,9469,9469,504.77,Uttar Pradesh,Debit Card
+ORD01467,2023-11-11,Home & Kitchen,Water Bottle,4,15523,62092,15048.66,Karnataka,Cash on Delivery
+ORD01468,2023-08-03,Clothing,Sneakers,2,6023,12046,3340.36,Karnataka,UPI
+ORD01469,2023-03-23,Electronics,Tablet,1,12162,12162,3308.65,Maharashtra,Debit Card
+ORD01470,2023-08-11,Home & Kitchen,Cookware Set,4,19982,79928,14061.5,Delhi,UPI
+ORD01471,2023-04-13,Beauty,Moisturizer,2,7157,14314,4124.28,Tamil Nadu,Cash on Delivery
+ORD01472,2023-09-30,Books,Biography,2,13527,27054,2434.05,Karnataka,Debit Card
+ORD01473,2023-01-14,Electronics,Laptop,3,201,603,55.41,Karnataka,Credit Card
+ORD01474,2023-06-08,Sports,Cycling Helmet,1,17688,17688,3110.19,Tamil Nadu,Net Banking
+ORD01475,2023-06-01,Sports,Cycling Helmet,2,5469,10938,2568.98,Uttar Pradesh,Net Banking
+ORD01476,2023-04-18,Clothing,Jeans,4,8520,34080,3031.19,Delhi,UPI
+ORD01477,2023-07-07,Electronics,Smartwatch,1,3329,3329,239.23,Karnataka,Net Banking
+ORD01478,2023-10-28,Sports,Dumbbells,2,17485,34970,5363.67,Gujarat,Debit Card
+ORD01479,2023-04-08,Beauty,Moisturizer,3,5729,17187,1761.23,West Bengal,Debit Card
+ORD01480,2023-05-11,Clothing,Jeans,3,17651,52953,15483.67,Uttar Pradesh,Credit Card
+ORD01481,2023-10-20,Beauty,Face Wash,1,7318,7318,1645.81,Tamil Nadu,Cash on Delivery
+ORD01482,2023-06-20,Clothing,Jeans,3,5538,16614,4767.3,Uttar Pradesh,Credit Card
+ORD01483,2023-07-02,Clothing,Dress,1,15689,15689,3779.15,West Bengal,UPI
+ORD01484,2023-12-30,Beauty,Perfume,1,5143,5143,1518.8,Rajasthan,Cash on Delivery
+ORD01485,2023-02-08,Electronics,Tablet,3,17941,53823,9125.14,Rajasthan,UPI
+ORD01486,2023-01-15,Beauty,Hair Dryer,3,15114,45342,4443.7,Delhi,Net Banking
+ORD01487,2023-01-04,Electronics,Smartwatch,2,14120,28240,8034.73,West Bengal,Credit Card
+ORD01488,2023-12-15,Clothing,Sneakers,3,10954,32862,8428.62,Rajasthan,Credit Card
+ORD01489,2023-07-29,Sports,Dumbbells,3,11033,33099,9301.42,Delhi,Debit Card
+ORD01490,2023-06-10,Home & Kitchen,Air Fryer,1,15560,15560,2963.65,Rajasthan,UPI
+ORD01491,2023-01-16,Home & Kitchen,Air Fryer,4,10151,40604,11433.16,Karnataka,Cash on Delivery
+ORD01492,2023-04-18,Home & Kitchen,Water Bottle,2,2830,5660,1450.1,Delhi,Net Banking
+ORD01493,2023-11-07,Clothing,Dress,2,13404,26808,3901.39,West Bengal,Credit Card
+ORD01494,2023-08-15,Books,Comics,1,11560,11560,1146.43,Maharashtra,Debit Card
+ORD01495,2023-06-19,Sports,Cycling Helmet,3,6001,18003,3440.35,Karnataka,Cash on Delivery
+ORD01496,2023-02-03,Beauty,Lipstick,4,4351,17404,3422.11,West Bengal,Credit Card
+ORD01497,2023-09-08,Clothing,Dress,4,13061,52244,13374.43,Uttar Pradesh,Cash on Delivery
+ORD01498,2023-09-04,Electronics,Headphones,1,3765,3765,631.87,Gujarat,Debit Card
+ORD01499,2023-09-26,Books,Novel,2,7566,15132,2319.39,Maharashtra,Credit Card
+ORD01500,2023-05-21,Books,Science Book,1,7582,7582,1160.74,Gujarat,Credit Card
+ORD01501,2023-10-01,Sports,Dumbbells,4,13473,53892,6953.43,Karnataka,Cash on Delivery
+ORD01502,2023-04-06,Sports,Dumbbells,2,12588,25176,3527.12,Delhi,Debit Card
+ORD01503,2023-08-15,Home & Kitchen,Water Bottle,1,19821,19821,1992.75,Karnataka,Debit Card
+ORD01504,2023-02-08,Clothing,Jeans,4,12853,51412,6400.5,Delhi,Cash on Delivery
+ORD01505,2023-10-29,Home & Kitchen,Vacuum Cleaner,1,5023,5023,1394.92,West Bengal,UPI
+ORD01506,2023-01-29,Books,Exam Guide,2,5671,11342,1939.09,Maharashtra,Debit Card
+ORD01507,2023-11-14,Clothing,T-Shirt,2,7327,14654,1859.88,Tamil Nadu,Credit Card
+ORD01508,2023-09-02,Beauty,Moisturizer,1,18999,18999,3712.23,West Bengal,Net Banking
+ORD01509,2023-08-24,Electronics,Tablet,2,18322,36644,4032.85,West Bengal,Debit Card
+ORD01510,2023-07-04,Clothing,Sneakers,2,13182,26364,3179.29,West Bengal,Cash on Delivery
+ORD01511,2023-09-29,Beauty,Moisturizer,2,17496,34992,3459.47,Maharashtra,Net Banking
+ORD01512,2023-08-24,Sports,Cricket Bat,4,12187,48748,13606.65,Uttar Pradesh,Net Banking
+ORD01513,2023-08-27,Home & Kitchen,Water Bottle,2,1752,3504,501.14,Uttar Pradesh,Credit Card
+ORD01514,2023-09-23,Clothing,Jeans,1,356,356,47.96,Delhi,UPI
+ORD01515,2023-12-25,Electronics,Laptop,2,7362,14724,3452.51,Delhi,Net Banking
+ORD01516,2023-12-06,Sports,Yoga Mat,4,4854,19416,5246.67,Gujarat,Credit Card
+ORD01517,2023-03-06,Electronics,Smartphone,1,11668,11668,1333.25,Rajasthan,Debit Card
+ORD01518,2023-06-26,Clothing,Jacket,3,15523,46569,4970.99,Karnataka,Cash on Delivery
+ORD01519,2023-01-03,Books,Comics,3,19489,58467,16359.18,Gujarat,Credit Card
+ORD01520,2023-05-22,Electronics,Headphones,1,9569,9569,1296.92,Gujarat,UPI
+ORD01521,2023-06-07,Beauty,Face Wash,4,15992,63968,10312.48,Rajasthan,Net Banking
+ORD01522,2023-11-20,Electronics,Headphones,1,14985,14985,4185.39,West Bengal,Debit Card
+ORD01523,2023-05-26,Electronics,Headphones,3,4568,13704,1710.37,Gujarat,Net Banking
+ORD01524,2023-10-20,Beauty,Hair Dryer,4,4472,17888,2290.52,Uttar Pradesh,Debit Card
+ORD01525,2023-06-02,Sports,Cricket Bat,3,6194,18582,4628.31,Maharashtra,Net Banking
+ORD01526,2023-07-12,Books,Comics,2,7211,14422,4113.85,Maharashtra,Cash on Delivery
+ORD01527,2023-03-14,Books,Comics,3,9461,28383,6681.55,Tamil Nadu,Cash on Delivery
+ORD01528,2023-11-01,Sports,Yoga Mat,4,1412,5648,1334.09,Tamil Nadu,Net Banking
+ORD01529,2023-12-10,Sports,Cycling Helmet,1,6904,6904,379.76,Gujarat,Debit Card
+ORD01530,2023-05-20,Sports,Cycling Helmet,2,19095,38190,5608.84,West Bengal,Net Banking
+ORD01531,2023-07-06,Books,Science Book,4,3428,13712,2276.89,West Bengal,Debit Card
+ORD01532,2023-10-20,Sports,Football,2,6231,12462,2119.46,Tamil Nadu,Debit Card
+ORD01533,2023-03-02,Electronics,Smartphone,3,11696,35088,3676.57,Delhi,Cash on Delivery
+ORD01534,2023-07-17,Books,Novel,2,4385,8770,1746.18,Uttar Pradesh,Net Banking
+ORD01535,2023-10-22,Beauty,Moisturizer,1,19776,19776,3374.78,Delhi,UPI
+ORD01536,2023-11-15,Home & Kitchen,Water Bottle,3,3210,9630,2810.21,Uttar Pradesh,Credit Card
+ORD01537,2023-10-29,Books,Exam Guide,1,12385,12385,3582.78,Tamil Nadu,UPI
+ORD01538,2023-12-10,Electronics,Headphones,2,11749,23498,2935.3,Tamil Nadu,Net Banking
+ORD01539,2023-01-11,Sports,Yoga Mat,2,8947,17894,3290.86,Delhi,Credit Card
+ORD01540,2023-03-03,Books,Biography,2,3141,6282,1015.68,Gujarat,Cash on Delivery
+ORD01541,2023-11-29,Books,Comics,2,7267,14534,2284.62,Delhi,Debit Card
+ORD01542,2023-08-14,Clothing,Jacket,4,18185,72740,4038.63,Gujarat,Cash on Delivery
+ORD01543,2023-06-02,Beauty,Face Wash,3,19860,59580,12859.01,Karnataka,Cash on Delivery
+ORD01544,2023-07-18,Clothing,Dress,2,6647,13294,2494.82,Gujarat,Cash on Delivery
+ORD01545,2023-02-21,Beauty,Face Wash,4,1499,5996,1391.25,Tamil Nadu,Net Banking
+ORD01546,2023-09-17,Books,Biography,3,15827,47481,10693.5,Delhi,Debit Card
+ORD01547,2023-02-28,Sports,Yoga Mat,4,8469,33876,6551.31,Gujarat,Credit Card
+ORD01548,2023-03-13,Clothing,Jacket,2,12019,24038,5098.85,Delhi,UPI
+ORD01549,2023-05-28,Beauty,Hair Dryer,2,2196,4392,1204.94,Karnataka,Net Banking
+ORD01550,2023-12-15,Sports,Dumbbells,2,3289,6578,868.04,Karnataka,Net Banking
+ORD01551,2023-03-04,Electronics,Headphones,3,15932,47796,7093.35,Gujarat,Credit Card
+ORD01552,2023-11-06,Home & Kitchen,Air Fryer,3,4775,14325,3776.6,Maharashtra,Cash on Delivery
+ORD01553,2023-08-31,Clothing,Jacket,2,2331,4662,1246.68,West Bengal,UPI
+ORD01554,2023-11-26,Clothing,Sneakers,3,17399,52197,7256.6,Tamil Nadu,Debit Card
+ORD01555,2023-04-17,Electronics,Headphones,1,6866,6866,813.83,Delhi,Debit Card
+ORD01556,2023-08-14,Electronics,Smartwatch,3,12865,38595,9068.55,Delhi,Cash on Delivery
+ORD01557,2023-11-09,Sports,Football,1,3564,3564,284.32,Uttar Pradesh,UPI
+ORD01558,2023-08-06,Beauty,Hair Dryer,3,13665,40995,2475.05,Tamil Nadu,UPI
+ORD01559,2023-08-29,Clothing,T-Shirt,1,8207,8207,2315.6,Karnataka,Debit Card
+ORD01560,2023-09-16,Books,Novel,1,8938,8938,1131.26,West Bengal,Cash on Delivery
+ORD01561,2023-09-19,Books,Comics,3,11217,33651,9507.8,Maharashtra,Credit Card
+ORD01562,2023-01-05,Home & Kitchen,Mixer,4,10558,42232,4845.11,Maharashtra,UPI
+ORD01563,2023-09-18,Beauty,Face Wash,1,6865,6865,1589.39,Maharashtra,Net Banking
+ORD01564,2023-02-23,Books,Biography,1,11397,11397,2882.22,Delhi,Net Banking
+ORD01565,2023-02-16,Home & Kitchen,Cookware Set,1,7123,7123,458.21,Gujarat,Debit Card
+ORD01566,2023-08-03,Clothing,Jacket,2,13908,27816,6310.24,Tamil Nadu,Net Banking
+ORD01567,2023-06-26,Home & Kitchen,Air Fryer,1,7488,7488,2189.9,Maharashtra,UPI
+ORD01568,2023-01-09,Clothing,Jeans,1,218,218,61.18,Tamil Nadu,Credit Card
+ORD01569,2023-04-09,Electronics,Tablet,1,8721,8721,1726.14,Maharashtra,Debit Card
+ORD01570,2023-01-20,Sports,Yoga Mat,4,4932,19728,4274.49,Gujarat,UPI
+ORD01571,2023-08-29,Clothing,Jacket,3,6995,20985,3618.79,Uttar Pradesh,Debit Card
+ORD01572,2023-03-02,Electronics,Headphones,4,16321,65284,8722.64,Gujarat,Net Banking
+ORD01573,2023-06-27,Beauty,Face Wash,1,939,939,93.33,Karnataka,Credit Card
+ORD01574,2023-12-04,Beauty,Face Wash,4,9527,38108,3675.3,Maharashtra,Cash on Delivery
+ORD01575,2023-03-03,Electronics,Smartphone,1,9265,9265,1473.7,Rajasthan,Cash on Delivery
+ORD01576,2023-05-25,Clothing,Sneakers,2,13949,27898,6625.45,West Bengal,Net Banking
+ORD01577,2023-08-04,Home & Kitchen,Vacuum Cleaner,2,18867,37734,5160.15,Gujarat,Debit Card
+ORD01578,2023-01-03,Books,Comics,3,11483,34449,9668.5,Maharashtra,Cash on Delivery
+ORD01579,2023-06-09,Sports,Football,3,13640,40920,9459.64,Maharashtra,Cash on Delivery
+ORD01580,2023-08-15,Electronics,Smartwatch,2,1469,2938,780.4,Tamil Nadu,Cash on Delivery
+ORD01581,2023-09-26,Beauty,Perfume,2,19187,38374,10094.4,Uttar Pradesh,Debit Card
+ORD01582,2023-04-30,Sports,Yoga Mat,2,8769,17538,1094.64,Gujarat,Cash on Delivery
+ORD01583,2023-03-30,Clothing,Jacket,3,8633,25899,1703.55,Gujarat,Cash on Delivery
+ORD01584,2023-11-25,Beauty,Face Wash,3,15679,47037,13787.27,Maharashtra,Cash on Delivery
+ORD01585,2023-03-09,Electronics,Headphones,4,16653,66612,13558.64,West Bengal,Cash on Delivery
+ORD01586,2023-12-23,Clothing,Jacket,2,10478,20956,3580.85,Gujarat,Net Banking
+ORD01587,2023-04-08,Sports,Football,3,13529,40587,2789.3,Maharashtra,Cash on Delivery
+ORD01588,2023-09-24,Books,Novel,1,955,955,247.7,Gujarat,Net Banking
+ORD01589,2023-04-15,Books,Novel,4,9713,38852,3836.23,Tamil Nadu,Net Banking
+ORD01590,2023-11-19,Beauty,Moisturizer,2,17600,35200,8524.97,Rajasthan,Debit Card
+ORD01591,2023-05-03,Sports,Football,4,14257,57028,11074.95,Karnataka,Cash on Delivery
+ORD01592,2023-01-29,Beauty,Face Wash,3,19422,58266,3444.41,Gujarat,Debit Card
+ORD01593,2023-05-17,Books,Comics,4,16815,67260,17389.47,Rajasthan,Cash on Delivery
+ORD01594,2023-07-14,Sports,Yoga Mat,1,2823,2823,527.56,Uttar Pradesh,Debit Card
+ORD01595,2023-08-14,Books,Novel,1,13017,13017,978.11,West Bengal,Credit Card
+ORD01596,2023-11-28,Sports,Cycling Helmet,1,4697,4697,625.2,West Bengal,UPI
+ORD01597,2023-06-19,Sports,Cricket Bat,4,6927,27708,2123.98,West Bengal,Debit Card
+ORD01598,2023-01-09,Home & Kitchen,Air Fryer,4,16892,67568,5059.06,Maharashtra,Net Banking
+ORD01599,2023-02-09,Electronics,Tablet,4,8568,34272,9992.64,Rajasthan,UPI
+ORD01600,2023-01-25,Beauty,Face Wash,2,15777,31554,8401.81,Maharashtra,Debit Card
+ORD01601,2023-09-18,Clothing,Sneakers,3,4820,14460,3256.63,Delhi,Debit Card
+ORD01602,2023-08-14,Books,Exam Guide,4,11354,45416,10050.27,West Bengal,Net Banking
+ORD01603,2023-05-04,Home & Kitchen,Air Fryer,2,9345,18690,4475.21,West Bengal,Debit Card
+ORD01604,2023-02-07,Clothing,Jacket,2,3080,6160,455.29,Tamil Nadu,Net Banking
+ORD01605,2023-11-24,Books,Biography,2,14332,28664,2245.1,Rajasthan,UPI
+ORD01606,2023-09-08,Electronics,Tablet,2,16588,33176,3023.99,Delhi,Net Banking
+ORD01607,2023-06-25,Sports,Dumbbells,2,15572,31144,4028.39,Karnataka,UPI
+ORD01608,2023-03-31,Electronics,Headphones,3,2863,8589,1630.23,Delhi,Credit Card
+ORD01609,2023-02-06,Books,Comics,2,3526,7052,528.16,Gujarat,Credit Card
+ORD01610,2023-11-12,Home & Kitchen,Mixer,3,17715,53145,15461.01,Uttar Pradesh,Cash on Delivery
+ORD01611,2023-06-25,Books,Comics,1,15020,15020,3016.07,Rajasthan,UPI
+ORD01612,2023-10-11,Books,Science Book,2,5292,10584,1571.96,Rajasthan,Cash on Delivery
+ORD01613,2023-03-22,Beauty,Hair Dryer,2,19743,39486,5388.45,Uttar Pradesh,Debit Card
+ORD01614,2023-04-24,Beauty,Perfume,3,13423,40269,9525.43,Uttar Pradesh,Net Banking
+ORD01615,2023-02-09,Beauty,Lipstick,1,11222,11222,3029.48,Rajasthan,Debit Card
+ORD01616,2023-10-28,Home & Kitchen,Cookware Set,1,11793,11793,2710.13,Karnataka,Credit Card
+ORD01617,2023-08-12,Electronics,Smartphone,1,6012,6012,775.87,Karnataka,Cash on Delivery
+ORD01618,2023-11-14,Books,Science Book,3,17343,52029,14422.78,Karnataka,Credit Card
+ORD01619,2023-12-15,Clothing,Dress,4,11818,47272,5920.42,West Bengal,Net Banking
+ORD01620,2023-04-25,Beauty,Hair Dryer,4,16299,65196,15589.2,Karnataka,Cash on Delivery
+ORD01621,2023-07-05,Sports,Dumbbells,1,7987,7987,1630.59,West Bengal,Cash on Delivery
+ORD01622,2023-11-19,Home & Kitchen,Cookware Set,1,6580,6580,1057.45,Karnataka,Cash on Delivery
+ORD01623,2023-02-25,Sports,Cricket Bat,3,19092,57276,4730.33,West Bengal,Debit Card
+ORD01624,2023-02-09,Books,Comics,4,1189,4756,1152.21,Tamil Nadu,Cash on Delivery
+ORD01625,2023-12-20,Sports,Cycling Helmet,4,4911,19644,3758.96,Gujarat,Credit Card
+ORD01626,2023-02-09,Electronics,Tablet,1,13361,13361,783.06,West Bengal,UPI
+ORD01627,2023-12-13,Electronics,Tablet,4,1207,4828,286.54,West Bengal,Credit Card
+ORD01628,2023-08-25,Clothing,Sneakers,1,10963,10963,1652.76,Tamil Nadu,Cash on Delivery
+ORD01629,2023-10-16,Sports,Cricket Bat,4,12157,48628,9983.16,Maharashtra,Debit Card
+ORD01630,2023-09-19,Beauty,Face Wash,3,1077,3231,312.54,Tamil Nadu,Net Banking
+ORD01631,2023-08-04,Electronics,Headphones,3,19249,57747,9934.18,Delhi,Cash on Delivery
+ORD01632,2023-05-27,Beauty,Hair Dryer,2,2837,5674,424.46,West Bengal,Net Banking
+ORD01633,2023-12-02,Books,Biography,2,3083,6166,1277.14,Rajasthan,UPI
+ORD01634,2023-06-17,Home & Kitchen,Vacuum Cleaner,3,12031,36093,7466.45,Karnataka,Credit Card
+ORD01635,2023-04-02,Books,Comics,1,14194,14194,3541.4,Tamil Nadu,Net Banking
+ORD01636,2023-12-19,Home & Kitchen,Mixer,2,19030,38060,2510.01,West Bengal,Net Banking
+ORD01637,2023-02-28,Clothing,Sneakers,3,4477,13431,1621.01,Delhi,UPI
+ORD01638,2023-02-28,Books,Comics,4,9405,37620,11125.62,Delhi,UPI
+ORD01639,2023-10-31,Beauty,Face Wash,2,13335,26670,6118.61,Karnataka,Net Banking
+ORD01640,2023-06-18,Electronics,Headphones,1,19603,19603,2151.5,Tamil Nadu,Debit Card
+ORD01641,2023-09-26,Sports,Yoga Mat,1,17156,17156,4505.61,Tamil Nadu,UPI
+ORD01642,2023-12-29,Electronics,Smartphone,3,4202,12606,2340.22,Karnataka,Net Banking
+ORD01643,2023-02-14,Books,Exam Guide,1,12478,12478,1478.61,West Bengal,UPI
+ORD01644,2023-12-11,Clothing,Jacket,2,9163,18326,3157.69,Uttar Pradesh,Cash on Delivery
+ORD01645,2023-06-30,Clothing,Sneakers,3,4724,14172,1567.93,Delhi,UPI
+ORD01646,2023-06-19,Electronics,Laptop,4,3607,14428,932.26,Karnataka,Cash on Delivery
+ORD01647,2023-12-22,Beauty,Moisturizer,1,19377,19377,2758.09,Uttar Pradesh,Cash on Delivery
+ORD01648,2023-07-10,Books,Exam Guide,4,18999,75996,21923.81,Uttar Pradesh,Net Banking
+ORD01649,2023-06-04,Books,Biography,4,8298,33192,6449.34,Delhi,UPI
+ORD01650,2023-07-07,Electronics,Smartphone,2,8302,16604,899.36,Karnataka,Cash on Delivery
+ORD01651,2023-01-07,Beauty,Moisturizer,2,1373,2746,190.49,Tamil Nadu,Cash on Delivery
+ORD01652,2023-05-13,Books,Comics,3,13456,40368,7925.22,Uttar Pradesh,Cash on Delivery
+ORD01653,2023-08-23,Books,Science Book,3,12024,36072,8041.53,West Bengal,UPI
+ORD01654,2023-02-14,Clothing,Sneakers,3,2629,7887,470.07,Rajasthan,Credit Card
+ORD01655,2023-11-10,Home & Kitchen,Air Fryer,3,11830,35490,10460.96,Rajasthan,UPI
+ORD01656,2023-09-06,Sports,Cricket Bat,3,6130,18390,3227.19,Maharashtra,Net Banking
+ORD01657,2023-01-31,Books,Biography,4,6817,27268,5331.37,Rajasthan,Net Banking
+ORD01658,2023-01-23,Books,Biography,3,5780,17340,4614.03,Gujarat,UPI
+ORD01659,2023-06-09,Home & Kitchen,Mixer,4,16023,64092,10817.26,Tamil Nadu,Net Banking
+ORD01660,2023-12-29,Beauty,Moisturizer,4,3691,14764,3532.02,Uttar Pradesh,Net Banking
+ORD01661,2023-06-07,Clothing,Sneakers,1,7197,7197,1913.76,Gujarat,Debit Card
+ORD01662,2023-02-08,Home & Kitchen,Water Bottle,2,5955,11910,800.21,Delhi,Credit Card
+ORD01663,2023-03-23,Electronics,Smartphone,3,18431,55293,12812.45,Rajasthan,Credit Card
+ORD01664,2023-12-22,Sports,Cricket Bat,4,8065,32260,8278.44,West Bengal,UPI
+ORD01665,2023-09-15,Clothing,Jacket,1,11547,11547,735.0,Tamil Nadu,Debit Card
+ORD01666,2023-07-25,Electronics,Smartphone,4,15063,60252,10734.12,Maharashtra,Credit Card
+ORD01667,2023-03-18,Sports,Football,3,15704,47112,7884.27,Maharashtra,Credit Card
+ORD01668,2023-01-12,Electronics,Tablet,1,602,602,75.99,Karnataka,Cash on Delivery
+ORD01669,2023-10-22,Books,Comics,2,1067,2134,488.36,Karnataka,Credit Card
+ORD01670,2023-08-12,Books,Exam Guide,3,564,1692,169.79,Tamil Nadu,UPI
+ORD01671,2023-01-13,Beauty,Face Wash,1,6771,6771,466.02,West Bengal,UPI
+ORD01672,2023-02-15,Beauty,Lipstick,3,14217,42651,5790.16,Tamil Nadu,Debit Card
+ORD01673,2023-06-04,Electronics,Headphones,2,19623,39246,6723.14,Delhi,Cash on Delivery
+ORD01674,2023-04-23,Beauty,Lipstick,1,17036,17036,2769.36,Delhi,UPI
+ORD01675,2023-08-21,Home & Kitchen,Cookware Set,2,1581,3162,436.26,West Bengal,Credit Card
+ORD01676,2023-01-17,Beauty,Perfume,4,19322,77288,13941.81,Rajasthan,Debit Card
+ORD01677,2023-12-26,Books,Science Book,1,17464,17464,2103.65,Maharashtra,Debit Card
+ORD01678,2023-08-11,Sports,Dumbbells,1,8092,8092,564.85,Uttar Pradesh,Net Banking
+ORD01679,2023-12-20,Books,Novel,1,12556,12556,688.85,West Bengal,UPI
+ORD01680,2023-07-07,Electronics,Smartphone,2,2726,5452,837.44,Maharashtra,Credit Card
+ORD01681,2023-12-10,Sports,Yoga Mat,4,10586,42344,10411.35,West Bengal,Credit Card
+ORD01682,2023-12-31,Beauty,Perfume,1,16212,16212,3898.54,Delhi,Credit Card
+ORD01683,2023-06-12,Books,Science Book,1,17029,17029,2694.16,Tamil Nadu,Debit Card
+ORD01684,2023-11-22,Books,Biography,1,4075,4075,689.68,Rajasthan,Net Banking
+ORD01685,2023-03-15,Electronics,Tablet,2,16845,33690,9339.42,West Bengal,Cash on Delivery
+ORD01686,2023-08-21,Beauty,Moisturizer,3,4225,12675,2178.22,Maharashtra,Net Banking
+ORD01687,2023-08-12,Clothing,T-Shirt,4,4375,17500,5084.01,Rajasthan,Cash on Delivery
+ORD01688,2023-11-15,Electronics,Tablet,3,3643,10929,1783.68,Gujarat,UPI
+ORD01689,2023-03-01,Books,Biography,2,8547,17094,1977.44,Rajasthan,Credit Card
+ORD01690,2023-12-01,Books,Novel,1,14041,14041,1840.53,Gujarat,Net Banking
+ORD01691,2023-08-10,Home & Kitchen,Mixer,1,5924,5924,1516.02,West Bengal,UPI
+ORD01692,2023-02-06,Books,Exam Guide,1,14772,14772,941.59,Karnataka,Net Banking
+ORD01693,2023-10-05,Electronics,Smartwatch,1,7594,7594,536.46,Uttar Pradesh,UPI
+ORD01694,2023-07-15,Books,Science Book,3,13126,39378,5490.82,Maharashtra,UPI
+ORD01695,2023-12-18,Beauty,Face Wash,1,14590,14590,1000.64,West Bengal,Debit Card
+ORD01696,2023-08-30,Clothing,T-Shirt,4,13709,54836,7332.65,Uttar Pradesh,Credit Card
+ORD01697,2023-11-20,Books,Comics,1,5816,5816,1613.35,Uttar Pradesh,Cash on Delivery
+ORD01698,2023-08-07,Beauty,Face Wash,1,10948,10948,2766.24,Tamil Nadu,Cash on Delivery
+ORD01699,2023-07-11,Sports,Dumbbells,3,8895,26685,1943.51,Delhi,Credit Card
+ORD01700,2023-01-17,Home & Kitchen,Mixer,3,16898,50694,9347.22,Gujarat,Credit Card
+ORD01701,2023-01-12,Beauty,Face Wash,1,4578,4578,523.76,Uttar Pradesh,Net Banking
+ORD01702,2023-07-12,Beauty,Hair Dryer,3,13530,40590,9469.24,Karnataka,Net Banking
+ORD01703,2023-01-22,Clothing,T-Shirt,3,9149,27447,5065.48,Delhi,Debit Card
+ORD01704,2023-04-30,Beauty,Face Wash,1,5870,5870,888.78,West Bengal,Net Banking
+ORD01705,2023-07-29,Electronics,Laptop,1,6317,6317,519.93,Karnataka,Credit Card
+ORD01706,2023-11-02,Clothing,T-Shirt,2,16787,33574,8771.31,Tamil Nadu,Credit Card
+ORD01707,2023-09-27,Beauty,Hair Dryer,1,18576,18576,2190.41,Karnataka,Net Banking
+ORD01708,2023-07-11,Electronics,Smartphone,4,4309,17236,2134.77,Maharashtra,Cash on Delivery
+ORD01709,2023-06-24,Sports,Cycling Helmet,2,17306,34612,7020.54,Uttar Pradesh,Credit Card
+ORD01710,2023-10-12,Clothing,Dress,1,5093,5093,1237.79,Gujarat,Cash on Delivery
+ORD01711,2023-07-23,Home & Kitchen,Mixer,3,8600,25800,7067.43,Karnataka,UPI
+ORD01712,2023-06-13,Clothing,T-Shirt,4,14806,59224,3440.75,Karnataka,UPI
+ORD01713,2023-09-08,Electronics,Smartphone,4,2244,8976,1601.92,Tamil Nadu,Debit Card
+ORD01714,2023-08-15,Beauty,Perfume,3,17683,53049,12008.84,Gujarat,Net Banking
+ORD01715,2023-01-07,Clothing,Dress,1,10872,10872,2583.73,Uttar Pradesh,Net Banking
+ORD01716,2023-01-29,Electronics,Laptop,2,1270,2540,218.15,Maharashtra,Net Banking
+ORD01717,2023-02-02,Beauty,Perfume,4,12590,50360,8952.67,Delhi,Cash on Delivery
+ORD01718,2023-05-14,Electronics,Smartphone,2,10295,20590,6006.97,Delhi,Debit Card
+ORD01719,2023-03-20,Electronics,Tablet,3,6051,18153,4826.12,Tamil Nadu,Cash on Delivery
+ORD01720,2023-02-27,Books,Science Book,3,1188,3564,395.74,Karnataka,Debit Card
+ORD01721,2023-01-26,Clothing,Jacket,4,1702,6808,1562.46,West Bengal,Cash on Delivery
+ORD01722,2023-08-14,Clothing,Jeans,3,18009,54027,4476.3,Delhi,Net Banking
+ORD01723,2023-10-12,Clothing,Dress,3,6854,20562,4015.84,Maharashtra,UPI
+ORD01724,2023-01-04,Home & Kitchen,Air Fryer,1,7567,7567,2207.17,Delhi,Net Banking
+ORD01725,2023-04-09,Clothing,Jeans,3,19020,57060,10184.57,Maharashtra,Net Banking
+ORD01726,2023-02-08,Electronics,Tablet,2,9419,18838,4885.87,Gujarat,Net Banking
+ORD01727,2023-09-28,Sports,Football,4,14944,59776,16274.2,West Bengal,Debit Card
+ORD01728,2023-10-12,Home & Kitchen,Mixer,2,6578,13156,1226.88,Uttar Pradesh,Credit Card
+ORD01729,2023-06-06,Clothing,Dress,3,5111,15333,3589.74,West Bengal,Debit Card
+ORD01730,2023-03-16,Clothing,T-Shirt,2,19966,39932,2488.71,Delhi,UPI
+ORD01731,2023-10-15,Home & Kitchen,Cookware Set,4,14536,58144,13769.92,Rajasthan,UPI
+ORD01732,2023-05-10,Home & Kitchen,Water Bottle,3,15153,45459,5918.01,West Bengal,Credit Card
+ORD01733,2023-06-24,Electronics,Smartphone,2,6723,13446,3949.44,Karnataka,Debit Card
+ORD01734,2023-03-25,Electronics,Smartwatch,2,13073,26146,4722.6,Maharashtra,Credit Card
+ORD01735,2023-01-22,Clothing,Dress,4,14657,58628,14456.66,Gujarat,Cash on Delivery
+ORD01736,2023-01-27,Clothing,Jacket,3,517,1551,78.6,Uttar Pradesh,Credit Card
+ORD01737,2023-07-14,Home & Kitchen,Cookware Set,3,7619,22857,3319.35,Maharashtra,Debit Card
+ORD01738,2023-12-03,Books,Science Book,3,318,954,49.55,Uttar Pradesh,Cash on Delivery
+ORD01739,2023-08-24,Clothing,T-Shirt,2,12801,25602,3061.15,West Bengal,Net Banking
+ORD01740,2023-04-02,Beauty,Face Wash,2,2803,5606,1243.4,Rajasthan,Debit Card
+ORD01741,2023-01-21,Clothing,Sneakers,2,8057,16114,2487.16,West Bengal,Debit Card
+ORD01742,2023-10-30,Beauty,Lipstick,4,18845,75380,16529.8,Karnataka,Cash on Delivery
+ORD01743,2023-12-23,Books,Exam Guide,3,14090,42270,2841.9,Gujarat,UPI
+ORD01744,2023-03-25,Clothing,Jacket,1,14030,14030,1592.35,Karnataka,Credit Card
+ORD01745,2023-09-19,Books,Comics,2,11467,22934,1660.23,Delhi,UPI
+ORD01746,2023-05-27,Clothing,T-Shirt,4,5371,21484,2221.14,West Bengal,Cash on Delivery
+ORD01747,2023-09-14,Beauty,Perfume,1,13204,13204,1870.61,Gujarat,Debit Card
+ORD01748,2023-02-27,Home & Kitchen,Water Bottle,4,3757,15028,4419.95,Karnataka,Net Banking
+ORD01749,2023-01-15,Clothing,Sneakers,3,13994,41982,10496.94,Uttar Pradesh,Credit Card
+ORD01750,2023-06-11,Beauty,Hair Dryer,1,887,887,114.62,West Bengal,Debit Card
+ORD01751,2023-06-12,Sports,Dumbbells,3,3327,9981,1761.46,West Bengal,UPI
+ORD01752,2023-11-16,Electronics,Smartwatch,4,14996,59984,15870.61,Uttar Pradesh,Debit Card
+ORD01753,2023-10-08,Home & Kitchen,Air Fryer,2,1364,2728,381.7,Uttar Pradesh,Net Banking
+ORD01754,2023-10-07,Clothing,Sneakers,1,13931,13931,1786.07,Delhi,Cash on Delivery
+ORD01755,2023-01-12,Electronics,Smartphone,3,18456,55368,12479.47,West Bengal,Net Banking
+ORD01756,2023-10-01,Electronics,Smartwatch,1,12667,12667,1348.53,Rajasthan,Cash on Delivery
+ORD01757,2023-09-28,Books,Novel,4,12658,50632,13496.38,West Bengal,Cash on Delivery
+ORD01758,2023-07-27,Clothing,T-Shirt,2,9782,19564,1648.53,Delhi,Cash on Delivery
+ORD01759,2023-01-27,Clothing,Jeans,3,8618,25854,6567.51,Gujarat,UPI
+ORD01760,2023-03-13,Clothing,T-Shirt,4,14619,58476,15376.12,Delhi,Cash on Delivery
+ORD01761,2023-03-01,Books,Biography,1,10224,10224,778.09,Karnataka,Cash on Delivery
+ORD01762,2023-05-25,Sports,Cycling Helmet,1,7635,7635,1396.21,Delhi,Cash on Delivery
+ORD01763,2023-04-03,Beauty,Perfume,2,3607,7214,1387.43,Rajasthan,Debit Card
+ORD01764,2023-11-05,Home & Kitchen,Air Fryer,3,4554,13662,1573.55,Delhi,Credit Card
+ORD01765,2023-01-08,Beauty,Lipstick,2,10309,20618,5613.25,Delhi,UPI
+ORD01766,2023-03-20,Beauty,Lipstick,4,4145,16580,3790.44,Uttar Pradesh,Credit Card
+ORD01767,2023-01-27,Sports,Yoga Mat,3,12175,36525,2073.53,Delhi,Net Banking
+ORD01768,2023-06-23,Books,Biography,1,5385,5385,1520.79,Delhi,Credit Card
+ORD01769,2023-02-19,Beauty,Lipstick,3,10971,32913,4301.81,West Bengal,Net Banking
+ORD01770,2023-07-18,Electronics,Headphones,2,14999,29998,4979.56,Gujarat,Debit Card
+ORD01771,2023-12-15,Books,Comics,3,18158,54474,15358.21,Maharashtra,Net Banking
+ORD01772,2023-06-30,Books,Exam Guide,3,10765,32295,7327.9,Karnataka,UPI
+ORD01773,2023-01-24,Clothing,Sneakers,3,17773,53319,13435.82,Maharashtra,Cash on Delivery
+ORD01774,2023-11-12,Books,Comics,2,18459,36918,2897.75,Uttar Pradesh,Debit Card
+ORD01775,2023-02-15,Home & Kitchen,Vacuum Cleaner,4,5608,22432,3692.1,Tamil Nadu,Net Banking
+ORD01776,2023-01-15,Books,Science Book,3,3033,9099,1908.43,Tamil Nadu,Credit Card
+ORD01777,2023-06-02,Electronics,Headphones,1,14316,14316,2272.72,Gujarat,Cash on Delivery
+ORD01778,2023-08-10,Beauty,Hair Dryer,3,11089,33267,3868.23,Maharashtra,Cash on Delivery
+ORD01779,2023-07-25,Books,Comics,3,2935,8805,2639.41,Tamil Nadu,Cash on Delivery
+ORD01780,2023-09-30,Sports,Yoga Mat,3,6568,19704,1493.65,Maharashtra,Debit Card
+ORD01781,2023-08-24,Beauty,Face Wash,2,362,724,124.63,Maharashtra,Cash on Delivery
+ORD01782,2023-12-06,Clothing,Jacket,2,18516,37032,6177.5,Maharashtra,Credit Card
+ORD01783,2023-08-16,Clothing,Jacket,3,13603,40809,10896.0,Maharashtra,Debit Card
+ORD01784,2023-01-09,Beauty,Perfume,1,19291,19291,3983.86,Uttar Pradesh,Net Banking
+ORD01785,2023-06-15,Books,Novel,3,4133,12399,968.35,Tamil Nadu,Cash on Delivery
+ORD01786,2023-11-15,Books,Comics,3,10567,31701,5110.51,Karnataka,Cash on Delivery
+ORD01787,2023-08-02,Home & Kitchen,Air Fryer,3,764,2292,191.12,West Bengal,Credit Card
+ORD01788,2023-04-27,Home & Kitchen,Cookware Set,1,7081,7081,2070.29,Maharashtra,Credit Card
+ORD01789,2023-12-10,Clothing,Sneakers,4,6497,25988,4593.38,Gujarat,Cash on Delivery
+ORD01790,2023-03-13,Sports,Yoga Mat,3,18512,55536,15721.52,Gujarat,Cash on Delivery
+ORD01791,2023-03-05,Sports,Cycling Helmet,2,4932,9864,913.9,West Bengal,Cash on Delivery
+ORD01792,2023-07-24,Home & Kitchen,Water Bottle,3,15429,46287,5364.1,Karnataka,UPI
+ORD01793,2023-07-28,Clothing,Jacket,4,12516,50064,14151.49,Uttar Pradesh,Cash on Delivery
+ORD01794,2023-03-13,Home & Kitchen,Vacuum Cleaner,1,2093,2093,469.19,Delhi,Debit Card
+ORD01795,2023-10-04,Home & Kitchen,Vacuum Cleaner,3,11432,34296,8885.91,West Bengal,Debit Card
+ORD01796,2023-10-01,Sports,Football,3,17709,53127,15614.05,Tamil Nadu,Debit Card
+ORD01797,2023-11-16,Clothing,Jeans,3,15723,47169,12049.78,Karnataka,Debit Card
+ORD01798,2023-12-04,Electronics,Smartphone,2,14216,28432,5076.73,Gujarat,Net Banking
+ORD01799,2023-04-05,Clothing,Dress,3,11110,33330,3792.07,Tamil Nadu,UPI
+ORD01800,2023-06-15,Clothing,Jeans,1,7410,7410,1183.99,Delhi,UPI
+ORD01801,2023-02-01,Home & Kitchen,Cookware Set,3,11142,33426,4698.81,Gujarat,Cash on Delivery
+ORD01802,2023-01-11,Sports,Football,2,3207,6414,1643.64,Tamil Nadu,Credit Card
+ORD01803,2023-10-28,Electronics,Smartwatch,1,1411,1411,347.2,West Bengal,Debit Card
+ORD01804,2023-08-05,Beauty,Lipstick,3,14545,43635,5183.51,Karnataka,Credit Card
+ORD01805,2023-10-16,Books,Comics,4,17085,68340,19331.32,Gujarat,UPI
+ORD01806,2023-04-12,Beauty,Lipstick,3,15373,46119,12842.72,Karnataka,Net Banking
+ORD01807,2023-09-24,Books,Science Book,3,1169,3507,755.59,Gujarat,Credit Card
+ORD01808,2023-08-02,Books,Science Book,2,6020,12040,2858.13,Delhi,Debit Card
+ORD01809,2023-06-28,Books,Comics,2,2502,5004,585.65,Maharashtra,UPI
+ORD01810,2023-03-29,Electronics,Smartwatch,4,15820,63280,5145.47,Uttar Pradesh,Cash on Delivery
+ORD01811,2023-02-10,Home & Kitchen,Mixer,3,9672,29016,1537.25,Gujarat,Credit Card
+ORD01812,2023-03-17,Sports,Football,3,5158,15474,4536.95,Uttar Pradesh,UPI
+ORD01813,2023-02-15,Clothing,T-Shirt,4,16732,66928,17892.4,Maharashtra,Net Banking
+ORD01814,2023-06-09,Beauty,Face Wash,3,3949,11847,2076.31,Rajasthan,Debit Card
+ORD01815,2023-03-21,Beauty,Lipstick,2,11637,23274,6619.48,Delhi,UPI
+ORD01816,2023-11-06,Beauty,Perfume,4,3023,12092,1953.31,Rajasthan,UPI
+ORD01817,2023-03-27,Beauty,Lipstick,3,15367,46101,6153.36,Delhi,UPI
+ORD01818,2023-04-02,Home & Kitchen,Vacuum Cleaner,4,12858,51432,10685.63,Tamil Nadu,Cash on Delivery
+ORD01819,2023-05-28,Sports,Cricket Bat,1,9863,9863,2270.28,Uttar Pradesh,Cash on Delivery
+ORD01820,2023-06-10,Books,Science Book,4,7425,29700,5982.72,West Bengal,UPI
+ORD01821,2023-07-21,Clothing,Dress,2,13760,27520,5002.11,Rajasthan,Debit Card
+ORD01822,2023-08-30,Sports,Cycling Helmet,1,16165,16165,3866.05,Maharashtra,Debit Card
+ORD01823,2023-12-19,Clothing,Jacket,1,12267,12267,1190.61,West Bengal,Net Banking
+ORD01824,2023-01-02,Home & Kitchen,Mixer,2,8940,17880,1148.8,Rajasthan,Credit Card
+ORD01825,2023-08-13,Electronics,Smartwatch,3,4015,12045,978.27,Tamil Nadu,Cash on Delivery
+ORD01826,2023-10-16,Clothing,Sneakers,2,4707,9414,728.39,West Bengal,Net Banking
+ORD01827,2023-08-21,Clothing,Jeans,3,10664,31992,5929.42,Karnataka,Cash on Delivery
+ORD01828,2023-03-18,Home & Kitchen,Water Bottle,1,10950,10950,3270.7,West Bengal,Credit Card
+ORD01829,2023-04-26,Home & Kitchen,Water Bottle,1,18148,18148,4243.13,Tamil Nadu,Cash on Delivery
+ORD01830,2023-06-03,Sports,Dumbbells,3,926,2778,615.98,Uttar Pradesh,Credit Card
+ORD01831,2023-04-13,Electronics,Laptop,2,12110,24220,5385.42,Tamil Nadu,UPI
+ORD01832,2023-07-13,Books,Science Book,1,16866,16866,3768.97,Maharashtra,UPI
+ORD01833,2023-06-15,Beauty,Perfume,2,10976,21952,5264.3,West Bengal,Debit Card
+ORD01834,2023-12-25,Electronics,Smartphone,3,9544,28632,1985.71,Tamil Nadu,Cash on Delivery
+ORD01835,2023-03-31,Electronics,Tablet,2,17531,35062,4762.3,Gujarat,Net Banking
+ORD01836,2023-06-23,Beauty,Hair Dryer,1,266,266,53.35,Rajasthan,UPI
+ORD01837,2023-05-02,Books,Science Book,2,764,1528,374.92,Maharashtra,UPI
+ORD01838,2023-05-23,Sports,Cycling Helmet,2,13593,27186,7030.7,Delhi,UPI
+ORD01839,2023-04-16,Clothing,Sneakers,4,13149,52596,12458.95,Delhi,Debit Card
+ORD01840,2023-11-01,Home & Kitchen,Air Fryer,3,9783,29349,3668.17,Karnataka,UPI
+ORD01841,2023-12-26,Clothing,T-Shirt,1,6216,6216,362.1,Tamil Nadu,UPI
+ORD01842,2023-11-13,Beauty,Lipstick,1,12592,12592,1153.75,Delhi,UPI
+ORD01843,2023-05-03,Home & Kitchen,Water Bottle,2,9746,19492,2035.59,Maharashtra,Net Banking
+ORD01844,2023-01-09,Clothing,Jeans,4,5811,23244,1441.59,Maharashtra,Net Banking
+ORD01845,2023-09-19,Clothing,Sneakers,1,5777,5777,1385.0,Gujarat,UPI
+ORD01846,2023-03-14,Books,Biography,4,1707,6828,1897.82,Tamil Nadu,UPI
+ORD01847,2023-12-25,Electronics,Tablet,4,2200,8800,997.43,Gujarat,Debit Card
+ORD01848,2023-08-11,Electronics,Laptop,3,1494,4482,989.88,Tamil Nadu,UPI
+ORD01849,2023-02-10,Beauty,Moisturizer,3,18187,54561,8838.5,Gujarat,Debit Card
+ORD01850,2023-07-23,Electronics,Laptop,3,19025,57075,2886.9,Karnataka,Net Banking
+ORD01851,2023-09-21,Clothing,Jeans,2,9518,19036,5264.11,Maharashtra,Cash on Delivery
+ORD01852,2023-11-24,Beauty,Face Wash,2,15774,31548,8147.54,Maharashtra,Debit Card
+ORD01853,2023-06-27,Electronics,Smartwatch,3,2296,6888,1886.99,Gujarat,UPI
+ORD01854,2023-12-14,Books,Biography,1,16759,16759,3588.78,Karnataka,Cash on Delivery
+ORD01855,2023-11-14,Sports,Cycling Helmet,1,10894,10894,1152.28,Gujarat,Debit Card
+ORD01856,2023-03-25,Books,Biography,4,10937,43748,9668.04,Delhi,Credit Card
+ORD01857,2023-11-14,Clothing,Jeans,4,5347,21388,3854.58,Karnataka,Debit Card
+ORD01858,2023-04-21,Home & Kitchen,Cookware Set,4,6399,25596,1734.37,Uttar Pradesh,Debit Card
+ORD01859,2023-09-08,Electronics,Smartwatch,2,18667,37334,3209.49,Maharashtra,Credit Card
+ORD01860,2023-01-07,Electronics,Smartwatch,1,2049,2049,365.37,Rajasthan,Credit Card
+ORD01861,2023-03-25,Clothing,T-Shirt,1,14151,14151,2205.72,Delhi,Net Banking
+ORD01862,2023-07-27,Sports,Cricket Bat,4,17202,68808,16060.52,West Bengal,Credit Card
+ORD01863,2023-11-10,Home & Kitchen,Mixer,1,5995,5995,429.82,Maharashtra,UPI
+ORD01864,2023-01-22,Books,Novel,4,7833,31332,4339.99,Maharashtra,Credit Card
+ORD01865,2023-01-03,Sports,Football,1,5209,5209,960.12,Uttar Pradesh,Debit Card
+ORD01866,2023-05-07,Books,Biography,1,14123,14123,3116.49,Delhi,Credit Card
+ORD01867,2023-10-24,Clothing,Jacket,3,1782,5346,622.94,Gujarat,UPI
+ORD01868,2023-07-07,Clothing,Sneakers,2,8993,17986,2947.76,Uttar Pradesh,Net Banking
+ORD01869,2023-12-28,Sports,Cricket Bat,4,4966,19864,1691.38,Maharashtra,Net Banking
+ORD01870,2023-01-14,Electronics,Tablet,3,6293,18879,2556.92,Uttar Pradesh,Debit Card
+ORD01871,2023-01-12,Home & Kitchen,Cookware Set,2,437,874,145.74,Delhi,Credit Card
+ORD01872,2023-03-28,Clothing,Sneakers,1,11310,11310,938.18,West Bengal,UPI
+ORD01873,2023-01-12,Books,Comics,3,10395,31185,3703.41,Karnataka,Cash on Delivery
+ORD01874,2023-01-25,Books,Novel,1,13634,13634,3784.1,Karnataka,UPI
+ORD01875,2023-10-28,Beauty,Moisturizer,4,17124,68496,10790.56,Uttar Pradesh,Net Banking
+ORD01876,2023-08-31,Clothing,Dress,3,5331,15993,2040.59,Maharashtra,UPI
+ORD01877,2023-05-02,Electronics,Smartwatch,1,8897,8897,2527.14,Maharashtra,Net Banking
+ORD01878,2023-05-27,Clothing,Dress,2,13300,26600,2921.56,Gujarat,UPI
+ORD01879,2023-02-24,Sports,Cricket Bat,1,4267,4267,285.13,Maharashtra,UPI
+ORD01880,2023-08-26,Beauty,Face Wash,1,9444,9444,1967.13,Rajasthan,UPI
+ORD01881,2023-12-22,Beauty,Hair Dryer,2,15702,31404,4048.93,Tamil Nadu,Cash on Delivery
+ORD01882,2023-06-22,Clothing,Sneakers,2,14870,29740,4277.51,Rajasthan,UPI
+ORD01883,2023-08-09,Beauty,Perfume,2,13241,26482,2291.33,Maharashtra,Cash on Delivery
+ORD01884,2023-04-29,Books,Biography,4,919,3676,1043.46,Karnataka,Credit Card
+ORD01885,2023-11-05,Books,Science Book,3,13361,40083,3080.89,Maharashtra,Cash on Delivery
+ORD01886,2023-07-02,Beauty,Hair Dryer,1,14233,14233,3958.93,Maharashtra,Credit Card
+ORD01887,2023-10-15,Clothing,Dress,4,4407,17628,5285.54,Rajasthan,Net Banking
+ORD01888,2023-11-03,Electronics,Laptop,2,15243,30486,4677.36,Maharashtra,UPI
+ORD01889,2023-10-27,Clothing,Jacket,1,9507,9507,1038.16,Uttar Pradesh,Net Banking
+ORD01890,2023-03-23,Beauty,Face Wash,4,7465,29860,7428.5,Uttar Pradesh,Cash on Delivery
+ORD01891,2023-07-30,Books,Science Book,2,14092,28184,8296.23,Tamil Nadu,Net Banking
+ORD01892,2023-05-30,Sports,Yoga Mat,1,10673,10673,970.52,Rajasthan,UPI
+ORD01893,2023-02-06,Beauty,Hair Dryer,2,17125,34250,3538.06,Rajasthan,Cash on Delivery
+ORD01894,2023-12-18,Sports,Yoga Mat,1,19328,19328,2225.92,Karnataka,Cash on Delivery
+ORD01895,2023-11-08,Electronics,Smartphone,1,6241,6241,935.26,Tamil Nadu,Cash on Delivery
+ORD01896,2023-12-27,Beauty,Perfume,3,1760,5280,1199.83,Karnataka,Credit Card
+ORD01897,2023-02-28,Electronics,Smartphone,3,5619,16857,1423.3,Maharashtra,Cash on Delivery
+ORD01898,2023-05-11,Books,Novel,3,1668,5004,429.87,Karnataka,Cash on Delivery
+ORD01899,2023-07-21,Sports,Yoga Mat,4,6919,27676,6417.21,Karnataka,UPI
+ORD01900,2023-08-31,Sports,Cycling Helmet,3,10791,32373,5638.92,Maharashtra,Credit Card
+ORD01901,2023-02-04,Books,Comics,2,14092,28184,4550.92,West Bengal,Cash on Delivery
+ORD01902,2023-04-03,Clothing,Jacket,4,17937,71748,16715.0,West Bengal,Cash on Delivery
+ORD01903,2023-07-26,Sports,Yoga Mat,3,10400,31200,7432.21,Gujarat,Net Banking
+ORD01904,2023-12-19,Sports,Cricket Bat,2,11534,23068,1890.49,Delhi,Cash on Delivery
+ORD01905,2023-11-28,Electronics,Smartwatch,2,7934,15868,1983.0,West Bengal,UPI
+ORD01906,2023-11-01,Beauty,Moisturizer,3,2273,6819,1423.35,West Bengal,Credit Card
+ORD01907,2023-12-16,Electronics,Laptop,4,17394,69576,10267.6,Tamil Nadu,Debit Card
+ORD01908,2023-08-01,Beauty,Moisturizer,1,11155,11155,1703.77,Karnataka,UPI
+ORD01909,2023-06-08,Books,Science Book,2,10962,21924,4549.33,West Bengal,Credit Card
+ORD01910,2023-01-24,Sports,Dumbbells,2,19289,38578,3320.72,West Bengal,Cash on Delivery
+ORD01911,2023-10-20,Sports,Football,4,1147,4588,248.52,Delhi,Cash on Delivery
+ORD01912,2023-01-04,Home & Kitchen,Air Fryer,2,8066,16132,2620.15,Rajasthan,Net Banking
+ORD01913,2023-08-08,Books,Biography,3,19012,57036,7414.91,Tamil Nadu,UPI
+ORD01914,2023-12-30,Electronics,Smartphone,4,10025,40100,3634.17,Delhi,Debit Card
+ORD01915,2023-01-20,Home & Kitchen,Vacuum Cleaner,1,7482,7482,1966.98,Delhi,UPI
+ORD01916,2023-06-01,Beauty,Face Wash,1,9690,9690,1469.91,Rajasthan,UPI
+ORD01917,2023-02-19,Home & Kitchen,Air Fryer,3,12359,37077,3187.47,Gujarat,Credit Card
+ORD01918,2023-06-26,Books,Exam Guide,3,8359,25077,4931.4,Uttar Pradesh,Debit Card
+ORD01919,2023-04-06,Books,Biography,2,10311,20622,2060.29,Maharashtra,Credit Card
+ORD01920,2023-04-15,Home & Kitchen,Mixer,1,12654,12654,2994.0,Gujarat,Debit Card
+ORD01921,2023-09-07,Electronics,Tablet,1,12716,12716,2963.52,Gujarat,Credit Card
+ORD01922,2023-04-27,Beauty,Moisturizer,3,8919,26757,6777.16,Rajasthan,UPI
+ORD01923,2023-12-20,Electronics,Smartwatch,2,4819,9638,1329.37,Delhi,UPI
+ORD01924,2023-08-16,Beauty,Hair Dryer,2,7075,14150,952.68,Rajasthan,UPI
+ORD01925,2023-03-07,Sports,Cricket Bat,1,5601,5601,1116.88,West Bengal,Credit Card
+ORD01926,2023-12-01,Books,Exam Guide,3,11875,35625,7741.92,Gujarat,Cash on Delivery
+ORD01927,2023-09-19,Sports,Yoga Mat,3,1970,5910,1331.44,Karnataka,Net Banking
+ORD01928,2023-10-22,Home & Kitchen,Vacuum Cleaner,1,9189,9189,2553.92,Rajasthan,Debit Card
+ORD01929,2023-08-31,Beauty,Face Wash,1,6894,6894,1219.19,Uttar Pradesh,UPI
+ORD01930,2023-07-05,Home & Kitchen,Mixer,4,17336,69344,13276.81,Tamil Nadu,Net Banking
+ORD01931,2023-09-03,Beauty,Perfume,1,6989,6989,1748.68,Maharashtra,Net Banking
+ORD01932,2023-05-05,Electronics,Tablet,2,305,610,140.1,Gujarat,UPI
+ORD01933,2023-09-25,Electronics,Tablet,3,5744,17232,2982.72,West Bengal,Cash on Delivery
+ORD01934,2023-05-11,Clothing,Jacket,2,1982,3964,413.97,Maharashtra,UPI
+ORD01935,2023-08-25,Sports,Yoga Mat,2,6413,12826,3308.23,Rajasthan,Net Banking
+ORD01936,2023-01-18,Home & Kitchen,Cookware Set,2,5069,10138,1740.77,Rajasthan,Cash on Delivery
+ORD01937,2023-02-09,Home & Kitchen,Water Bottle,4,4181,16724,3106.23,West Bengal,Net Banking
+ORD01938,2023-01-21,Clothing,T-Shirt,3,17527,52581,7569.31,Karnataka,Net Banking
+ORD01939,2023-08-13,Beauty,Perfume,2,17184,34368,7070.82,West Bengal,UPI
+ORD01940,2023-12-21,Books,Comics,1,1724,1724,216.53,Rajasthan,Net Banking
+ORD01941,2023-10-09,Books,Novel,1,278,278,46.45,Uttar Pradesh,UPI
+ORD01942,2023-01-08,Beauty,Perfume,1,13268,13268,3760.09,Uttar Pradesh,Debit Card
+ORD01943,2023-04-10,Books,Biography,2,5353,10706,870.48,Rajasthan,Cash on Delivery
+ORD01944,2023-08-28,Home & Kitchen,Mixer,3,11071,33213,8761.3,Uttar Pradesh,Cash on Delivery
+ORD01945,2023-03-28,Home & Kitchen,Vacuum Cleaner,3,15991,47973,9967.79,Karnataka,UPI
+ORD01946,2023-10-25,Books,Comics,3,2570,7710,1214.03,Uttar Pradesh,Cash on Delivery
+ORD01947,2023-01-14,Clothing,T-Shirt,1,13883,13883,4033.75,Karnataka,Debit Card
+ORD01948,2023-11-30,Electronics,Laptop,3,6994,20982,2567.34,Tamil Nadu,Cash on Delivery
+ORD01949,2023-01-02,Beauty,Hair Dryer,4,17548,70192,20581.07,Rajasthan,Cash on Delivery
+ORD01950,2023-10-20,Books,Novel,4,18660,74640,20385.47,Uttar Pradesh,Debit Card
+ORD01951,2023-11-21,Home & Kitchen,Cookware Set,1,11760,11760,1560.89,Delhi,UPI
+ORD01952,2023-02-10,Home & Kitchen,Water Bottle,1,15583,15583,2296.12,Karnataka,Credit Card
+ORD01953,2023-11-14,Books,Science Book,4,9918,39672,9923.32,Delhi,Credit Card
+ORD01954,2023-11-12,Electronics,Headphones,1,15031,15031,1808.55,Tamil Nadu,Credit Card
+ORD01955,2023-04-21,Beauty,Lipstick,4,12838,51352,5575.87,Maharashtra,Cash on Delivery
+ORD01956,2023-01-14,Books,Exam Guide,3,6039,18117,4888.84,Uttar Pradesh,Credit Card
+ORD01957,2023-08-19,Sports,Cycling Helmet,4,10503,42012,5245.8,Maharashtra,Net Banking
+ORD01958,2023-03-25,Books,Comics,4,17822,71288,21350.35,Tamil Nadu,Cash on Delivery
+ORD01959,2023-05-10,Electronics,Laptop,3,2106,6318,960.24,Maharashtra,UPI
+ORD01960,2023-08-19,Home & Kitchen,Water Bottle,1,12231,12231,2496.01,Rajasthan,Debit Card
+ORD01961,2023-11-22,Beauty,Perfume,1,1660,1660,341.36,Karnataka,Credit Card
+ORD01962,2023-05-25,Clothing,Jeans,2,18000,36000,7413.69,Tamil Nadu,Cash on Delivery
+ORD01963,2023-12-11,Beauty,Lipstick,1,18012,18012,4701.97,Delhi,Cash on Delivery
+ORD01964,2023-01-28,Sports,Yoga Mat,3,3271,9813,581.7,Maharashtra,UPI
+ORD01965,2023-03-07,Sports,Dumbbells,4,11892,47568,10373.97,West Bengal,Debit Card
+ORD01966,2023-06-12,Home & Kitchen,Cookware Set,3,2753,8259,2346.57,Gujarat,Cash on Delivery
+ORD01967,2023-08-17,Books,Biography,4,5257,21028,2107.59,Tamil Nadu,Credit Card
+ORD01968,2023-09-18,Books,Comics,2,2462,4924,1292.71,Delhi,Credit Card
+ORD01969,2023-06-13,Books,Exam Guide,1,17692,17692,5096.45,Tamil Nadu,Net Banking
+ORD01970,2023-10-28,Beauty,Lipstick,3,5257,15771,2908.1,Gujarat,Credit Card
+ORD01971,2023-10-30,Sports,Football,1,3877,3877,581.22,West Bengal,Cash on Delivery
+ORD01972,2023-10-14,Electronics,Smartwatch,3,6563,19689,3625.09,Tamil Nadu,UPI
+ORD01973,2023-01-10,Electronics,Laptop,3,13854,41562,4756.55,Tamil Nadu,Debit Card
+ORD01974,2023-07-14,Clothing,Dress,4,9008,36032,1931.07,Gujarat,Cash on Delivery
+ORD01975,2023-04-28,Electronics,Headphones,2,1070,2140,427.66,Maharashtra,Cash on Delivery
+ORD01976,2023-09-27,Beauty,Moisturizer,2,2939,5878,1090.39,Gujarat,Cash on Delivery
+ORD01977,2023-03-21,Electronics,Laptop,1,4333,4333,939.54,Tamil Nadu,Net Banking
+ORD01978,2023-04-03,Electronics,Headphones,1,3657,3657,882.75,Rajasthan,Net Banking
+ORD01979,2023-09-23,Books,Comics,2,653,1306,170.9,Gujarat,Cash on Delivery
+ORD01980,2023-11-28,Books,Novel,3,11176,33528,6173.56,Delhi,Debit Card
+ORD01981,2023-12-16,Books,Science Book,1,16596,16596,1713.68,Karnataka,Credit Card
+ORD01982,2023-12-27,Beauty,Perfume,4,1120,4480,317.85,Tamil Nadu,UPI
+ORD01983,2023-09-14,Sports,Cricket Bat,3,6675,20025,4818.69,Maharashtra,Debit Card
+ORD01984,2023-05-13,Clothing,Sneakers,2,8157,16314,1901.53,Karnataka,Net Banking
+ORD01985,2023-10-03,Books,Science Book,1,13437,13437,3419.12,Gujarat,Cash on Delivery
+ORD01986,2023-09-21,Beauty,Perfume,1,10907,10907,1913.82,Tamil Nadu,Debit Card
+ORD01987,2023-06-20,Books,Comics,4,11567,46268,11028.85,Gujarat,UPI
+ORD01988,2023-01-01,Clothing,T-Shirt,4,2463,9852,1839.65,Rajasthan,UPI
+ORD01989,2023-11-09,Clothing,Dress,4,14009,56036,6453.6,Rajasthan,Net Banking
+ORD01990,2023-03-05,Clothing,T-Shirt,1,8369,8369,2209.74,Delhi,Net Banking
+ORD01991,2023-10-11,Books,Comics,2,14791,29582,2150.03,Uttar Pradesh,Credit Card
+ORD01992,2023-05-01,Beauty,Perfume,4,11254,45016,7287.0,Tamil Nadu,Debit Card
+ORD01993,2023-04-17,Electronics,Smartwatch,4,14009,56036,3024.83,Rajasthan,Net Banking
+ORD01994,2023-06-24,Home & Kitchen,Cookware Set,2,15042,30084,8294.67,Maharashtra,UPI
+ORD01995,2023-07-23,Clothing,Sneakers,3,9195,27585,2045.71,Maharashtra,Credit Card
+ORD01996,2023-06-14,Books,Comics,1,12701,12701,1651.31,Rajasthan,Cash on Delivery
+ORD01997,2023-11-01,Books,Science Book,2,13465,26930,2200.19,Maharashtra,Debit Card
+ORD01998,2023-04-30,Books,Exam Guide,3,3361,10083,616.35,Uttar Pradesh,UPI
+ORD01999,2023-02-13,Home & Kitchen,Air Fryer,3,9415,28245,2238.3,Rajasthan,Debit Card
+ORD02000,2023-11-08,Beauty,Perfume,1,12126,12126,3192.7,Uttar Pradesh,UPI
